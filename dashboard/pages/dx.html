@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DX Results - 2025 NYQP</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-brand">NYQP <span>2025</span></a>
+            <button class="nav-toggle" onclick="toggleNav()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html">Dashboard</a></li>
+                <li><a href="in-state.html">In-State</a></li>
+                <li><a href="out-of-state.html">Out-of-State</a></li>
+                <li><a href="dx.html" class="active">DX</a></li>
+                <li><a href="clubs.html">Clubs</a></li>
+                <li><a href="golden-logs.html">Golden Logs</a></li>
+                <li><a href="records.html">Records</a></li>
+                <li><a href="mobiles.html">Mobiles</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero" style="padding: 2rem;">
+        <h1>&#127758; DX & International Results</h1>
+        <p class="subtitle">75 DXCC countries worked during the 2025 NYQP</p>
+    </section>
+
+    <main class="container">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">75</div>
+                <div class="stat-label">DXCC Countries</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">2,176</div>
+                <div class="stat-label">VE QSOs</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-value">506</div>
+                <div class="stat-label">DL (Germany) QSOs</div>
+            </div>
+            <div class="stat-card red">
+                <div class="stat-value">OM2VL</div>
+                <div class="stat-label">Top DX Score</div>
+            </div>
+        </div>
+
+        <!-- Top DX Scores -->
+        <section class="section">
+            <h2 class="section-title">Top DX/VE Scores</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr><th>#</th><th>Call</th><th>Country/Province</th><th>Score</th><th>QSOs</th><th>Category</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">OM2VL</td><td>Slovakia</td><td><strong>40,310</strong></td><td>377</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">VE3YT</td><td>Ontario</td><td><strong>25,056</strong></td><td>270</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">VE3AQ</td><td>Ontario</td><td><strong>14,580</strong></td><td>162</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr><td>4</td><td class="callsign">VE3TM</td><td>Ontario</td><td><strong>12,728</strong></td><td>148</td><td><span class="badge badge-cw">SOH-CW</span></td></tr>
+                            <tr><td>5</td><td class="callsign">VE3OMV</td><td>Ontario</td><td><strong>8,697</strong></td><td>128</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr><td>6</td><td class="callsign">VE3SIF</td><td>Ontario</td><td><strong>6,188</strong></td><td>91</td><td><span class="badge badge-cw">SOQ-CW</span></td></tr>
+                            <tr><td>7</td><td class="callsign">VE7ZO</td><td>British Columbia</td><td><strong>6,020</strong></td><td>86</td><td><span class="badge badge-cw">SOH-CW</span></td></tr>
+                            <tr><td>8</td><td class="callsign">VE3IFT</td><td>Ontario</td><td><strong>5,300</strong></td><td>106</td><td><span class="badge badge-ssb">SOL-SSB</span></td></tr>
+                            <tr><td>9</td><td class="callsign">VE3MV</td><td>Ontario</td><td><strong>5,022</strong></td><td>82</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr><td>10</td><td class="callsign">VE3HZ</td><td>Ontario</td><td><strong>3,686</strong></td><td>75</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr><td>11</td><td class="callsign">VE3DQN</td><td>Ontario</td><td><strong>3,080</strong></td><td>55</td><td><span class="badge badge-cw">SOQ-CW</span></td></tr>
+                            <tr><td>12</td><td class="callsign">F8PDR</td><td>France</td><td><strong>2,808</strong></td><td>52</td><td><span class="badge badge-cw">SOH-CW</span></td></tr>
+                            <tr><td>13</td><td class="callsign">EA3NO</td><td>Spain</td><td><strong>2,360</strong></td><td>59</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr><td>14</td><td class="callsign">OH7MA</td><td>Finland</td><td><strong>870</strong></td><td>29</td><td><span class="badge badge-cw">SOH-CW</span></td></tr>
+                            <tr><td>15</td><td class="callsign">XE1AY</td><td>Mexico</td><td><strong>528</strong></td><td>22</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr><td>16</td><td class="callsign">SP1AEN</td><td>Poland</td><td><strong>56</strong></td><td>7</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr><td>17</td><td class="callsign">EA5XQ</td><td>Spain</td><td><strong>18</strong></td><td>3</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr><td>18</td><td class="callsign">DO6AN</td><td>Germany</td><td><strong>2</strong></td><td>1</td><td><span class="badge badge-cw">SOQ-CW</span></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- DXCC Countries Worked -->
+        <section class="section">
+            <h2 class="section-title">All 75 DXCC Countries Worked</h2>
+            <div class="chart-row">
+                <div class="card">
+                    <div class="card-header">Top Countries by QSO Count</div>
+                    <div class="chart-container" style="height: 500px;">
+                        <canvas id="dxCountryChart"></canvas>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">Rare DX (Single QSO Countries)</div>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.75rem; margin-top: 1rem;">
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">ZD7BG</span><br><small>St. Helena - 28 CW</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">ZS1PIG</span><br><small>South Africa - 21 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">ZL4CZ</span><br><small>New Zealand - 14 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">YB7ALQ</span><br><small>Indonesia - 14 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">5B4SPL</span><br><small>Cyprus - 21 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">9Y4M</span><br><small>Trinidad - 14 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">GU6EFB</span><br><small>Guernsey - 21 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">DX0X</span><br><small>Philippines - 21 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">S51GQ</span><br><small>Slovenia - 14 PH</small></div>
+                        <div class="golden-highlight" style="padding: 0.75rem;"><span class="callsign">PJ7AR</span><br><small>Sint Maarten - 14 PH</small></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Full Country List -->
+        <section class="section">
+            <h2 class="section-title">Complete DXCC Country List</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>Prefix</th><th>Country</th><th>QSOs</th><th>First QSO Band</th></tr></thead>
+                        <tbody>
+                            <tr><td class="callsign">K</td><td>United States</td><td>73,075</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">VE</td><td>Canada</td><td>2,176</td><td>7 CW</td></tr>
+                            <tr><td class="callsign">DL</td><td>Germany</td><td>506</td><td>7 CW</td></tr>
+                            <tr><td class="callsign">OM</td><td>Slovakia</td><td>360</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">F</td><td>France</td><td>109</td><td>7 CW</td></tr>
+                            <tr><td class="callsign">G</td><td>England</td><td>98</td><td>14 PH</td></tr>
+                            <tr><td class="callsign">EA</td><td>Spain</td><td>92</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">I</td><td>Italy</td><td>54</td><td>14 PH</td></tr>
+                            <tr><td class="callsign">LY</td><td>Lithuania</td><td>38</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">KP4</td><td>Puerto Rico</td><td>36</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">OH</td><td>Finland</td><td>34</td><td>21 CW</td></tr>
+                            <tr><td class="callsign">XE</td><td>Mexico</td><td>22</td><td>28 CW</td></tr>
+                            <tr><td class="callsign">KP2</td><td>US Virgin Islands</td><td>21</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">8P</td><td>Barbados</td><td>20</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">PA</td><td>Netherlands</td><td>16</td><td>28 CW</td></tr>
+                            <tr><td class="callsign">SP</td><td>Poland</td><td>16</td><td>21 CW</td></tr>
+                            <tr><td class="callsign">KL</td><td>Alaska</td><td>16</td><td>14 PH</td></tr>
+                            <tr><td class="callsign">HB</td><td>Switzerland</td><td>16</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">ON</td><td>Belgium</td><td>10</td><td>28 PH</td></tr>
+                            <tr><td class="callsign">KH6</td><td>Hawaii</td><td>9</td><td>28 CW</td></tr>
+                            <tr><td class="callsign">HA</td><td>Hungary</td><td>9</td><td>14 CW</td></tr>
+                            <tr><td class="callsign">YV</td><td>Venezuela</td><td>7</td><td>14 PH</td></tr>
+                            <tr><td class="callsign">PY</td><td>Brazil</td><td>7</td><td>28 CW</td></tr>
+                            <tr><td class="callsign">LZ</td><td>Bulgaria</td><td>7</td><td>28 CW</td></tr>
+                            <tr><td class="callsign">HK</td><td>Colombia</td><td>7</td><td>14 PH</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p><strong>2025 New York QSO Party</strong> | <a href="../index.html">Back to Dashboard</a></p>
+    </footer>
+
+    <script>
+        function toggleNav() { document.getElementById('navLinks').classList.toggle('show'); }
+
+        const countries = [
+            {c:'Canada',n:2176},{c:'Germany',n:506},{c:'Slovakia',n:360},{c:'France',n:109},
+            {c:'England',n:98},{c:'Spain',n:92},{c:'Italy',n:54},{c:'Lithuania',n:38},
+            {c:'Puerto Rico',n:36},{c:'Finland',n:34},{c:'Mexico',n:22},{c:'Barbados',n:20},
+            {c:'Netherlands',n:16},{c:'Poland',n:16},{c:'Switzerland',n:16},{c:'Alaska',n:16},
+            {c:'Belgium',n:10},{c:'Hawaii',n:9},{c:'Hungary',n:9},{c:'Venezuela',n:7}
+        ];
+
+        new Chart(document.getElementById('dxCountryChart'), {
+            type: 'bar',
+            data: {
+                labels: countries.map(c => c.c),
+                datasets: [{
+                    label: 'QSOs',
+                    data: countries.map(c => c.n),
+                    backgroundColor: '#38a169',
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    x: { beginAtZero: true, grid: { color: '#e2e8f0' } },
+                    y: { grid: { display: false } }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

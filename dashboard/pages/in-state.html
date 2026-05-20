@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In-State Results - 2025 NYQP</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-brand">NYQP <span>2025</span></a>
+            <button class="nav-toggle" onclick="toggleNav()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html">Dashboard</a></li>
+                <li><a href="in-state.html" class="active">In-State</a></li>
+                <li><a href="out-of-state.html">Out-of-State</a></li>
+                <li><a href="dx.html">DX</a></li>
+                <li><a href="clubs.html">Clubs</a></li>
+                <li><a href="golden-logs.html">Golden Logs</a></li>
+                <li><a href="records.html">Records</a></li>
+                <li><a href="mobiles.html">Mobiles</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero" style="padding: 2rem;">
+        <h1>&#127968; In-State (New York) Results</h1>
+        <p class="subtitle">Empire State operators competing across all categories</p>
+    </section>
+
+    <main class="container">
+        <!-- Stats -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">~195</div>
+                <div class="stat-label">NY Logs</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">385,035</div>
+                <div class="stat-label">Top Score (N2Y)</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-value">2,537</div>
+                <div class="stat-label">Most QSOs (N2Y)</div>
+            </div>
+            <div class="stat-card red">
+                <div class="stat-value">62</div>
+                <div class="stat-label">Counties Activated</div>
+            </div>
+        </div>
+
+        <!-- Filter Controls -->
+        <div class="filters">
+            <button class="filter-btn active" onclick="filterCategory('all')">All Categories</button>
+            <button class="filter-btn" onclick="filterCategory('multi')">Multi-Op</button>
+            <button class="filter-btn" onclick="filterCategory('soh')">High Power</button>
+            <button class="filter-btn" onclick="filterCategory('sol')">Low Power</button>
+            <button class="filter-btn" onclick="filterCategory('soq')">QRP</button>
+            <button class="filter-btn" onclick="filterCategory('mobile')">Mobile</button>
+            <input type="text" class="search-box" placeholder="Search callsign..." oninput="searchCall(this.value)">
+        </div>
+
+        <!-- Multi-Op Section -->
+        <section class="section" id="section-multi">
+            <h2 class="section-title">Multi-Operator</h2>
+            <div class="card">
+                <div class="card-header">Multi-Multi &amp; Multi-Single</div>
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Category</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">N2Y</td><td><strong>385,035</strong></td><td>2,537</td><td><span class="badge badge-mixed">MML-P</span></td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">W2FU</td><td><strong>253,302</strong></td><td>1,418</td><td><span class="badge badge-mixed">MMH</span></td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">N2T</td><td><strong>247,174</strong></td><td>1,489</td><td><span class="badge badge-mixed">MSH-M</span></td></tr>
+                            <tr><td>4</td><td class="callsign">K2A</td><td><strong>227,448</strong></td><td>1,458</td><td><span class="badge badge-mixed">MSH-M</span></td></tr>
+                            <tr><td>5</td><td class="callsign">KX2NY</td><td><strong>195,001</strong></td><td>1,043</td><td><span class="badge badge-mixed">MML</span></td></tr>
+                            <tr><td>6</td><td class="callsign">W2M</td><td><strong>172,272</strong></td><td>1,018</td><td><span class="badge badge-mixed">MML-P</span></td></tr>
+                            <tr><td>7</td><td class="callsign">N2PA</td><td><strong>87,978</strong></td><td>608</td><td><span class="badge badge-mixed">MML</span></td></tr>
+                            <tr><td>8</td><td class="callsign">K2V</td><td><strong>82,688</strong></td><td>646</td><td><span class="badge badge-mixed">MSH-M</span></td></tr>
+                            <tr><td>9</td><td class="callsign">W2OW</td><td><strong>82,491</strong></td><td>560</td><td><span class="badge badge-mixed">MML</span></td></tr>
+                            <tr><td>10</td><td class="callsign">W2CCC</td><td><strong>54,810</strong></td><td>609</td><td><span class="badge badge-ssb">MSH</span></td></tr>
+                            <tr><td>11</td><td class="callsign">W2E</td><td><strong>26,080</strong></td><td>223</td><td><span class="badge badge-mixed">MML</span></td></tr>
+                            <tr><td>12</td><td class="callsign">W2SO</td><td><strong>18,928</strong></td><td>243</td><td><span class="badge badge-mixed">MML</span></td></tr>
+                            <tr><td>13</td><td class="callsign">K2G</td><td><strong>11,264</strong></td><td>172</td><td><span class="badge badge-mixed">MSL-P</span></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Single-Op High Power -->
+        <section class="section" id="section-soh">
+            <h2 class="section-title">Single-Op High Power</h2>
+            <div class="card">
+                <div class="card-header">SOH - CW</div>
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">N2MF</td><td><strong>201,000</strong></td><td>1,005</td><td>1.4%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">K2SSS</td><td><strong>178,500</strong></td><td>875</td><td>2.2%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">N2ZX</td><td><strong>176,460</strong></td><td>865</td><td>1.3%</td></tr>
+                            <tr><td>4</td><td class="callsign">K4RUM</td><td><strong>171,072</strong></td><td>864</td><td>0.8%</td></tr>
+                            <tr><td>5</td><td class="callsign">K2NV</td><td><strong>170,800</strong></td><td>854</td><td>3.0%</td></tr>
+                            <tr><td>6</td><td class="callsign">KR2AA</td><td><strong>130,150</strong></td><td>685</td><td>1.0%</td></tr>
+                            <tr><td>7</td><td class="callsign">KM2L</td><td><strong>80,688</strong></td><td>492</td><td>2.8%</td></tr>
+                            <tr><td>8</td><td class="callsign">KE2SD</td><td><strong>57,084</strong></td><td>402</td><td>2.2%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">SOH - Mixed</div>
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">N2PP</td><td><strong>177,016</strong></td><td>994</td><td>1.2%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">WA2CP</td><td><strong>171,465</strong></td><td>1,074</td><td>2.1%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">W2TB</td><td><strong>155,346</strong></td><td>938</td><td>1.4%</td></tr>
+                            <tr><td>4</td><td class="callsign">WW2Y</td><td><strong>152,216</strong></td><td>892</td><td>1.5%</td></tr>
+                            <tr><td>5</td><td class="callsign">KO8SCA</td><td><strong>127,200</strong></td><td>851</td><td>1.2%</td></tr>
+                            <tr><td>6</td><td class="callsign">N2RC</td><td><strong>79,605</strong></td><td>504</td><td>2.4%</td></tr>
+                            <tr><td>7</td><td class="callsign">WB2JLR</td><td><strong>64,066</strong></td><td>578</td><td>1.9%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">SOH - SSB</div>
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">KD2EFR</td><td><strong>82,297</strong></td><td>799</td><td>0.6%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">WA2DNI</td><td><strong>71,550</strong></td><td>675</td><td>2.5%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">AB2FN</td><td><strong>20,000</strong></td><td>250</td><td>3.2%</td></tr>
+                            <tr><td>4</td><td class="callsign">KE2X</td><td><strong>12,530</strong></td><td>179</td><td>4.6%</td></tr>
+                            <tr><td>5</td><td class="callsign">W2REA</td><td><strong>10,836</strong></td><td>172</td><td>2.7%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Single-Op Low Power -->
+        <section class="section" id="section-sol">
+            <h2 class="section-title">Single-Op Low Power</h2>
+            <div class="card">
+                <div class="card-header">SOL - CW (includes Portable)</div>
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Category</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">NM2A</td><td><strong>143,592</strong></td><td>772</td><td>SOL-CW</td><td>0.9%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">K2ZR</td><td><strong>130,456</strong></td><td>709</td><td>SOL-CW</td><td>2.7%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">K2QB</td><td><strong>124,306</strong></td><td>683</td><td>SOL-CW</td><td>3.4%</td></tr>
+                            <tr><td>4</td><td class="callsign">W2TZ</td><td><strong>118,014</strong></td><td>663</td><td>SOL-CW</td><td>2.1%</td></tr>
+                            <tr><td>5</td><td class="callsign">K2EAG</td><td><strong>101,758</strong></td><td>613</td><td>SOL-CW-P</td><td>2.5%</td></tr>
+                            <tr><td>6</td><td class="callsign">N2GA</td><td><strong>97,104</strong></td><td>578</td><td>SOL-CW</td><td>4.2%</td></tr>
+                            <tr><td>7</td><td class="callsign">W2GR</td><td><strong>74,760</strong></td><td>445</td><td>SOL-CW-P</td><td>2.3%</td></tr>
+                            <tr><td>8</td><td class="callsign">KC2KY</td><td><strong>58,320</strong></td><td>405</td><td>SOL-CW</td><td>4.8%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">SOL - Mixed (includes Portable)</div>
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Category</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">WA2QAU</td><td><strong>131,250</strong></td><td>788</td><td>SOL-MIXED</td><td>1.6%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">K2XA</td><td><strong>109,416</strong></td><td>658</td><td>SOL-MIXED</td><td>1.6%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">WB2AMN</td><td><strong>103,096</strong></td><td>631</td><td>SOL-MIXED</td><td>4.2%</td></tr>
+                            <tr><td>4</td><td class="callsign">AA2ZW</td><td><strong>91,056</strong></td><td>574</td><td>SOL-MIXED</td><td>8.9%</td></tr>
+                            <tr><td>5</td><td class="callsign">NN2L</td><td><strong>82,863</strong></td><td>480</td><td>SOL-MIXED</td><td>2.6%</td></tr>
+                            <tr><td>6</td><td class="callsign">K2AL</td><td><strong>78,409</strong></td><td>550</td><td>SOL-MIXED-P</td><td>4.8%</td></tr>
+                            <tr><td>7</td><td class="callsign">WW2P</td><td><strong>43,992</strong></td><td>383</td><td>SOL-MIXED</td><td>1.0%</td></tr>
+                            <tr><td>8</td><td class="callsign">WB2SIH</td><td><strong>41,426</strong></td><td>314</td><td>SOL-MIXED</td><td>0.2%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">SOL - SSB (includes Portable)</div>
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Category</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">W2PJ</td><td><strong>85,374</strong></td><td>837</td><td>SOL-SSB</td><td>0.4%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">AH2O</td><td><strong>79,254</strong></td><td>777</td><td>SOL-SSB</td><td>0.8%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">KS2G</td><td><strong>50,976</strong></td><td>531</td><td>SOL-SSB</td><td>3.1%</td></tr>
+                            <tr><td>4</td><td class="callsign">WA2GOT</td><td><strong>46,314</strong></td><td>498</td><td>SOL-SSB-P</td><td>1.2%</td></tr>
+                            <tr><td>5</td><td class="callsign">W2IG</td><td><strong>43,878</strong></td><td>618</td><td>SOL-SSB-P</td><td>1.3%</td></tr>
+                            <tr><td>6</td><td class="callsign">N3KTA</td><td><strong>28,688</strong></td><td>326</td><td>SOL-SSB-P</td><td>2.3%</td></tr>
+                            <tr><td>7</td><td class="callsign">AC2XC</td><td><strong>25,481</strong></td><td>307</td><td>SOL-SSB</td><td>1.0%</td></tr>
+                            <tr><td>8</td><td class="callsign">W2GDJ</td><td><strong>23,280</strong></td><td>291</td><td>SOL-SSB</td><td>3.3%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- QRP -->
+        <section class="section" id="section-soq">
+            <h2 class="section-title">QRP (5 Watts or Less)</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Mode</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">NQ2W</td><td><strong>94,874</strong></td><td>533</td><td><span class="badge badge-cw">CW</span></td><td>1.7%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">AB3CX</td><td><strong>69,390</strong></td><td>411</td><td><span class="badge badge-mixed">Mixed</span></td><td>2.9%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">WA2NYY</td><td><strong>43,275</strong></td><td>300</td><td><span class="badge badge-mixed">Mixed</span></td><td>0.7%</td></tr>
+                            <tr><td>4</td><td class="callsign">W2AAA</td><td><strong>7,260</strong></td><td>121</td><td><span class="badge badge-ssb">SSB</span></td><td>2.4%</td></tr>
+                            <tr><td>5</td><td class="callsign">KD2CTZ</td><td><strong>6,496</strong></td><td>116</td><td><span class="badge badge-ssb">SSB</span></td><td>0.0%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Mobile -->
+        <section class="section" id="section-mobile">
+            <h2 class="section-title">&#128663; Mobile Operators</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Category</th><th>Err%</th></tr></thead>
+                        <tbody>
+                            <tr><td class="rank-1">1</td><td class="callsign">N2CU</td><td><strong>201,320</strong></td><td>1,548</td><td>SOL-MIXED-M</td><td>0.6%</td></tr>
+                            <tr><td class="rank-2">2</td><td class="callsign">K2Q</td><td><strong>141,840</strong></td><td>1,000</td><td>SOL-MIXED-M</td><td>3.0%</td></tr>
+                            <tr><td class="rank-3">3</td><td class="callsign">N2B</td><td><strong>39,537</strong></td><td>318</td><td>SOL-MIXED-M</td><td>3.0%</td></tr>
+                            <tr><td>4</td><td class="callsign">KV2X/M</td><td><strong>24,856</strong></td><td>239</td><td>SOL-CW-M</td><td>13.8%</td></tr>
+                            <tr><td>5</td><td class="callsign">W1WV/M</td><td><strong>9,955</strong></td><td>160</td><td>SOL-MIXED-M</td><td>5.4%</td></tr>
+                            <tr><td>6</td><td class="callsign">WT2X</td><td><strong>5,040</strong></td><td>72</td><td>SOL-CW-M</td><td>13.9%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Chart -->
+        <div class="chart-row">
+            <div class="card">
+                <div class="card-header">In-State Score Distribution by Category</div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="inStateChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p><strong>2025 New York QSO Party</strong> | <a href="../index.html">Back to Dashboard</a></p>
+    </footer>
+
+    <script>
+        function toggleNav() { document.getElementById('navLinks').classList.toggle('show'); }
+
+        function filterCategory(cat) {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+            const sections = ['multi', 'soh', 'sol', 'soq', 'mobile'];
+            sections.forEach(s => {
+                const el = document.getElementById('section-' + s);
+                if (el) el.style.display = (cat === 'all' || cat === s) ? 'block' : 'none';
+            });
+        }
+
+        function searchCall(val) {
+            const rows = document.querySelectorAll('tbody tr');
+            rows.forEach(row => {
+                const call = row.querySelector('.callsign');
+                if (call) {
+                    row.style.display = call.textContent.toLowerCase().includes(val.toLowerCase()) || val === '' ? '' : 'none';
+                }
+            });
+        }
+
+        // Chart
+        new Chart(document.getElementById('inStateChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Multi-Op', 'SOH-CW', 'SOH-Mixed', 'SOH-SSB', 'SOL-CW', 'SOL-Mixed', 'SOL-SSB', 'QRP', 'Mobile'],
+                datasets: [{
+                    label: 'Top Score',
+                    data: [385035, 201000, 177016, 82297, 143592, 131250, 85374, 94874, 201320],
+                    backgroundColor: ['#e53e3e', '#3182ce', '#805ad5', '#38a169', '#3182ce', '#805ad5', '#38a169', '#d69e2e', '#e53e3e'],
+                    borderRadius: 6,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: { beginAtZero: true, ticks: { callback: v => (v/1000)+'K' }, grid: { color: '#e2e8f0' } },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

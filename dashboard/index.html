@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025 New York QSO Party - Results Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">NYQP <span>2025</span></a>
+            <button class="nav-toggle" onclick="toggleNav()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html" class="active">Dashboard</a></li>
+                <li><a href="pages/in-state.html">In-State</a></li>
+                <li><a href="pages/out-of-state.html">Out-of-State</a></li>
+                <li><a href="pages/dx.html">DX</a></li>
+                <li><a href="pages/clubs.html">Clubs</a></li>
+                <li><a href="pages/golden-logs.html">Golden Logs</a></li>
+                <li><a href="pages/records.html">Records</a></li>
+                <li><a href="pages/mobiles.html">Mobiles</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="hero">
+        <h1>2025 New York QSO Party</h1>
+        <p class="subtitle">Official Results Dashboard</p>
+        <p class="date">October 18-19, 2025 | 1400 UTC Saturday - 0200 UTC Sunday</p>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Key Statistics -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">513</div>
+                <div class="stat-label">Logs Submitted</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">78,373</div>
+                <div class="stat-label">Total QSOs</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">6,068</div>
+                <div class="stat-label">Unique Callsigns</div>
+            </div>
+            <div class="stat-card red">
+                <div class="stat-value">75</div>
+                <div class="stat-label">DXCC Countries</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-value">97.5%</div>
+                <div class="stat-label">QSO Accuracy</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">8.9M</div>
+                <div class="stat-label">Total Points</div>
+            </div>
+        </div>
+
+        <!-- Top 10 Overall -->
+        <section class="section">
+            <h2 class="section-title">&#127942; Top 10 Overall Scores</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table id="topTable">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Callsign</th>
+                                <th>Score</th>
+                                <th>QSOs</th>
+                                <th>Category</th>
+                                <th>Type</th>
+                            </tr>
+                        </thead>
+                        <tbody id="topTableBody"></tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Charts Row -->
+        <div class="chart-row">
+            <div class="card">
+                <div class="card-header">Participation by Category</div>
+                <div class="chart-container">
+                    <canvas id="categoryChart"></canvas>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">Participant Types</div>
+                <div class="chart-container">
+                    <canvas id="participantChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Navigation Cards -->
+        <section class="section">
+            <h2 class="section-title">&#128204; Explore Results</h2>
+            <div class="category-grid">
+                <a href="pages/in-state.html" class="category-card" style="border-left-color: #3182ce;">
+                    <h3>&#127968; In-State (New York)</h3>
+                    <p>NY operators competing from the Empire State across all categories</p>
+                    <div class="cat-stat">~195 Logs</div>
+                </a>
+                <a href="pages/out-of-state.html" class="category-card" style="border-left-color: #d69e2e;">
+                    <h3>&#127757; Out-of-State</h3>
+                    <p>Operators from across the US chasing NY counties</p>
+                    <div class="cat-stat">~290 Logs</div>
+                </a>
+                <a href="pages/dx.html" class="category-card" style="border-left-color: #38a169;">
+                    <h3>&#127758; DX Participants</h3>
+                    <p>International stations working the contest from 75 DXCC countries</p>
+                    <div class="cat-stat">75 Countries</div>
+                </a>
+                <a href="pages/mobiles.html" class="category-card" style="border-left-color: #e53e3e;">
+                    <h3>&#128663; Mobile Operators</h3>
+                    <p>County-activating mobiles driving participation across New York</p>
+                    <div class="cat-stat">9 Mobiles</div>
+                </a>
+                <a href="pages/golden-logs.html" class="category-card" style="border-left-color: #d69e2e;">
+                    <h3>&#11088; Golden Logs</h3>
+                    <p>High-scoring logs with exceptional accuracy rates</p>
+                    <div class="cat-stat">Elite Accuracy</div>
+                </a>
+                <a href="pages/records.html" class="category-card" style="border-left-color: #805ad5;">
+                    <h3>&#127941; Records & Milestones</h3>
+                    <p>New records set and all-time performance milestones</p>
+                    <div class="cat-stat">2025 Records</div>
+                </a>
+            </div>
+        </section>
+
+        <!-- DX Countries Chart -->
+        <div class="chart-row">
+            <div class="card">
+                <div class="card-header">Top DX Countries by QSO Count</div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="dxChart"></canvas>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">Score Distribution (Top 50)</div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="scoreChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Soapbox Highlights -->
+        <section class="section">
+            <h2 class="section-title">&#128172; Soapbox Highlights</h2>
+            <div class="card">
+                <div id="soapboxContainer"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p><strong>2025 New York QSO Party</strong> | Sponsored by the <a href="#">Rochester DX Association</a></p>
+        <p style="margin-top: 0.5rem; font-size: 0.85rem;">Log checking by K1EA Software v2.0.039 | QT Version 6.3.1</p>
+        <p style="margin-top: 0.5rem; font-size: 0.8rem; opacity: 0.7;">Contest: October 18-19, 2025 | 513 Logs | 78,373 QSOs</p>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script>
+        // Mobile nav toggle
+        function toggleNav() {
+            document.getElementById('navLinks').classList.toggle('show');
+        }
+
+        // Populate Top 10 Table
+        const topBody = document.getElementById('topTableBody');
+        NYQP_DATA.topOverall.forEach((entry, i) => {
+            const rankClass = i < 3 ? `rank-${i+1}` : '';
+            topBody.innerHTML += `
+                <tr>
+                    <td class="${rankClass}">${i+1}</td>
+                    <td class="callsign">${entry.call}</td>
+                    <td><strong>${entry.score.toLocaleString()}</strong></td>
+                    <td>${entry.qsos.toLocaleString()}</td>
+                    <td><span class="badge badge-${entry.category.includes('CW') ? 'cw' : entry.category.includes('SSB') ? 'ssb' : 'mixed'}">${entry.category}</span></td>
+                    <td>${entry.type}</td>
+                </tr>
+            `;
+        });
+
+        // Category Chart
+        new Chart(document.getElementById('categoryChart'), {
+            type: 'bar',
+            data: {
+                labels: ['CW', 'SSB', 'Mixed', 'QRP', 'Multi-Op', 'Club'],
+                datasets: [{
+                    label: 'Participants',
+                    data: [150, 97, 130, 12, 19, 7],
+                    backgroundColor: ['#3182ce', '#38a169', '#805ad5', '#d69e2e', '#e53e3e', '#718096'],
+                    borderRadius: 6,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: { beginAtZero: true, grid: { color: '#e2e8f0' } },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+
+        // Participant Type Pie
+        new Chart(document.getElementById('participantChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['In-State (NY)', 'Out-of-State', 'DX/VE'],
+                datasets: [{
+                    data: [195, 290, 28],
+                    backgroundColor: ['#3182ce', '#d69e2e', '#38a169'],
+                    borderWidth: 2,
+                    borderColor: '#fff',
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { position: 'bottom' }
+                }
+            }
+        });
+
+        // DX Countries Chart
+        const dxData = NYQP_DATA.dxCountries.topDXCC.slice(0, 15);
+        new Chart(document.getElementById('dxChart'), {
+            type: 'bar',
+            data: {
+                labels: dxData.map(d => d.country),
+                datasets: [{
+                    label: 'QSOs',
+                    data: dxData.map(d => d.count),
+                    backgroundColor: '#38a169',
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    x: { beginAtZero: true, grid: { color: '#e2e8f0' } },
+                    y: { grid: { display: false } }
+                }
+            }
+        });
+
+        // Score Distribution
+        const topScores = NYQP_DATA.topOverall.map(e => e.score);
+        new Chart(document.getElementById('scoreChart'), {
+            type: 'bar',
+            data: {
+                labels: NYQP_DATA.topOverall.map(e => e.call),
+                datasets: [{
+                    label: 'Score',
+                    data: topScores,
+                    backgroundColor: 'rgba(26, 54, 93, 0.7)',
+                    borderColor: '#1a365d',
+                    borderWidth: 1,
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: { beginAtZero: true, grid: { color: '#e2e8f0' },
+                        ticks: { callback: v => (v/1000) + 'K' }
+                    },
+                    x: { grid: { display: false },
+                        ticks: { font: { family: 'JetBrains Mono', size: 10 } }
+                    }
+                }
+            }
+        });
+
+        // Soapbox
+        const soapbox = document.getElementById('soapboxContainer');
+        NYQP_DATA.soapbox.forEach(s => {
+            soapbox.innerHTML += `
+                <div style="padding: 1rem 0; border-bottom: 1px solid var(--border);">
+                    <span class="callsign">${s.call}:</span>
+                    <span style="color: var(--text-light); font-style: italic;"> "${s.text}"</span>
+                </div>
+            `;
+        });
+    </script>
+</body>
+</html>
