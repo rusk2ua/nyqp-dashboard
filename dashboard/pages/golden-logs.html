@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golden Logs - 2025 NYQP</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-brand">NYQP <span>2025</span></a>
+            <button class="nav-toggle" onclick="toggleNav()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html">Dashboard</a></li>
+                <li><a href="in-state.html">In-State</a></li>
+                <li><a href="out-of-state.html">Out-of-State</a></li>
+                <li><a href="dx.html">DX</a></li>
+                <li><a href="clubs.html">Clubs</a></li>
+                <li><a href="golden-logs.html" class="active">Golden Logs</a></li>
+                <li><a href="records.html">Records</a></li>
+                <li><a href="mobiles.html">Mobiles</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero" style="padding: 2rem; background: linear-gradient(135deg, #92400e 0%, #d69e2e 100%);">
+        <h1>&#11088; Golden Logs</h1>
+        <p class="subtitle">High-scoring logs with exceptional accuracy - the gold standard of contesting</p>
+    </section>
+
+    <main class="container">
+        <div class="stats-grid">
+            <div class="stat-card gold">
+                <div class="stat-value">97.5%</div>
+                <div class="stat-label">Overall QSO Accuracy</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">0.2%</div>
+                <div class="stat-label">Best Error Rate (K2A)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">385K</div>
+                <div class="stat-label">Top Accurate Score</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-value">2,537</div>
+                <div class="stat-label">Most QSOs (N2Y)</div>
+            </div>
+        </div>
+
+        <!-- What is a Golden Log -->
+        <section class="section">
+            <div class="card">
+                <div class="card-header">What Makes a Golden Log?</div>
+                <p style="color: var(--text-light); line-height: 1.8;">
+                    A "Golden Log" represents the pinnacle of operating excellence - combining a high score
+                    with an exceptionally low error rate. These operators demonstrate that you don't have to
+                    sacrifice accuracy for speed. The logs highlighted below achieved outstanding scores
+                    while maintaining error rates well below the contest average of 2.5%.
+                </p>
+            </div>
+        </section>
+
+        <!-- Top Golden Logs: High Score + Low Error -->
+        <section class="section">
+            <h2 class="section-title">&#127942; Elite Golden Logs (Score > 50K, Error < 3%)</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Error %</th><th>Category</th><th>Rating</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="rank-1">1</td><td class="callsign">K2A</td>
+                                <td><strong>227,448</strong></td><td>1,458</td><td><strong style="color: #38a169;">0.2%</strong></td>
+                                <td>MSH-M</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td class="rank-2">2</td><td class="callsign">W2PJ</td>
+                                <td><strong>85,374</strong></td><td>837</td><td><strong style="color: #38a169;">0.4%</strong></td>
+                                <td>SOL-SSB</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td class="rank-3">3</td><td class="callsign">N2CU</td>
+                                <td><strong>201,320</strong></td><td>1,548</td><td><strong style="color: #38a169;">0.6%</strong></td>
+                                <td>SOL-MIXED-M</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>4</td><td class="callsign">KD2EFR</td>
+                                <td><strong>82,297</strong></td><td>799</td><td><strong style="color: #38a169;">0.6%</strong></td>
+                                <td>SOH-SSB</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>5</td><td class="callsign">K4RUM</td>
+                                <td><strong>171,072</strong></td><td>864</td><td><strong style="color: #38a169;">0.8%</strong></td>
+                                <td>SOH-CW</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>6</td><td class="callsign">AH2O</td>
+                                <td><strong>79,254</strong></td><td>777</td><td><strong style="color: #38a169;">0.8%</strong></td>
+                                <td>SOL-SSB</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>7</td><td class="callsign">NM2A</td>
+                                <td><strong>143,592</strong></td><td>772</td><td><strong style="color: #38a169;">0.9%</strong></td>
+                                <td>SOL-CW</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>8</td><td class="callsign">N2T</td>
+                                <td><strong>247,174</strong></td><td>1,489</td><td><strong style="color: #38a169;">0.9%</strong></td>
+                                <td>MSH-M</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>9</td><td class="callsign">WW2P</td>
+                                <td><strong>43,992</strong></td><td>383</td><td><strong style="color: #38a169;">1.0%</strong></td>
+                                <td>SOL-MIXED</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>10</td><td class="callsign">KR2AA</td>
+                                <td><strong>130,150</strong></td><td>685</td><td><strong style="color: #38a169;">1.0%</strong></td>
+                                <td>SOH-CW</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>11</td><td class="callsign">N2PP</td>
+                                <td><strong>177,016</strong></td><td>994</td><td><strong style="color: #38a169;">1.2%</strong></td>
+                                <td>SOH-MIXED</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>12</td><td class="callsign">KO8SCA</td>
+                                <td><strong>127,200</strong></td><td>851</td><td><strong style="color: #38a169;">1.2%</strong></td>
+                                <td>SOH-MIXED</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>13</td><td class="callsign">N2ZX</td>
+                                <td><strong>176,460</strong></td><td>865</td><td><strong style="color: #38a169;">1.3%</strong></td>
+                                <td>SOH-CW</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>14</td><td class="callsign">N2MF</td>
+                                <td><strong>201,000</strong></td><td>1,005</td><td><strong style="color: #38a169;">1.4%</strong></td>
+                                <td>SOH-CW</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                            <tr>
+                                <td>15</td><td class="callsign">W2FU</td>
+                                <td><strong>253,302</strong></td><td>1,418</td><td><strong style="color: #38a169;">1.4%</strong></td>
+                                <td>MMH</td><td><span class="record-badge">&#11088; GOLD</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Perfect Logs (0% error with 50+ QSOs) -->
+        <section class="section">
+            <h2 class="section-title">&#128175; Perfect Logs (0.0% Error Rate, 50+ QSOs)</h2>
+            <div class="card">
+                <p style="color: var(--text-light); margin-bottom: 1rem;">These operators submitted logs with absolutely zero errors detected during cross-checking - a remarkable achievement!</p>
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>Call</th><th>Score</th><th>QSOs</th><th>Category</th></tr></thead>
+                        <tbody>
+                            <tr><td class="callsign">NQ2U</td><td><strong>17,208</strong></td><td>239</td><td>SOL-SSB</td></tr>
+                            <tr><td class="callsign">KD2CTZ</td><td><strong>6,496</strong></td><td>116</td><td>SOQ-SSB</td></tr>
+                            <tr><td class="callsign">KC2BBI</td><td><strong>6,240</strong></td><td>120</td><td>SOL-SSB</td></tr>
+                            <tr><td class="callsign">W9TCV</td><td><strong>3,500</strong></td><td>100</td><td>SOL-SSB-P</td></tr>
+                            <tr><td class="callsign">N2JJ</td><td><strong>22,134</strong></td><td>236</td><td>SOL-MIXED-P</td></tr>
+                            <tr><td class="callsign">K8MR</td><td><strong>14,950</strong></td><td>179</td><td>SOL-MIXED</td></tr>
+                            <tr><td class="callsign">K0MPH</td><td><strong>9,840</strong></td><td>125</td><td>SOL-MIXED</td></tr>
+                            <tr><td class="callsign">AC0W</td><td><strong>8,610</strong></td><td>140</td><td>SOL-MIXED</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Accuracy Chart -->
+        <div class="chart-row">
+            <div class="card">
+                <div class="card-header">Score vs. Error Rate (Top 30 Scores)</div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="accuracyChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p><strong>2025 New York QSO Party</strong> | <a href="../index.html">Back to Dashboard</a></p>
+    </footer>
+
+    <script>
+        function toggleNav() { document.getElementById('navLinks').classList.toggle('show'); }
+
+        // Score vs Error Rate scatter
+        const scatterData = [
+            {x: 385035, y: 2.9, call: 'N2Y'},
+            {x: 253302, y: 1.4, call: 'W2FU'},
+            {x: 247174, y: 0.9, call: 'N2T'},
+            {x: 227448, y: 0.2, call: 'K2A'},
+            {x: 201320, y: 0.6, call: 'N2CU'},
+            {x: 201000, y: 1.4, call: 'N2MF'},
+            {x: 195001, y: 3.1, call: 'KX2NY'},
+            {x: 178500, y: 2.2, call: 'K2SSS'},
+            {x: 177016, y: 1.2, call: 'N2PP'},
+            {x: 176460, y: 1.3, call: 'N2ZX'},
+            {x: 172272, y: 0.9, call: 'W2M'},
+            {x: 171465, y: 2.1, call: 'WA2CP'},
+            {x: 171072, y: 0.8, call: 'K4RUM'},
+            {x: 155346, y: 1.4, call: 'W2TB'},
+            {x: 152216, y: 1.5, call: 'WW2Y'},
+            {x: 143592, y: 0.9, call: 'NM2A'},
+            {x: 141840, y: 3.0, call: 'K2Q'},
+            {x: 131250, y: 1.6, call: 'WA2QAU'},
+            {x: 130456, y: 2.7, call: 'K2ZR'},
+            {x: 130150, y: 1.0, call: 'KR2AA'},
+        ];
+
+        new Chart(document.getElementById('accuracyChart'), {
+            type: 'scatter',
+            data: {
+                datasets: [{
+                    label: 'Score vs Error %',
+                    data: scatterData,
+                    backgroundColor: scatterData.map(d => d.y < 1.5 ? '#d69e2e' : '#3182ce'),
+                    borderColor: scatterData.map(d => d.y < 1.5 ? '#92400e' : '#2c5282'),
+                    borderWidth: 1,
+                    pointRadius: 8,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: (ctx) => {
+                                const d = scatterData[ctx.dataIndex];
+                                return `${d.call}: ${d.x.toLocaleString()} pts, ${d.y}% error`;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: { title: { display: true, text: 'Score' }, ticks: { callback: v => (v/1000)+'K' }, grid: { color: '#e2e8f0' } },
+                    y: { title: { display: true, text: 'Error Rate %' }, beginAtZero: true, grid: { color: '#e2e8f0' } }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

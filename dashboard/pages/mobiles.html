@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Operators - 2025 NYQP</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-brand">NYQP <span>2025</span></a>
+            <button class="nav-toggle" onclick="toggleNav()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html">Dashboard</a></li>
+                <li><a href="in-state.html">In-State</a></li>
+                <li><a href="out-of-state.html">Out-of-State</a></li>
+                <li><a href="dx.html">DX</a></li>
+                <li><a href="clubs.html">Clubs</a></li>
+                <li><a href="golden-logs.html">Golden Logs</a></li>
+                <li><a href="records.html">Records</a></li>
+                <li><a href="mobiles.html" class="active">Mobiles</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero" style="padding: 2rem; background: linear-gradient(135deg, #c53030 0%, #e53e3e 100%);">
+        <h1>&#128663; Mobile Operators</h1>
+        <p class="subtitle">The backbone of the NYQP - activating counties across New York State</p>
+    </section>
+
+    <main class="container">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">9+</div>
+                <div class="stat-label">Mobile Stations</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">201,320</div>
+                <div class="stat-label">Top Mobile Score</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-value">1,548</div>
+                <div class="stat-label">Most Mobile QSOs</div>
+            </div>
+            <div class="stat-card red">
+                <div class="stat-value">62</div>
+                <div class="stat-label">NY Counties On Air</div>
+            </div>
+        </div>
+
+        <!-- Why Mobiles Matter -->
+        <section class="section">
+            <div class="card">
+                <div class="card-header">Why Mobile Operators Are Essential</div>
+                <p style="color: var(--text-light); line-height: 1.8;">
+                    Mobile operators are the lifeblood of the NYQP. By driving through multiple counties,
+                    they give out rare multipliers that out-of-state stations desperately need. A single
+                    mobile can activate 10+ counties in a contest weekend, creating excitement and driving
+                    participation from hundreds of chasers. Without mobiles, many NY counties would go
+                    unrepresented on the air.
+                </p>
+            </div>
+        </section>
+
+        <!-- Single-Op Mobile Results -->
+        <section class="section">
+            <h2 class="section-title">Single-Operator Mobile Results</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Mode</th><th>Error %</th></tr></thead>
+                        <tbody>
+                            <tr>
+                                <td class="rank-1">1</td><td class="callsign">N2CU</td>
+                                <td><strong>201,320</strong></td><td>1,548</td>
+                                <td><span class="badge badge-mixed">Mixed</span></td><td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td class="rank-2">2</td><td class="callsign">K2Q</td>
+                                <td><strong>141,840</strong></td><td>1,000</td>
+                                <td><span class="badge badge-mixed">Mixed</span></td><td>3.0%</td>
+                            </tr>
+                            <tr>
+                                <td class="rank-3">3</td><td class="callsign">N2B</td>
+                                <td><strong>39,537</strong></td><td>318</td>
+                                <td><span class="badge badge-mixed">Mixed</span></td><td>3.0%</td>
+                            </tr>
+                            <tr>
+                                <td>4</td><td class="callsign">KV2X/M</td>
+                                <td><strong>24,856</strong></td><td>239</td>
+                                <td><span class="badge badge-cw">CW</span></td><td>13.8%</td>
+                            </tr>
+                            <tr>
+                                <td>5</td><td class="callsign">W1WV/M</td>
+                                <td><strong>9,955</strong></td><td>160</td>
+                                <td><span class="badge badge-mixed">Mixed</span></td><td>5.4%</td>
+                            </tr>
+                            <tr>
+                                <td>6</td><td class="callsign">WT2X</td>
+                                <td><strong>5,040</strong></td><td>72</td>
+                                <td><span class="badge badge-cw">CW</span></td><td>13.9%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Multi-Op Mobile -->
+        <section class="section">
+            <h2 class="section-title">Multi-Operator Mobile Results</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table>
+                        <thead><tr><th>#</th><th>Call</th><th>Score</th><th>QSOs</th><th>Category</th><th>Error %</th></tr></thead>
+                        <tbody>
+                            <tr>
+                                <td class="rank-1">1</td><td class="callsign">N2T</td>
+                                <td><strong>247,174</strong></td><td>1,489</td>
+                                <td>MSH-M</td><td>0.9%</td>
+                            </tr>
+                            <tr>
+                                <td class="rank-2">2</td><td class="callsign">K2A</td>
+                                <td><strong>227,448</strong></td><td>1,458</td>
+                                <td>MSH-M</td><td>0.2%</td>
+                            </tr>
+                            <tr>
+                                <td class="rank-3">3</td><td class="callsign">K2V</td>
+                                <td><strong>82,688</strong></td><td>646</td>
+                                <td>MSH-M</td><td>2.1%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Mobile Score Chart -->
+        <div class="chart-row">
+            <div class="card">
+                <div class="card-header">Mobile Operator Scores Comparison</div>
+                <div class="chart-container" style="height: 300px;">
+                    <canvas id="mobileChart"></canvas>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">Mobile QSO Counts</div>
+                <div class="chart-container" style="height: 300px;">
+                    <canvas id="mobileQSOChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tips for Mobile Operation -->
+        <section class="section">
+            <h2 class="section-title">&#128161; Want to Go Mobile in 2026?</h2>
+            <div class="category-grid">
+                <div class="category-card" style="border-left-color: var(--accent);">
+                    <h3>Plan Your Route</h3>
+                    <p>Target rare counties that are unlikely to have fixed stations. Northern and western NY counties are always in demand!</p>
+                </div>
+                <div class="category-card" style="border-left-color: var(--info);">
+                    <h3>Equipment Tips</h3>
+                    <p>A simple setup works: HF radio, screwdriver antenna or hamstick, and a good logging app. N2TO used just 5W CW and 20W Phone!</p>
+                </div>
+                <div class="category-card" style="border-left-color: var(--success);">
+                    <h3>County Line Trick</h3>
+                    <p>W9TCV operated from the ROC/ORA county line in Harriman SP - giving out two counties without moving! Smart operating.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Soapbox from mobiles -->
+        <section class="section">
+            <h2 class="section-title">&#128172; From the Mobile Soapbox</h2>
+            <div class="card">
+                <div class="golden-highlight" style="margin-bottom: 1rem;">
+                    <span class="callsign">N2TO:</span>
+                    <span style="font-style: italic;"> "Outdoor portable, Richmond County, FT-857D, CW 5W, Phone 20W, homemade 44' center-fed inverted-vee doublet up 18.67'"</span>
+                </div>
+                <div class="golden-highlight" style="margin-bottom: 1rem;">
+                    <span class="callsign">W9TCV:</span>
+                    <span style="font-style: italic;"> "Operated on the county line of ROC/ORA in Harriman SP. Got 100 contacts with 20W and a vert on my bike rack. Thanks to all who participated and 73!"</span>
+                </div>
+                <div class="golden-highlight" style="margin-bottom: 1rem;">
+                    <span class="callsign">W2LC:</span>
+                    <span style="font-style: italic;"> "I spent most of the summer optimizing my mobile set-up and I was planning on a mobile effort... So next year for NNY!"</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p><strong>2025 New York QSO Party</strong> | <a href="../index.html">Back to Dashboard</a></p>
+    </footer>
+
+    <script>
+        function toggleNav() { document.getElementById('navLinks').classList.toggle('show'); }
+
+        // Mobile Scores
+        new Chart(document.getElementById('mobileChart'), {
+            type: 'bar',
+            data: {
+                labels: ['N2T', 'K2A', 'N2CU', 'K2Q', 'K2V', 'N2B', 'KV2X/M', 'W1WV/M', 'WT2X'],
+                datasets: [{
+                    label: 'Score',
+                    data: [247174, 227448, 201320, 141840, 82688, 39537, 24856, 9955, 5040],
+                    backgroundColor: ['#e53e3e', '#e53e3e', '#3182ce', '#3182ce', '#e53e3e', '#3182ce', '#3182ce', '#3182ce', '#3182ce'],
+                    borderRadius: 6,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: { beginAtZero: true, ticks: { callback: v => (v/1000)+'K' }, grid: { color: '#e2e8f0' } },
+                    x: { grid: { display: false }, ticks: { font: { family: 'JetBrains Mono', size: 10 } } }
+                }
+            }
+        });
+
+        // Mobile QSOs
+        new Chart(document.getElementById('mobileQSOChart'), {
+            type: 'bar',
+            data: {
+                labels: ['N2CU', 'N2T', 'K2A', 'K2Q', 'K2V', 'N2B', 'KV2X/M', 'W1WV/M', 'WT2X'],
+                datasets: [{
+                    label: 'QSOs',
+                    data: [1548, 1489, 1458, 1000, 646, 318, 239, 160, 72],
+                    backgroundColor: '#805ad5',
+                    borderRadius: 6,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: { beginAtZero: true, grid: { color: '#e2e8f0' } },
+                    x: { grid: { display: false }, ticks: { font: { family: 'JetBrains Mono', size: 10 } } }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
