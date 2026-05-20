@@ -1,0 +1,6 @@
+    **** OFF BAND NILS CAUSED ****
+
+Some single band logs do not include qsos on the 'off-band', causing 'off-band' nils for the 
+other station. This file quantifies these, enabling log checkers to identify problem logs 
+and take action. These off-band NILs cause penalties for the stations that worked them.
+

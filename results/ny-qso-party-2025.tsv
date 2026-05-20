@@ -1,0 +1,514 @@
+cabrillo_id	year	callsign	host_callsign	category_id	section_id	dxcc_prefix	claimed_score	raw_score	score	q_total	m_total	busts	nils	exchs	bcvs	error_pct	reduction_pct	unique_pct	busts_caused	nils_caused	exchs_caused	late_log_flag	clb_abbr	operators	grid_locator	sequencenum	emailadr	log_filename	rpt_filename	minutes_on	date_time_processed=2026-03-28T21:49:01Z	YL	Rookie	Youth12	Youth17	Net Qso	Net County	Net State/Prov	q_PH	pts_PH	q_CW	pts_CW	q_DG	pts_DG	Reported Locations
+NYQP	2025	AA0AW		SOL-CW	MN	K	1064	1064	1064	28	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			aa0aw@arrl.net	aa0aw.log	aa0aw.rpt	64		0	0	0	0	28	19	0	0	0	28	19	0	0	
+NYQP	2025	AA0FO		SOH-MIXED	KS	K	5845	5845	5705	98	0	0	0	2	0	2.0%	2.4	0.0%	2	0	0	0		 			mrtoburen7@gmail.com	aa0fo.log	aa0fo.rpt	229		0	0	0	0	98	35	0	33	15	65	20	0	0	
+NYQP	2025	AA0O		SOL-MIXED	FL	K	396	341	341	17	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			patrickconnelly@yahoo.com	aa0o.log	aa0o.rpt	34		0	0	0	0	17	11	0	3	3	14	8	0	0	
+NYQP	2025	AA1NK		SOL-CW	MA	K	1672	1672	1394	41	0	2	1	0	0	6.8%	16.6	0.0%	0	0	0	0		 			nkajita@outlook.com	aa1nk.log	aa1nk.rpt	163		0	0	0	0	41	17	0	0	0	41	17	0	0	
+NYQP	2025	AA2IL		SOL-CW	CA	K		10560	10560	132	0	0	0	0	0	0.0%	0.0	0.0%	2	1	0	0		 			joe.aa2il@gmail.com	aa2il.log	aa2il.rpt	382		0	0	0	0	132	40	0	0	0	132	40	0	0	
+NYQP	2025	AA2ZW		SOL-MIXED	NY	K	99968	99968	91056	574	0	13	14	0	0	4.5%	8.9	1.2%	6	8	0	0		 			AA2ZW6@GMAIL.COM	aa2zw.log	aa2zw.rpt	678		0	0	0	0	574	42	42	64	14	510	28	0	0	ERI
+NYQP	2025	AA3R		SOH-MIXED	NJ	K	30415	29862	24072	294	0	4	36	2	0	12.5%	19.4	0.3%	4	6	0	0		 			lizzyfan4986@gmail.com	aa3r.log	aa3r.rpt	625		0	0	0	0	294	51	0	116	20	178	31	0	0	
+NYQP	2025	AA4TI		SOH-MIXED	FL	K	4278	4216	4092	72	0	2	0	0	0	2.7%	2.9	1.4%	0	0	0	0		 			swmorton50@gmail.com	aa4ti.log	aa4ti.rpt	130		0	0	0	0	72	31	0	12	5	60	26	0	0	
+NYQP	2025	AB1BL		SOL-SSB-M	NY	K	0	1647	1296	54	0	1	4	2	0	11.5%	21.3	0.0%	0	3	3	0		 			emersongardner@gmail.com	ab1bl.log	ab1bl.rpt	168		0	0	0	0	54	21	3	54	21	0	0	0	0	SCU SEN TOM
+NYQP	2025	AB2FN		SOH-SSB	NY	K		20655	20000	250	0	4	1	0	0	2.0%	3.2	4.3%	0	2	0	0		 			richmcvicar@charter.net	ab2fn.log	ab2fn.rpt	363		0	0	0	0	250	54	26	250	54	0	0	0	0	ONO
+NYQP	2025	AB2NM		SOL-SSB	NY	K		30	20	4	0	0	0	1	0	20.0%	33.3	0.0%	1	0	0	0		 			ab2nm@arrl.net	ab2nm.log	ab2nm.rpt	12		0	0	0	0	4	2	3	4	2	0	0	0	0	MON
+NYQP	2025	AB3CX		SOQ-MIXED	NY	K	71300	71484	69390	411	0	2	2	0	0	1.0%	2.9	0.0%	7	6	0	0		 			michael.s.schwartzman@gmail.com	ab3cx.log	ab3cx.rpt	660		0	0	0	0	411	51	39	51	12	360	39	0	0	OTS
+NYQP	2025	AB5XM		CK	TX	K	2	2	2	1	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			asnorthmain@gmail.com	ab5xm.log	ab5xm.rpt	0		0	0	0	0	1	1	0	0	0	1	1	0	0	
+NYQP	2025	AC0W		SOL-MIXED	MN	K	8610	8610	8610	140	0	0	0	0	0	0.0%	0.0	0.0%	1	1	0	0		 			ac0w@charter.net	ac0w.log	ac0w.rpt	255		0	0	0	0	140	35	0	34	6	106	29	0	0	
+NYQP	2025	AC2FA		SOL-MIXED	NY	K	8955	8428	7280	96	0	5	2	0	0	6.8%	13.6	1.9%	0	1	0	0		 			roneill89@gmail.com	ac2fa.log	ac2fa.rpt	332		0	0	0	0	96	28	12	13	3	80	25	3	0	ERI
+NYQP	2025	AC2N		SOL-SSB	FL	K	748	748	672	32	0	2	0	0	0	5.9%	10.2	0.0%	0	0	0	0		 			ac2n1959@gmail.com	ac2n.log	ac2n.rpt	265		0	0	0	0	32	21	0	32	21	0	0	0	0	
+NYQP	2025	AC2RL		SOL-MIXED	NY	K	10900	10900	10800	143	0	0	1	0	0	0.7%	0.9	0.0%	2	5	0	0		 			ac2rl@arrl.net	ac2rl.log	ac2rl.rpt	366		0	0	0	0	143	45	5	70	19	73	26	0	0	MON
+NYQP	2025	AC2VE		SOL-SSB	NY	K	1664	1664	1488	48	0	1	3	0	0	7.7%	10.6	0.0%	0	0	0	0		 			dwmotrac@aol.com	ac2ve.log	ac2ve.rpt	314		0	0	0	0	48	25	6	48	25	0	0	0	0	MON
+NYQP	2025	AC2XC		SOL-SSB	NY	K	25730	25730	25481	307	0	0	3	0	0	1.0%	1.0	2.9%	1	1	0	0		 			ac2xc@protonmail.com	ac2xc.log	ac2xc.rpt	575		0	0	0	0	307	52	31	307	52	0	0	0	0	ERI
+NYQP	2025	AC3LW		SOL-SSB	NY	K	4	6	6	3	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			wb3jac@gmail.com	ac3lw.log	ac3lw.rpt	4		0	0	0	0	3	0	2	3	0	0	0	0	0	SAR
+NYQP	2025	AC3MR		SOL-SSB	DE	K	0	56	42	7	0	1	0	0	0	12.5%	25.0	12.5%	0	7	0	0		 			rickcullenjr@yahoo.com	ac3mr.log	ac3mr.rpt	40		0	0	0	0	7	6	0	7	6	0	0	0	0	
+NYQP	2025	AC6ZM		SOH-CW	TN	K	782	782	782	23	0	0	0	0	0	0.0%	0.0	0.0%	0	2	0	0		 			jloz34@hotmail.com	ac6zm.log	ac6zm.rpt	19		0	0	0	0	23	17	0	0	0	23	17	0	0	
+NYQP	2025	AC7DD		SOL-SSB	AZ	K	42	42	42	7	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ac7dd@arrl.net	ac7dd.log	ac7dd.rpt	11		0	0	0	0	7	6	0	7	6	0	0	0	0	
+NYQP	2025	AD2MM		SOH-MIXED	NY	K	12638	12308	12036	159	0	0	3	0	0	1.9%	2.2	6.2%	2	1	0	0		 			ad2mm@yahoo.com	ad2mm.log	ad2mm.rpt	304		0	0	0	0	159	40	28	141	34	18	6	0	0	KIN
+NYQP	2025	AD2TM		SOL-SSB	NY	K	13632	13632	13561	191	0	1	0	0	0	0.5%	0.5	2.1%	0	6	0	0		 			ka2myd@frontiernet.net	ad2tm.log	ad2tm.rpt	365		0	0	0	0	191	50	21	191	50	0	0	0	0	CGO
+NYQP	2025	AD4EB		SOL-CW-M	IL	K	1080	1080	952	28	0	1	1	0	0	6.7%	11.9	0.0%	0	0	0	0		 			ad4eb@bellsouth.net	ad4eb.log	ad4eb.rpt	65		0	0	0	0	28	17	0	0	0	28	17	0	0	
+NYQP	2025	AD4GG		SOL-SSB	TN	K	432	432	352	22	0	0	2	0	0	8.3%	18.5	0.0%	0	2	0	0		 			toddcanaday@comcast.net	ad4gg.log	ad4gg.rpt	145		0	0	0	0	22	16	0	22	16	0	0	0	0	
+NYQP	2025	AE1T		SOH-CW	NH	K	644	644	644	23	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			ae1t@arrl.net	ae1t.log	ae1t.rpt	29		0	0	0	0	23	14	0	0	0	23	14	0	0	
+NYQP	2025	AF5CC		SOL-MIXED	OK	K	7070	7070	6468	107	0	0	3	0	0	2.7%	8.5	0.0%	0	0	0	0		 			af5cc@arrl.net	af5cc.log	af5cc.rpt	273		0	0	0	0	107	33	0	18	4	89	29	0	0	
+NYQP	2025	AH2O		SOL-SSB	NY	K	79866	79866	79254	777	0	3	3	0	0	0.8%	0.8	15.6%	2	4	0	0		 			ah2o@optonline.net	ah2o.log	ah2o.rpt	711		0	0	0	0	777	51	51	777	51	0	0	0	0	NAS
+NYQP	2025	AI4DB		SOL-SSB	TN	K	646	646	594	33	0	0	1	0	0	2.9%	8.0	0.0%	1	0	0	0		 			kg4ktk@msn.com	ai4db.log	ai4db.rpt	245		0	0	0	0	33	18	0	33	18	0	0	0	0	
+NYQP	2025	AI5BE		SOQ-CW	MS	K	132	132	132	11	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ai5be@proton.me	ai5be.log	ai5be.rpt	22		0	0	0	0	11	6	0	0	0	11	6	0	0	
+NYQP	2025	AI5G		SOL-MIXED	MO	K	4077	4077	4077	85	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			ai5g@yahoo.com	ai5g.log	ai5g.rpt	251		0	0	0	0	85	27	0	19	5	66	22	0	0	
+NYQP	2025	AI6O		SOL-CW	MO	K	1886	1886	1886	41	0	0	0	0	0	0.0%	0.0	0.0%	0	3	0	0		 			ai6o@arrl.net	ai6o.log	ai6o.rpt	96		0	0	0	0	41	23	0	0	0	41	23	0	0	
+NYQP	2025	AJ4HP		SOL-SSB	FL	K	42	42	30	6	0	1	0	0	0	14.3%	28.6	0.0%	0	0	0	0		 			olonaj4hp@gmail.com	aj4hp.log	aj4hp.rpt	44		0	0	0	0	6	5	0	6	5	0	0	0	0	
+NYQP	2025	AJ4LN		SOL-SSB	VA	K	3800	3800	3762	99	0	0	1	0	0	1.0%	1.0	0.0%	0	1	0	0		 			ecarlson@invisiblerobot.com	aj4ln.log	aj4ln.rpt	246		0	0	0	0	99	38	0	99	38	0	0	0	0	
+NYQP	2025	AK0CM		SOH-SSB	CO	K	54	54	54	9	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ak0cm@arrl.net	ak0cm.log	ak0cm.rpt	39		0	0	0	0	9	6	0	9	6	0	0	0	0	
+NYQP	2025	DO6AN		SOQ-CW		DL		2	2	1	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			nils.grohmann@gmx.net	do6an.log	do6an.rpt	0		0	0	0	0	1	1	0	0	0	1	1	0	0	
+NYQP	2025	EA3NO		SOL-CW		EA	2400	2360	2360	59	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ea3no@ure.es	ea3no.log	ea3no.rpt	185		0	0	0	0	59	20	0	0	0	59	20	0	0	
+NYQP	2025	EA5XQ		SOL-CW		EA	18	18	18	3	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			juan@ea5xq.net	ea5xq.log	ea5xq.rpt	13		0	0	0	0	3	3	0	0	0	3	3	0	0	
+NYQP	2025	F4EUG		CK		F	190	190	153	11	0	0	1	0	0	8.3%	19.5	0.0%	1	0	0	0		 			f4eug@hotmail.fr	f4eug.log	f4eug.rpt	71		0	0	0	0	11	9	0	5	5	6	4	0	0	
+NYQP	2025	F6EPO		SOL-CW	NY	F	286	286	198	11	0	1	1	0	0	15.4%	30.8	0.0%	1	1	0	0		 			domf6epo@gmail.com	f6epo.log	f6epo.rpt	36		0	0	0	0	11	9	0	0	0	11	9	0	0	
+NYQP	2025	F8PDR		SOH-CW		F	3080	3080	2808	52	0	1	2	0	0	5.5%	8.8	0.0%	0	0	0	0		 			fe8pdr@gmail.com	f8pdr.log	f8pdr.rpt	210		0	0	0	0	52	27	0	0	0	52	27	0	0	
+NYQP	2025	K0CLW		SOL-SSB	KS	K	16	16	16	4	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			kc0hov@rainbowtel.net	k0clw.log	k0clw.rpt	22		0	0	0	0	4	4	0	4	4	0	0	0	0	
+NYQP	2025	K0HB		SOH-CW	MN	K	2800	2800	2800	50	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			KZEROHB@YAHOO.COM	k0hb.log	k0hb.rpt	78		0	0	0	0	50	28	0	0	0	50	28	0	0	
+NYQP	2025	K0KSH		SOL-SSB	CO	K	150	150	117	13	0	1	1	0	0	13.3%	22.0	6.7%	1	1	0	0		 			dvliberatore@comcast.net	k0ksh.log	k0ksh.rpt	71		0	1	0	0	13	9	0	13	9	0	0	0	0	
+NYQP	2025	K0MPH		SOL-MIXED	MN	K	9840	9840	9840	125	0	0	0	0	0	0.0%	0.0	0.0%	2	1	0	0		 			K0MPH25@outloook.com	k0mph.log	k0mph.rpt	274		0	0	0	0	125	41	0	10	4	115	37	0	0	
+NYQP	2025	K0PC		SOL-CW	MN	K	2576	2576	2576	56	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			pc20253@gmail.com	k0pc.log	k0pc.rpt	155		0	0	0	0	56	23	0	0	0	56	23	0	0	
+NYQP	2025	K0RC		SOL-MIXED	MN	K	5644	5644	5576	86	0	0	1	0	0	1.1%	1.2	0.0%	5	0	0	0		 			K0RC.MN@gmail.com	k0rc.log	k0rc.rpt	132		0	0	0	0	86	34	0	8	2	78	32	0	0	
+NYQP	2025	K0SID		SOL-SSB	NY	K	10899	10836	10584	168	0	0	4	0	0	2.3%	2.3	2.9%	3	1	0	0		 			dek0sid@gmail.com	k0sid.log	k0sid.rpt	267		0	0	0	0	168	38	25	168	38	0	0	0	0	SUL
+NYQP	2025	K0SV		SOL-SSB	MN	K	425	425	425	25	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			4chirhart@charter.net	k0sv.log	k0sv.rpt	150		0	0	0	0	25	17	0	25	17	0	0	0	0	
+NYQP	2025	K0TC		SOL-CW	MN	K	2160	2160	2024	44	0	1	0	0	0	2.2%	6.3	0.0%	0	0	0	0		 			ron.k0tc@gmail.com	k0tc.log	k0tc.rpt	86		0	0	0	0	44	23	0	0	0	44	23	0	0	
+NYQP	2025	K0TRL		SOH-MIXED	KS	K	15369	15087	13846	169	0	5	5	0	0	5.6%	8.2	0.6%	1	1	0	0		 			brad.sumner@gmail.com	k0trl.log	k0trl.rpt	552		0	0	0	0	169	46	0	37	8	132	38	0	0	
+NYQP	2025	K0UU		SOL-CW	MN	K	4582	4582	4408	76	0	2	1	0	0	3.8%	3.8	1.3%	0	1	0	0		 			k0uu@arrl.net	k0uu.log	k0uu.rpt	247		0	0	0	0	76	29	0	0	0	76	29	0	0	
+NYQP	2025	K0VBU		SOL-MIXED	KS	K	400	294	99	9	0	1	11	0	0	52.6%	66.3	0.0%	0	11	0	0		 			k0vbu@k0vbu.com	k0vbu.log	k0vbu.rpt	87		0	0	0	0	9	9	0	7	7	2	2	0	0	
+NYQP	2025	K0WRY		SOL-CW	KS	K	2600	2600	2560	64	0	0	1	0	0	1.5%	1.5	1.5%	0	1	0	0		 			Kent.Hoskinson@Gmail.com	k0wry.log	k0wry.rpt	212		0	0	0	0	64	20	0	0	0	64	20	0	0	
+NYQP	2025	K1AJT		SOL-MIXED	NC	K	4	4	4	2	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ttueni@gmail.com	k1ajt.log	k1ajt.rpt	1		0	0	0	0	2	2	0	2	2	0	0	0	0	
+NYQP	2025	K1BZ		SOH-MIXED	ME	K	10164	10164	9996	137	0	2	1	0	0	2.1%	1.7	0.0%	3	3	0	0		 			dlarrabe@yahoo.com	k1bz.log	k1bz.rpt	254		0	0	0	0	137	42	0	36	9	101	33	0	0	
+NYQP	2025	K1HG		SOL-SSB	FL	K	48	48	35	7	0	0	1	0	0	12.5%	27.1	0.0%	0	0	0	0		 			k1hg@arrl.net	k1hg.log	k1hg.rpt	29		0	0	0	0	7	5	0	7	5	0	0	0	0	
+NYQP	2025	K1KI		SOH-CW	CT	K		160	144	9	0	0	1	0	0	10.0%	10.0	0.0%	1	1	0	0		 			frenaye@pcnet.com	k1ki.log	k1ki.rpt	105		0	0	0	0	9	8	0	0	0	9	8	0	0	
+NYQP	2025	K1RO		SOL-CW	NH	K	12584	12584	12584	143	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			k1ro@arrl.net	k1ro.log	k1ro.rpt	148		0	0	0	0	143	44	0	0	0	143	44	0	0	
+NYQP	2025	K1SOE		SOL-SSB	MA	K	49	49	36	6	0	0	1	0	0	14.3%	26.5	0.0%	0	0	0	0		 			kellye.eversole@gmail.com	k1soe.log	k1soe.rpt	55		1	0	0	0	6	6	0	6	6	0	0	0	0	
+NYQP	2025	K1THE		SOL-SSB	MA	K	270	270	238	17	0	1	0	0	0	5.6%	11.9	0.0%	0	0	0	0		 			rich@k1the.org	k1the.log	k1the.rpt	94		0	0	0	0	17	14	0	17	14	0	0	0	0	
+NYQP	2025	K1VUT		SOL-CW	MA	K	3500	3500	3312	69	0	1	0	0	0	1.4%	5.4	0.0%	0	0	0	0		 			clemons.dave@gmail.com	k1vut.log	k1vut.rpt	123		0	0	0	0	69	24	0	0	0	69	24	0	0	
+NYQP	2025	K2A		MSH-M	NY	K	227916	227916	227448	1458	0	3	0	0	0	0.2%	0.2	0.4%	12	36	1	0		 			rus.healy@gmail.com	k2a.log	k2a.rpt	718		0	0	0	0	1458	31	47	0	0	1458	31	0	0	ALB BRM CHE COL COR DEL DUT HER MAD ONE ONO ORA OTS REN SAR SCH SCO SCU SUL TIO TOM ULS WAS
+NYQP	2025	K2AL		SOL-MIXED-P	NY	K	82156	82340	78409	550	0	1	7	0	0	1.4%	4.8	2.7%	1	6	0	0		 			alhanzl@comcast.net	k2al.log	k2al.rpt	663		0	0	0	0	550	46	43	219	30	331	16	0	0	ORA
+NYQP	2025	K2DBK		SOL-MIXED	NJ	K	5590	5590	5084	75	0	3	0	0	0	3.8%	9.1	0.0%	1	0	0	0		 			k2dbk@k2dbk.com	k2dbk.log	k2dbk.rpt	230		0	0	0	0	75	41	0	26	16	49	25	0	0	
+NYQP	2025	K2DJF		SOL-SSB	NY	K	567	567	567	27	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			djfink1515@gmail.com	k2djf.log	k2djf.rpt	72		0	0	0	0	27	17	4	27	17	0	0	0	0	ONO
+NYQP	2025	K2EAG		SOL-CW-P	NY	K	104664	104328	101758	613	0	6	1	1	0	1.3%	2.5	9.5%	3	7	1	0		 			matt@brownbuffalo.com	k2eag.log	k2eag.rpt	714		0	0	0	0	613	33	50	0	0	613	33	0	0	SCU
+NYQP	2025	K2EP		SOH-MIXED	NY	K	12300	12300	11914	149	0	1	2	0	0	2.0%	3.1	3.9%	0	0	0	0		 			k2ep@nycap.rr.com	k2ep.log	k2ep.rpt	185		0	0	0	0	149	44	30	137	41	12	3	0	0	REN
+NYQP	2025	K2FEO		SOL-SSB	NY	K	0	3182	3096	72	0	0	2	0	0	2.7%	2.7	1.4%	0	0	0	0		 			k2feo@yahoo.com	k2feo.log	k2feo.rpt	469		0	0	0	0	72	32	11	72	32	0	0	0	0	CAY
+NYQP	2025	K2G		MSL-P	NY	K	5940	12060	11264	172	0	4	0	2	0	3.4%	6.6	0.0%	0	6	2	0		 			tankgaugesteve@gmail.com	k2g.log	k2g.rpt	176		0	0	0	0	172	27	17	88	15	84	12	0	0	DEL GRE
+NYQP	2025	K2HYD		SOL-CW	VA	K	1200	1200	1170	39	0	1	0	0	0	2.5%	2.5	0.0%	1	0	0	0		 			rayalbers@gmail.com	k2hyd.log	k2hyd.rpt	88		0	0	0	0	39	15	0	0	0	39	15	0	0	
+NYQP	2025	K2IRK		SOL-SSB	NY	K	1054	1054	990	33	0	0	1	0	0	2.9%	6.1	0.0%	0	0	0	0		 			ironzide@outlook.com	k2irk.log	k2irk.rpt	199		0	0	0	0	33	24	6	33	24	0	0	0	0	WAS
+NYQP	2025	K2IRM		MSL	NY	K	171	171	171	10	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			tankgaugesteve@gmail.com	k2irm.log	k2irm.rpt	35		0	0	0	0	10	8	1	1	0	9	8	0	0	GRE
+NYQP	2025	K2IW		SOQ-SSB-P	NY	K		1736	1566	54	0	2	0	0	0	3.6%	9.8	16.1%	0	1	0	0		 			zacharyrossmanclark@gmail.com	k2iw.log	k2iw.rpt	281		0	0	0	0	54	9	20	54	9	0	0	0	0	ALB
+NYQP	2025	K2IZ		SOL-CW	NY	K	9588	9776	8624	98	0	2	4	0	0	5.8%	11.8	2.9%	1	2	0	0		 			jsmale859@msn.com	k2iz.log	k2iz.rpt	173		0	0	0	0	98	13	31	0	0	98	13	0	0	SUF
+NYQP	2025	K2KT		SOL-CW	VA	K	6460	6460	6392	94	0	0	1	0	0	1.1%	1.1	0.0%	0	1	0	0		 			timo_53@juno.com	k2kt.log	k2kt.rpt	212		0	0	0	0	94	34	0	0	0	94	34	0	0	
+NYQP	2025	K2MK		SOL-CW	FL	K	2116	2116	2116	46	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			k2mk.mike@gmail.com	k2mk.log	k2mk.rpt	42		0	0	0	0	46	23	0	0	0	46	23	0	0	
+NYQP	2025	K2MN		SOL-CW	NJ	K	5700	5700	5184	72	0	1	2	0	0	4.0%	9.1	0.0%	0	1	0	0		 			shojjo@hotmail.com	k2mn.log	k2mn.rpt	228		0	0	0	0	72	36	0	0	0	72	36	0	0	
+NYQP	2025	K2MV		SOL-MIXED	NY	K	10887	10887	10472	119	0	2	0	0	0	1.7%	3.8	0.0%	0	0	0	0		 			k2mv@arrl.net	k2mv.log	k2mv.rpt	387		0	0	0	0	119	48	8	51	20	68	28	0	0	BRM
+NYQP	2025	K2NV		SOH-CW	NY	K	177984	176052	170800	854	0	2	7	0	0	1.0%	3.0	3.0%	9	5	2	0		 			k2nv@arrl.net	k2nv.log	k2nv.rpt	598		0	0	0	0	854	50	50	0	0	854	50	0	0	ERI
+NYQP	2025	K2OEQ		SOL-SSB	NY	K	4752	4752	4704	98	0	1	0	0	0	1.0%	1.0	3.0%	2	2	0	0		 			Duncanancy@Earthlink.net	k2oeq.log	k2oeq.rpt	214		0	0	0	0	98	38	10	98	38	0	0	0	0	WAY
+NYQP	2025	K2PTC		SOL-SSB-P	NY	K		10720	10362	157	0	0	3	0	0	1.9%	3.3	10.0%	2	0	0	0		 			chris.k2ptc@gmail.com	k2ptc.log	k2ptc.rpt	323		0	0	0	0	157	36	30	157	36	0	0	0	0	NAS
+NYQP	2025	K2Q		SOL-MIXED-M	NY	K	146219	146219	141840	1000	0	6	11	4	0	2.1%	3.0	0.2%	25	32	4	1		 			mark@k2qo.us	k2q-r.log	k2q-r.rpt	432		0	0	0	0	1000	31	41	30	2	970	29	0	0	ALL CAT ERI GEN LIV MON NIA ONT ORL STE WYO YAT
+NYQP	2025	K2QB		SOL-CW	NY	K	128616	128616	124306	683	0	11	5	0	0	2.3%	3.4	0.9%	9	8	0	0		 			k2qb@arrl.net	k2qb.log	k2qb.rpt	714		0	0	0	0	683	44	47	0	0	683	44	0	0	NIA
+NYQP	2025	K2QY		SOH-SSB	NY	K	2542	2542	2400	60	0	0	2	0	0	3.2%	5.6	0.0%	2	1	0	0		 			k2qy@arrl.org	k2qy.log	k2qy.rpt	223		0	0	0	0	60	34	6	60	34	0	0	0	0	ALB
+NYQP	2025	K2RSK		SOL-CW	NY	K	3422	3304	3024	56	0	2	1	0	0	5.1%	8.5	1.7%	0	0	0	0		 			k2rsk@roadrunner.com	k2rsk.log	k2rsk.rpt	243		0	0	0	0	56	26	1	0	0	56	26	0	0	ERI
+NYQP	2025	K2SSS		SOH-CW	NY	K	182516	182516	178500	875	0	5	6	0	0	1.2%	2.2	1.2%	9	4	0	0		 			E78WW@YAHOO.COM	k2sss.log	k2sss.rpt	719		0	0	0	0	875	57	45	0	0	875	57	0	0	MON
+NYQP	2025	K2TV		SOL-CW	VA	K	870	870	484	22	0	1	6	0	0	24.1%	44.4	0.0%	0	7	0	0		 			k2tv@yahoo.com	k2tv.log	k2tv.rpt	112		0	0	0	0	22	11	0	0	0	22	11	0	0	
+NYQP	2025	K2V		MSH-M	NY	K	84480	84480	82688	646	0	6	5	3	0	2.1%	2.1	0.5%	3	21	4	0		 			mike.gilmer@gmail.com	k2v.log	k2v.rpt	540		0	0	0	0	646	25	39	0	0	646	25	0	0	CAY JEF LEW MAD ONE ONO ONT OSW SEN STL YAT
+NYQP	2025	K2XA		SOL-MIXED	NY	K	110968	111162	109416	658	0	10	0	0	0	1.5%	1.6	2.4%	3	8	0	0		 			K2XA711@GMAIL.COM	k2xa.log	k2xa.rpt	718		0	0	0	0	658	55	42	188	18	470	37	0	0	ALB
+NYQP	2025	K2YG		SOQ-MIXED	NJ	K	17472	17472	16900	209	0	4	3	0	0	3.2%	3.3	0.0%	1	1	4	0		 			hdbarr@comcast.net	k2yg.log	k2yg.rpt	504		0	0	0	0	209	52	0	93	20	116	32	0	0	
+NYQP	2025	K2ZR		SOL-CW	NY	K	134106	134106	130456	709	0	7	5	0	0	1.7%	2.7	2.5%	0	4	0	0		 			k2zr.nfr@gmail.com	k2zr.log	k2zr.rpt	718		0	0	0	0	709	48	44	0	0	709	48	0	0	NIA
+NYQP	2025	K3GHH		SOL-CW	NY	K	44232	43928	43320	285	0	1	3	0	0	1.4%	1.4	0.0%	15	1	0	0		 			john_egger@comcast.net	k3ghh.log	k3ghh.rpt	401		0	0	0	0	285	41	35	0	0	285	41	0	0	ESS
+NYQP	2025	K3GWK		SOL-SSB	GA	K	500	500	480	24	0	0	1	0	0	4.0%	4.0	0.0%	0	2	0	0		 			backacre348@att.net	k3gwk.log	k3gwk.rpt	93		0	0	0	0	24	20	0	24	20	0	0	0	0	
+NYQP	2025	K3IE		SOH-CW	TN	K	420	420	420	15	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			hunter.k3ie@gmail.com	k3ie.log	k3ie.rpt	16		0	0	0	0	15	14	0	0	0	15	14	0	0	
+NYQP	2025	K3IS		SOL-SSB	KY	K	192	192	192	16	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			l.stead@twc.com	k3is.log	k3is.rpt	81		0	0	0	0	16	12	0	16	12	0	0	0	0	
+NYQP	2025	K3PA		SOH-CW	KS	K	198	198	198	11	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			drew@whisperingwoods.org	k3pa.log	k3pa.rpt	8		0	0	0	0	11	9	0	0	0	11	9	0	0	
+NYQP	2025	K3QP		SOL-MIXED	PA	K	10437	10437	10290	112	0	0	2	0	0	1.8%	1.4	0.0%	2	5	0	0		 			wrbican@gmail.com	k3qp.log	k3qp.rpt	168		0	0	0	0	112	49	0	14	7	98	42	0	0	
+NYQP	2025	K3RJS		SOH-SSB	PA	K	3256	3256	3024	84	0	0	3	1	0	4.5%	7.1	1.1%	2	2	0	0		 			K3rjs@icloud.com	k3rjs.log	k3rjs.rpt	599		0	0	0	0	84	36	0	84	36	0	0	0	0	
+NYQP	2025	K3TN		SOH-CW	MD	K	6992	6992	6840	90	0	0	2	0	0	2.2%	2.2	0.0%	0	0	0	0		 			jpescatore@aol.com	k3tn.log	k3tn.rpt	97		0	0	0	0	90	38	0	0	0	90	38	0	0	
+NYQP	2025	K3TW		SOQ-SSB	FL	K		1620	1593	59	0	0	1	0	0	1.7%	1.7	10.0%	0	0	0	0		 			CQ14025kHz@aol.com	k3tw.log	k3tw.rpt	261		0	0	0	0	59	27	0	59	27	0	0	0	0	
+NYQP	2025	K3UA		SOL-CW	PA	K	1564	1886	1886	41	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			k3ua1541@me.com	k3ua.log	k3ua.rpt	53		0	0	0	0	41	23	0	0	0	41	23	0	0	
+NYQP	2025	K4AMC		SOL-CW	TN	K	2964	2964	2912	56	0	0	1	0	0	1.8%	1.8	0.0%	0	1	0	0		 			k4amc@bellsouth.net	k4amc.log	k4amc.rpt	79		0	0	0	0	56	26	0	0	0	56	26	0	0	
+NYQP	2025	K4BAI		SOH-MIXED	GA	K	12516	12516	12516	161	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			k4bai@att.net	k4bai.log	k4bai.rpt	433		0	0	0	0	161	42	0	24	5	137	37	0	0	
+NYQP	2025	K4BSK		SOL-CW	NC	K	1786	1786	1786	47	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			embrinson@twc.com	k4bsk.log	k4bsk.rpt	142		0	0	0	0	47	19	0	0	0	47	19	0	0	
+NYQP	2025	K4DR		SOL-MIXED	TN	K	2828	2828	2673	54	0	0	1	0	0	1.8%	5.5	0.0%	1	0	0	0		 			k4dr@arrl.net	k4dr.log	k4dr.rpt	237		0	0	0	0	54	27	0	9	7	45	20	0	0	
+NYQP	2025	K4FT		SOL-CW	SC	K	2300	2300	2300	50	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			johnk4ft@gmail.com	k4ft.log	k4ft.rpt	147		0	0	0	0	50	23	0	0	0	50	23	0	0	
+NYQP	2025	K4FTO		SOL-MIXED	VA	K	3364	3422	3132	55	0	3	2	0	0	8.3%	8.5	0.0%	0	1	0	0		 			K4FTO@comcast.net	k4fto.log	k4fto.rpt	124		0	0	0	0	55	29	0	2	1	53	28	0	0	
+NYQP	2025	K4GM		SOL-CW	VA	K	5376	5376	5376	84	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			k4gm@arrl.net	k4gm.log	k4gm.rpt	111		0	0	0	0	84	32	0	0	0	84	32	0	0	
+NYQP	2025	K4GSX		SOL-CW	GA	K		2806	2464	56	0	3	2	0	0	8.2%	12.2	0.0%	1	9	0	1		 			dwcov@bellsouth.net	k4gsx.log	k4gsx.rpt	338		0	0	0	0	56	22	0	0	0	56	22	0	0	
+NYQP	2025	K4KYN		SOL-CW	TN	K	5440	5440	4884	74	0	3	3	0	0	7.5%	10.2	0.0%	1	0	0	0		 			jeffdgary@yahoo.com	k4kyn.log	k4kyn.rpt	176		0	0	0	0	74	33	0	0	0	74	33	0	0	
+NYQP	2025	K4MBU		SOH-SSB	VA	K	6	6	6	3	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			jdstryker@gmail.com	k4mbu.log	k4mbu.rpt	10		0	0	0	0	3	2	0	3	2	0	0	0	0	
+NYQP	2025	K4QQG		SOH-SSB	SC	K	1274	1222	1150	46	0	0	1	0	0	2.1%	5.9	0.0%	2	0	0	0		 			john.schroeder@twc.com	k4qqg.log	k4qqg.rpt	92		0	0	0	0	46	25	0	46	25	0	0	0	0	
+NYQP	2025	K4RUM		SOH-CW	NY	K	172458	172458	171072	864	0	1	6	0	0	0.8%	0.8	2.3%	6	6	0	0		 			k4rum.mike@gmail.com	k4rum.log	k4rum.rpt	714		0	0	0	0	864	50	49	0	0	864	50	0	0	SUF
+NYQP	2025	K4SBZ		SOL-SSB	FL	K	1320	1320	1248	51	0	2	1	0	0	5.6%	5.5	0.0%	2	0	0	0		 			K4SBZ.Stan@gmail.com	k4sbz.log	k4sbz.rpt	229		0	0	0	0	51	24	0	50	23	1	1	0	0	
+NYQP	2025	K5CM		SOH-MIXED	OK	K	26400	26400	25578	297	0	1	2	0	0	1.0%	3.1	0.0%	6	2	0	0		 			k5cm-2@suddenlink.net	k5cm.log	k5cm.rpt	610		0	0	0	0	297	49	0	72	10	225	39	0	0	
+NYQP	2025	K5FAM		SOL-SSB	TX	K	153	153	153	17	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			K5FAM@arrl.net	k5fam.log	k5fam.rpt	99		0	0	0	0	17	9	0	17	9	0	0	0	0	
+NYQP	2025	K5MAY		SOL-SSB	TX	K	352	352	352	22	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			hiattda@yahoo.com	k5may.log	k5may.rpt	107		0	0	0	0	22	16	0	22	16	0	0	0	0	
+NYQP	2025	K5ME		SOL-CW	TX	K	2508	2508	2464	56	0	1	0	0	0	1.8%	1.8	0.0%	2	0	0	0		 			rknibb73@outlook.com	k5me.log	k5me.rpt	105		0	0	0	0	56	22	0	0	0	56	22	0	0	
+NYQP	2025	K5QQ		SOL-CW	MO	K	17184	17088	16896	176	0	0	2	0	0	1.1%	1.1	0.0%	5	0	0	0		 			Jim.Baremore@gmail.com	k5qq.log	k5qq.rpt	644		0	0	0	0	176	48	0	0	0	176	48	0	0	
+NYQP	2025	K5TIA		SOH-CW	TX	K	3472	3472	3120	60	0	0	2	0	0	3.2%	10.1	1.6%	0	0	0	0		 			garciadc@comcast.net	k5tia.log	k5tia.rpt	127		0	0	0	0	60	26	0	0	0	60	26	0	0	
+NYQP	2025	K5YX		SOL-CW	TX	K	700	700	624	24	0	1	0	0	0	4.0%	10.9	0.0%	0	0	0	0		 			nelson6753@sbcglobal.net	k5yx.log	k5yx.rpt	29		0	0	0	0	24	13	0	0	0	24	13	0	0	
+NYQP	2025	K6KQV		SOL-CW	CA	K	280	280	234	13	0	1	0	0	0	7.1%	16.4	0.0%	0	1	0	0		 			K6KQV@AOL.COM	k6kqv.log	k6kqv.rpt	89		0	0	0	0	13	9	0	0	0	13	9	0	0	
+NYQP	2025	K6RM		SOL-CW	NC	K	418	418	418	19	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			barrypfeil@gmail.com	k6rm.log	k6rm.rpt	52		0	0	0	0	19	11	0	0	0	19	11	0	0	
+NYQP	2025	K7EA		SOL-CW	UT	K	0	1440	1380	46	0	0	1	1	0	4.2%	4.2	0.0%	0	0	1	0		 			k7ea@arrl.net	k7ea.log	k7ea.rpt	131		0	0	0	0	46	15	0	0	0	46	15	0	0	
+NYQP	2025	K7QA		SOH-CW	MT	K	768	864	864	24	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			K7QA@AOL.COM	k7qa.log	k7qa.rpt	43		0	0	0	0	24	18	0	0	0	24	18	0	0	
+NYQP	2025	K8GB		SOL-MIXED-P	MI	K	570	570	504	20	0	0	1	0	0	4.8%	11.6	0.0%	0	0	0	0		 			k8gb@k8gb.net	k8gb.log	k8gb.rpt	41		0	0	0	0	20	14	0	4	1	16	13	0	0	
+NYQP	2025	K8MR		SOL-MIXED	OH	K	15100	15100	14950	179	0	1	1	0	0	1.1%	1.0	0.0%	1	0	0	0		 			jimk8mr@aol.com	k8mr.log	k8mr.rpt	226		0	0	0	0	179	50	0	59	13	120	37	0	0	
+NYQP	2025	K8RGI		SOL-MIXED	OH	K	6052	5984	5984	97	0	0	0	0	0	0.0%	0.0	0.0%	2	0	0	0		 			robert@rjrobbins.net	k8rgi.log	k8rgi.rpt	162		0	0	0	0	97	34	0	18	3	79	31	0	0	
+NYQP	2025	K8TDF		SOH-SSB	NY	K	399	399	399	21	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			aoldfiel#@stny.rr.com	k8tdf.log	k8tdf.rpt	77		0	0	0	0	21	16	3	21	16	0	0	0	0	CHE
+NYQP	2025	K8ZT		SOQ-MIXED	OH	K	288	288	288	14	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			k8zt73@gmail.com	k8zt.log	k8zt.rpt	35		0	0	0	0	14	12	0	4	3	10	9	0	0	
+NYQP	2025	K9CPO		SOL-MIXED	WI	K	290	290	290	16	0	0	0	0	0	0.0%	0.0	0.0%	0	7	0	0		 			npmccray@gmail.com	k9cpo.log	k9cpo.rpt	24		0	0	0	0	16	10	0	3	0	13	10	0	0	
+NYQP	2025	K9CW		SOL-CW	IL	K	23940	23940	23826	209	0	0	1	0	0	0.5%	0.5	0.0%	2	0	0	0		 			k9cw@yahoo.com	k9cw.log	k9cw.rpt	416		0	0	0	0	209	57	0	0	0	209	57	0	0	
+NYQP	2025	K9DU		SOL-CW	MN	K	234	234	234	13	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			kc0cgs@aol.com	k9du.log	k9du.rpt	17		0	0	0	0	13	9	0	0	0	13	9	0	0	
+NYQP	2025	K9ELF		SOL-MIXED	IN	K	144	144	144	13	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			andy.robison@gmail.com	k9elf.log	k9elf.rpt	66		0	0	0	0	13	9	0	10	8	3	1	0	0	
+NYQP	2025	K9JK		SOL-SSB	IL	K	1100	1100	1100	44	0	0	0	0	0	0.0%	0.0	0.0%	2	0	0	0		 			k9jk@arrl.net	k9jk.log	k9jk.rpt	226		0	0	0	0	44	25	0	44	25	0	0	0	0	
+NYQP	2025	K9NW		SOH-CW	IN	K	14760	14760	14670	163	0	0	1	0	0	0.6%	0.6	0.0%	2	1	0	0		 			fininine@gmail.com	k9nw.log	k9nw.rpt	239		0	0	0	0	163	45	0	0	0	163	45	0	0	
+NYQP	2025	K9PW		SOL-MIXED	IL	K	25200	25200	24976	255	0	0	3	0	0	1.2%	0.9	0.0%	3	0	0	0		 			K9PW@ARRL.NET	k9pw.log	k9pw.rpt	675		0	0	0	0	255	56	0	64	8	191	48	0	0	
+NYQP	2025	KA0PQW		SOL-MIXED	MN	K	4725	4725	4316	86	0	2	3	0	0	5.5%	8.7	0.0%	0	3	0	0		 			mattda@hickorytech.net	ka0pqw.log	ka0pqw.rpt	306		0	0	0	0	86	26	0	6	3	80	23	0	0	
+NYQP	2025	KA1SOL		SOQ-CW	MA	K	18	18	8	2	0	0	1	0	0	33.3%	55.6	0.0%	0	0	0	0		 			al@carnali.com	ka1sol.log	ka1sol.rpt	37		0	0	0	0	2	2	0	0	0	2	2	0	0	
+NYQP	2025	KA2ENE		SOL-MIXED	NY	K	5900	5900	5684	101	0	0	1	0	0	1.0%	3.7	2.9%	1	1	0	0		 			ka2ene@frontiernet.net	ka2ene.log	ka2ene.rpt	433		0	0	0	0	101	29	20	86	24	15	5	0	0	MON
+NYQP	2025	KA2FIR		SOL-MIXED	NJ	K	6669	6669	6308	111	0	1	3	0	0	3.5%	5.4	0.0%	1	2	0	0		 			ka2fir@optonline.net	ka2fir.log	ka2fir.rpt	306		0	0	0	0	111	38	0	56	24	55	14	0	0	
+NYQP	2025	KA2MGE		CK	NY	K	1872	1872	1872	39	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			sparks234@twc.com	ka2mge.log	ka2mge.rpt	71		0	0	0	0	39	22	2	0	0	39	22	0	0	ERI
+NYQP	2025	KA2YRA		SOQ-MIXED-P	NY	K	2	2	2	1	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			stvrosman@gmail.com	ka2yra.log	ka2yra.rpt	0		0	0	0	0	1	1	1	1	1	0	0	0	0	BRM
+NYQP	2025	KA3EEO		SOL-MIXED	PA	K	4012	3944	3520	61	0	0	3	0	0	4.7%	10.8	0.0%	0	0	0	0		 			robwn3yon@gmail.com	ka3eeo.log	ka3eeo.rpt	131		0	0	0	0	61	32	0	12	7	49	25	0	0	
+NYQP	2025	KA8HDE		SOL-MIXED	MN	K	455	455	455	20	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			cjstroud15@gmail.com	ka8hde.log	ka8hde.rpt	51		0	0	0	0	20	13	0	5	2	15	11	0	0	
+NYQP	2025	KA8TOA		SOL-SSB	OH	K	1316	1316	1118	43	0	3	1	0	0	8.5%	15.0	0.0%	3	0	0	0		 			grgory999@roadrunner.com	ka8toa.log	ka8toa.rpt	280		0	0	0	0	43	26	0	43	26	0	0	0	0	
+NYQP	2025	KB0HP		SOL-CW	CO	K	2	2	0	0	0	0	1	0	0	100.0%	100.0	0.0%	0	1	0	0		 			kb0hp@yahoo.com	kb0hp.log	kb0hp.rpt	0		0	0	0	0	0	0	0	0	0	0	0	0	0	
+NYQP	2025	KB1RVU		SOL-SSB	CT	K	840	840	782	34	0	1	0	0	0	2.9%	6.9	0.0%	0	1	0	0		 			beau8721@gmail.com	kb1rvu.log	kb1rvu.rpt	114		1	0	0	0	34	23	0	34	23	0	0	0	0	
+NYQP	2025	KB2LUV		SOL-SSB	NY	K	144	144	121	11	0	0	1	0	0	8.3%	16.0	0.0%	1	1	0	0		 			kb2luv@arrl.net	kb2luv.log	kb2luv.rpt	45		0	0	0	0	11	2	9	11	2	0	0	0	0	ONO
+NYQP	2025	KB2TDT		SOL-SSB	NY	K	4450	4450	4350	87	0	0	1	1	0	2.2%	2.2	0.0%	2	0	0	0		 			kb2tdt@aol.com	kb2tdt.log	kb2tdt.rpt	507		0	0	0	0	87	36	14	87	36	0	0	0	0	ERI
+NYQP	2025	KB2URI		SOL-MIXED	NY	K	4554	4587	4320	69	0	2	0	0	0	2.8%	5.8	8.5%	1	0	0	0		 			kb2uri@arrl.net	kb2uri.log	kb2uri.rpt	262		0	0	0	0	69	22	10	14	12	44	10	11	0	ERI
+NYQP	2025	KB4CG		SOL-MIXED	VA	K	6660	6660	6265	104	0	1	2	0	0	2.8%	5.9	0.0%	3	0	0	0		 			jjeffery@hughes.net	kb4cg.log	kb4cg.rpt	337		0	0	0	0	104	35	0	29	4	75	31	0	0	
+NYQP	2025	KB4DE		SOL-CW	SC	K	520	520	520	20	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			bjohn819@sc.rr.com	kb4de.log	kb4de.rpt	32		0	0	0	0	20	13	0	0	0	20	13	0	0	
+NYQP	2025	KB9LGS		SOL-SSB	IN	K	1265	1265	1242	54	0	1	0	0	0	1.8%	1.8	0.0%	2	1	0	0		 			ray@ray-stevens.net	kb9lgs.log	kb9lgs.rpt	250		0	0	0	0	54	23	0	54	23	0	0	0	0	
+NYQP	2025	KC1QEM		SOL-SSB	MA	K	532	532	513	27	0	1	0	0	0	3.6%	3.6	0.0%	0	0	0	0		 			hauula7@comcast.net	kc1qem.log	kc1qem.rpt	63		0	0	0	0	27	19	0	27	19	0	0	0	0	
+NYQP	2025	KC1UKO		SOL-SSB	NH	K	638	638	616	28	0	1	0	0	0	3.4%	3.4	0.0%	0	0	0	0		 			kc1uko@markstdenis.com	kc1uko.log	kc1uko.rpt	159		0	1	0	0	28	22	0	28	22	0	0	0	0	
+NYQP	2025	KC1YJA		SOL-SSB	MA	K	35	35	35	7	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			kathygnome@yahoo.com	kc1yja.log	kc1yja.rpt	53		0	1	0	0	7	5	0	7	5	0	0	0	0	
+NYQP	2025	KC2BBI		SOL-SSB	NY	K	6240	6240	6240	120	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			deforger@aol.com	kc2bbi.log	kc2bbi.rpt	678		0	0	0	0	120	42	10	120	42	0	0	0	0	RIC
+NYQP	2025	KC2KDD		SOL-SSB	NY	K	3280	3280	3239	79	0	0	1	0	0	1.3%	1.3	0.0%	1	1	0	0		 			kc2kdd@gmail.com	kc2kdd.log	kc2kdd.rpt	293		0	0	0	0	79	36	5	79	36	0	0	0	0	WAR
+NYQP	2025	KC2KWA		SOL-MIXED	NC	K		264	264	13	0	0	0	0	0	0.0%	0.0	7.7%	0	1	0	0		 			packarf1573@gmail.com	kc2kwa.log	kc2kwa.rpt	52		0	0	0	0	13	11	0	2	2	11	9	0	0	
+NYQP	2025	KC2KY		SOL-CW	NY	K	61272	61272	58320	405	0	1	4	4	0	2.2%	4.8	2.2%	0	9	6	0		 			nheft@optonline.net	kc2ky.log	kc2ky.rpt	568		0	0	0	0	405	32	40	0	0	405	32	0	0	SUF
+NYQP	2025	KC2LM		SOL-CW-P	NM	K	336	208	192	12	0	0	1	0	0	7.7%	7.7	0.0%	0	3	0	0		 			edwardpoccia@aol.com	kc2lm.log	kc2lm.rpt	71		0	0	0	0	12	8	0	0	0	12	8	0	0	
+NYQP	2025	KC2MBV		SOL-SSB	NY	K	17666	17666	17280	240	0	1	1	0	0	0.8%	2.2	0.4%	1	0	0	0		 			kc2mbv@gmail.com	kc2mbv.log	kc2mbv.rpt	604		0	0	0	0	240	48	24	240	48	0	0	0	0	SUF
+NYQP	2025	KC2SRZ		SOL-SSB	NY	K	1240	1240	1073	37	0	0	3	0	0	7.5%	13.5	0.0%	0	2	0	0		 			thirdrailops@yahoo.com	kc2srz.log	kc2srz.rpt	235		0	0	0	0	37	23	6	37	23	0	0	0	0	SUF
+NYQP	2025	KC2WUF		SOL-MIXED	NJ	K	799	799	799	26	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			kc2wuf@yahoo.com	kc2wuf.log	kc2wuf.rpt	35		0	0	0	0	26	17	0	5	3	21	14	0	0	
+NYQP	2025	KC3KRZ		SOH-MIXED	PA	K	325	325	325	14	0	0	0	0	0	0.0%	0.0	7.1%	0	0	0	0		 			starman2@roadrunner.com	kc3krz.log	kc3krz.rpt	63		0	0	0	0	14	13	0	3	3	11	10	0	0	
+NYQP	2025	KC5LL		SOL-MIXED	TX	K	54	54	54	6	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			laird@lairdlind.com	kc5ll.log	kc5ll.rpt	22		0	0	0	0	6	6	0	3	3	3	3	0	0	
+NYQP	2025	KC9DGP		SOL-SSB	WI	K	377	364	338	26	0	1	1	0	0	7.1%	7.1	0.0%	0	0	0	0		 			kc9dgp@gmail.com	kc9dgp.log	kc9dgp.rpt	116		0	0	0	0	26	13	0	26	13	0	0	0	0	
+NYQP	2025	KD2CTZ		SOQ-SSB	NY	K	6496	6496	6496	116	0	0	0	0	0	0.0%	0.0	7.8%	2	2	0	0		 			kd2ctz@hotmail.com	kd2ctz.log	kd2ctz.rpt	562		0	0	0	0	116	32	24	116	32	0	0	0	0	COR
+NYQP	2025	KD2DLL		SOL-SSB	NY	K	11607	11607	11534	158	0	0	1	0	0	0.6%	0.6	2.5%	0	2	0	0		 			kaczor.alex@gmail.com	kd2dll.log	kd2dll.rpt	308		0	0	0	0	158	45	28	158	45	0	0	0	0	SCH
+NYQP	2025	KD2EFR		SOH-SSB	NY	K	82709	82812	82297	799	0	2	3	0	0	0.6%	0.6	14.4%	10	3	0	0		 			KD2EFR@GMAIL.COM	kd2efr.log	kd2efr.rpt	678		0	0	0	0	799	52	51	799	52	0	0	0	0	NIA
+NYQP	2025	KD2KEH		SOL-MIXED	NY	K	13454	13454	13268	163	0	1	1	0	0	1.2%	1.4	1.2%	1	2	0	0		 			kena.knox2@gmail.com	kd2keh.log	kd2keh.rpt	523		0	0	0	0	163	47	15	112	39	51	8	0	0	ERI
+NYQP	2025	KD2KW		SOL-CW	TX	K	13984	13984	13680	180	0	0	4	0	0	2.2%	2.2	0.0%	2	1	0	0		 			KD2KW@YAHOO.COM	kd2kw.log	kd2kw.rpt	463		0	0	0	0	180	38	0	0	0	180	38	0	0	
+NYQP	2025	KD2YMM		SOL-CW	NY	K	1972	1972	1612	31	0	2	1	0	0	8.8%	18.3	0.0%	0	0	0	0		 			kd2ymm@gmail.com	kd2ymm.log	kd2ymm.rpt	126		0	0	0	0	31	22	4	0	0	31	22	0	0	MTG
+NYQP	2025	KD5J		SOH-MIXED	AR	K	1520	1520	1480	44	0	1	0	0	0	2.2%	2.6	0.0%	0	0	0	0		 			kd5j.radio@gmail.com	kd5j.log	kd5j.rpt	100		0	0	0	0	44	20	0	14	5	30	15	0	0	
+NYQP	2025	KD9GY		SOL-SSB	IL	K	513	513	513	27	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			kd9gy@comcast.net	kd9gy.log	kd9gy.rpt	73		0	0	0	0	27	19	0	27	19	0	0	0	0	
+NYQP	2025	KD9MGZ		SOL-SSB	IN	K	56	56	25	5	0	1	1	0	0	28.6%	55.4	0.0%	0	1	0	0		 			amsparkyirish@gmail.com	kd9mgz.log	kd9mgz.rpt	27		0	0	0	0	5	5	0	5	5	0	0	0	0	
+NYQP	2025	KE0TT		SOL-CW	MN	K	5146	5146	5084	82	0	1	0	0	0	1.2%	1.2	0.0%	0	0	0	0		 			pdalwin@charter.net	ke0tt.log	ke0tt.rpt	120		0	0	0	0	82	31	0	0	0	82	31	0	0	
+NYQP	2025	KE1IH		SOH-MIXED	NY	K	6713	6713	6321	103	0	2	2	1	0	4.6%	5.8	1.9%	3	4	3	0		 			John.corini@gmail.com	ke1ih.log	ke1ih.rpt	251		0	0	0	0	103	40	9	77	34	26	6	0	0	SAR
+NYQP	2025	KE2AIZ		SOL-CW	NY	K	14448	14560	14224	127	0	2	1	0	0	2.3%	2.3	0.8%	1	2	1	0		 			magdalenagrace@frontier.com	ke2aiz.log	ke2aiz.rpt	189		0	0	1	0	127	26	30	0	0	127	26	0	0	LIV
+NYQP	2025	KE2AUS		SOL-SSB	NY	K	2560	2560	2560	80	0	0	0	0	0	0.0%	0.0	8.8%	1	1	0	0		 			kandkmotorsports@gmail.com	ke2aus.log	ke2aus.rpt	174		0	0	0	0	80	3	29	80	3	0	0	0	0	BRM
+NYQP	2025	KE2CNS		SOL-SSB	NY	K	1598	1598	1598	47	0	0	0	0	0	0.0%	0.0	4.3%	1	0	0	0		 			scott@tavishdesign.com	ke2cns.log	ke2cns.rpt	226		0	0	0	0	47	24	10	47	24	0	0	0	0	WES
+NYQP	2025	KE2CWJ		SOL-SSB	NY	K	4512	4324	4094	89	0	2	1	0	0	3.3%	5.3	4.3%	1	0	0	0		 			kwkrun@gmail.com	ke2cwj.log	ke2cwj.rpt	490		0	1	0	0	89	31	15	89	31	0	0	0	0	ONO
+NYQP	2025	KE2DEB		SOL-MIXED	NY	K	0	3042	3042	63	0	0	0	0	0	0.0%	0.0	38.1%	0	0	0	0		 			kjeremy2@arrl.net	ke2deb.log	ke2deb.rpt	283		0	0	0	0	63	1	25	36	1	0	0	27	0	COL
+NYQP	2025	KE2EEQ		SOL-CW	NY	K	1102	1102	1026	27	0	0	2	0	0	6.9%	6.9	0.0%	0	1	0	0		 			gabrielmoyano95@gmail.com	ke2eeq.log	ke2eeq.rpt	74		0	0	1	0	27	6	13	0	0	27	6	0	0	QUE
+NYQP	2025	KE2EGF		SOL-MIXED	NY	K	15028	15028	14058	145	0	2	4	0	0	4.0%	6.5	1.3%	1	3	0	0		 			ifry030@gmail.com	ke2egf.log	ke2egf.rpt	293		0	0	1	0	145	36	30	77	30	68	6	0	0	NIA
+NYQP	2025	KE2ELL		SOL-SSB	NY	K		858	725	29	0	1	3	0	0	12.1%	15.5	9.1%	0	0	0	0		 			ke2ellswan@gmail.com	ke2ell.log	ke2ell.rpt	256		0	1	0	0	29	19	6	29	19	0	0	0	0	ORL
+NYQP	2025	KE2EVX		SOL-SSB	NY	K	3910	4094	3825	85	0	0	4	0	0	4.5%	6.6	5.6%	0	1	0	0		 			haleypendell@gmail.com	ke2evx.log	ke2evx.rpt	119		0	0	0	1	85	24	21	85	24	0	0	0	0	BRM
+NYQP	2025	KE2FLW		SOL-MIXED	NY	K	3200	3200	3040	66	0	2	2	0	0	5.7%	5.0	10.0%	2	1	0	0		 			ke2flw@gmail.com	ke2flw.log	ke2flw.rpt	277		0	1	0	0	66	17	23	56	15	10	2	0	0	ERI
+NYQP	2025	KE2SD		SOH-CW	NY	K	59184	58362	57084	402	0	2	6	1	0	2.2%	2.2	1.9%	2	6	1	0		 			RROSENBROCK@hvc.rr.com	ke2sd.log	ke2sd.rpt	426		0	0	0	0	402	32	39	0	0	402	32	0	0	ULS
+NYQP	2025	KE2X		SOH-SSB	NY	K	13135	13135	12530	179	0	2	3	1	0	3.2%	4.6	1.6%	3	0	0	0		 			JPALOOCH@AOL.COM	ke2x.log	ke2x.rpt	367		0	0	0	0	179	42	28	179	42	0	0	0	0	ORA
+NYQP	2025	KE3V		SOQ-CW	PA	K	1296	1296	1156	34	0	1	1	0	0	5.6%	10.8	0.0%	0	0	0	0		 			kmc5300@yahoo.com	ke3v.log	ke3v.rpt	66		0	0	0	0	34	17	0	0	0	34	17	0	0	
+NYQP	2025	KE4CR		SOL-CW	VA	K	196	196	182	13	0	0	1	0	0	7.1%	7.1	0.0%	0	0	0	0		 			ke4cr.ham@gmail.com	ke4cr.log	ke4cr.rpt	45		0	0	0	0	13	7	0	0	0	13	7	0	0	
+NYQP	2025	KE4EA		SOL-MIXED	SC	K	1254	1254	1176	32	0	1	0	0	0	3.0%	6.2	0.0%	2	0	0	0		 			iveydj@bellsouth.net	ke4ea.log	ke4ea.rpt	58		0	0	0	0	32	21	0	8	6	24	15	0	0	
+NYQP	2025	KE8PX		SOL-MIXED	OH	K	1541	1541	1541	37	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ronwilch@gmail.com	ke8px.log	ke8px.rpt	71		0	0	0	0	37	23	0	7	2	30	21	0	0	
+NYQP	2025	KE8ZLT		SOL-CW	OH	K	216	216	140	10	0	2	0	0	0	16.7%	35.2	0.0%	0	0	0	0		 			allensmith8112@gmail.com	ke8zlt.log	ke8zlt.rpt	77		0	0	0	0	10	7	0	0	0	10	7	0	0	
+NYQP	2025	KF2VX		SOL-SSB	NY	K	234	234	234	18	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			kf2vx@arrl.net	kf2vx.log	kf2vx.rpt	64		0	0	0	0	18	12	1	18	12	0	0	0	0	ERI
+NYQP	2025	KF3EB		SOL-MIXED	PA	K		1752	1752	46	0	0	0	0	0	0.0%	0.0	0.0%	4	0	0	0		 			uaw8.h9xy@nym.hush.com	kf3eb.log	kf3eb.rpt	196		0	0	0	0	46	24	0	19	13	27	11	0	0	
+NYQP	2025	KF3G		SOL-CW	PA	K	1920	1920	1748	46	0	1	1	0	0	4.2%	9.0	0.0%	0	0	0	0		 			kf3g.contests@gmail.com	kf3g.log	kf3g.rpt	292		0	0	0	0	46	19	0	0	0	46	19	0	0	
+NYQP	2025	KF8I		SOH-SSB	OH	K	49	49	49	7	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			clintheffner@gmail.com	kf8i.log	kf8i.rpt	12		0	0	0	0	7	7	0	7	7	0	0	0	0	
+NYQP	2025	KG2U		SOH-SSB	NY	K		20	20	4	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			tom@truware.com	kg2u.log	kg2u.rpt	11		0	0	0	0	4	4	1	4	4	0	0	0	0	ONE
+NYQP	2025	KG5JEN		SOL-SSB	NY	K	225	225	225	15	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			kg5jen@yahoo.com	kg5jen.log	kg5jen.rpt	80		0	0	0	0	15	8	7	15	8	0	0	0	0	SAR
+NYQP	2025	KG6WSW		SOL-SSB	CA	K		1	1	1	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			aux.sheehan@gmail.com	kg6wsw.log	kg6wsw.rpt	0		0	0	0	0	1	1	0	1	1	0	0	0	0	
+NYQP	2025	KG9X		SOL-CW	IL	K	20604	20604	20400	200	0	0	0	2	0	1.0%	1.0	0.0%	2	0	3	0		 			fred.kg9x@gmail.com	kg9x.log	kg9x.rpt	263		0	0	0	0	200	51	0	0	0	200	51	0	0	
+NYQP	2025	KI4AMD		SOL-CW	VA	K	288	288	242	11	0	0	1	0	0	8.3%	16.0	0.0%	2	0	0	0		 			ki4amd@gmail.com	ki4amd.log	ki4amd.rpt	66		0	0	0	0	11	11	0	0	0	11	11	0	0	
+NYQP	2025	KI4MCW		SOL-SSB	VA	K		30	30	6	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ki4mcw@gmail.com	ki4mcw.log	ki4mcw.rpt	15		0	0	0	0	6	5	0	6	5	0	0	0	0	
+NYQP	2025	KI5MM		SOL-SSB	TX	K	96	96	96	12	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ki5mm@yahoo.com	ki5mm.log	ki5mm.rpt	39		0	0	0	0	12	8	0	12	8	0	0	0	0	
+NYQP	2025	KI6KGC		SOL-SSB	NM	K	24	24	24	6	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ki6kgc@gmail.com	ki6kgc.log	ki6kgc.rpt	15		0	0	0	0	6	4	0	6	4	0	0	0	0	
+NYQP	2025	KI6OY		SOL-CW	CA	K	520	520	500	25	0	0	1	0	0	3.8%	3.8	0.0%	0	0	0	0		 			lee.zalaznik@sbcglobal.net	ki6oy.log	ki6oy.rpt	69		0	0	0	0	25	10	0	0	0	25	10	0	0	
+NYQP	2025	KJ2LBR		SOL-SSB	NY	K		5568	5568	96	0	0	0	0	0	0.0%	0.0	3.1%	0	1	0	0		 			kj2lbr@gmail.com	kj2lbr.log	kj2lbr.rpt	179		0	0	0	0	96	37	21	96	37	0	0	0	0	CHA
+NYQP	2025	KK4CS		SOL-SSB	GA	K	54	54	54	9	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			liamyelood63@gmail.com	kk4cs.log	kk4cs.rpt	34		0	0	0	0	9	6	0	9	6	0	0	0	0	
+NYQP	2025	KK4NZH		SOQ-CW	GA	K		168	120	10	0	0	2	0	0	16.7%	28.6	0.0%	0	1	0	0		 			gtootle@comcast.net	kk4nzh.log	kk4nzh.rpt	60		0	0	0	0	10	6	0	0	0	10	6	0	0	
+NYQP	2025	KL7P		SOL-CW	AK	KL	8	8	0	0	0	0	2	0	0	100.0%	100.0	0.0%	0	2	0	0		 			kl7p@arrl.net	kl7p.log	kl7p.rpt	0		0	0	0	0	0	0	0	0	0	0	0	0	0	
+NYQP	2025	KM2L		SOH-CW	NY	K	83000	83000	80688	492	0	5	3	0	0	1.6%	2.8	2.0%	1	7	0	0		 			brucesmall73@gmail.com	km2l.log	km2l.rpt	616		0	0	0	0	492	35	47	0	0	492	35	0	0	ERI
+NYQP	2025	KM2O		SOH-MIXED	NY	K	32457	32457	31434	279	0	4	2	0	0	2.1%	3.2	5.3%	1	2	0	0		 			d4star@gmail.com	km2o.log	km2o.rpt	457		0	0	0	0	279	53	40	220	32	59	21	0	0	ALB
+NYQP	2025	KM4FO		SOL-CW	KY	K	2772	2772	2684	61	0	1	1	0	0	3.2%	3.2	0.0%	0	1	0	0		 			dwightorten@gmail.com	km4fo.log	km4fo.rpt	152		0	0	0	0	61	22	0	0	0	61	22	0	0	
+NYQP	2025	KM4IAJ		SOL-SSB	VA	K	1334	1334	1305	45	0	0	1	0	0	2.2%	2.2	0.0%	1	1	0	0		 			rman@ix.netcom.com	km4iaj.log	km4iaj.rpt	307		0	0	0	0	45	29	0	45	29	0	0	0	0	
+NYQP	2025	KM8L		SOL-CW	WV	K	4176	4176	4060	70	0	2	0	0	0	2.8%	2.8	0.0%	0	0	0	0		 			jwkremer@aol.com	km8l.log	km8l.rpt	247		0	0	0	0	70	29	0	0	0	70	29	0	0	
+NYQP	2025	KN0V		SOL-CW	MN	K	1760	1760	1760	40	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			wa0yle12@gmail.com	kn0v.log	kn0v.rpt	98		0	0	0	0	40	22	0	0	0	40	22	0	0	
+NYQP	2025	KN2M		SOH-SSB	NY	K	10248	10080	10020	167	0	0	1	0	0	0.6%	0.6	8.3%	0	0	0	0		 			rodman@buffalo.edu	kn2m.log	kn2m.rpt	199		0	0	0	0	167	23	37	167	23	0	0	0	0	ERI
+NYQP	2025	KN3A		SOL-CW	PA	K	1120	1120	1026	27	0	1	0	0	0	3.6%	8.4	0.0%	0	0	0	0		 			scolit@gmail.com	kn3a.log	kn3a.rpt	55		0	0	0	0	27	19	0	0	0	27	19	0	0	
+NYQP	2025	KN4ZXG		SOL-CW	VA	K	260	216	216	12	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			lampert.t@cox.net	kn4zxg.log	kn4zxg.rpt	16		0	0	0	0	12	9	0	0	0	12	9	0	0	
+NYQP	2025	KN6VTC		SOL-SSB-P	IL	K	3367	3330	3330	90	0	0	0	0	0	0.0%	0.0	1.1%	1	0	0	0		 			marksjd54@gmail.com	kn6vtc.log	kn6vtc.rpt	673		0	0	0	0	90	37	0	90	37	0	0	0	0	
+NYQP	2025	KN7Y		SOL-CW	AZ	K	40	40	40	5	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			jsheldonjr@gmail.com	kn7y.log	kn7y.rpt	9		0	0	0	0	5	4	0	0	0	5	4	0	0	
+NYQP	2025	KO8SCA		SOH-MIXED	NY	K	129791	128790	127200	851	0	4	4	1	0	1.0%	1.2	10.8%	12	3	1	0		 			ciup@yahoo.com	ko8sca.log	ko8sca.rpt	714		0	0	0	0	851	53	53	502	19	349	34	0	0	ONO
+NYQP	2025	KQ2R		SOL-SSB-M	NY	K	3854	3854	3813	93	0	1	0	0	0	1.1%	1.1	1.1%	2	3	0	0		 			kq2r@yahoo.com	kq2r.log	kq2r.rpt	286		0	0	0	0	93	30	11	93	30	0	0	0	0	BRX COL DUT PUT WES
+NYQP	2025	KQ3F		SOL-CW	PA	K	4788	4788	4514	61	0	0	2	0	0	3.2%	5.7	0.0%	0	0	0	0		 			kq3f@comcast.net	kq3f.log	kq3f.rpt	134		0	0	0	0	61	37	0	0	0	61	37	0	0	
+NYQP	2025	KQ4R		SOH-CW	FL	K	1088	1088	1088	32	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ED@KQ4R.US	kq4r.log	kq4r.rpt	52		0	0	0	0	32	17	0	0	0	32	17	0	0	
+NYQP	2025	KR2AA		SOH-CW	NY	K	133056	131480	130150	685	0	2	3	2	0	1.0%	1.0	0.0%	7	9	5	0		 			kr2aa@arrl.net	kr2aa.log	kr2aa.rpt	674		0	0	0	0	685	50	45	0	0	685	50	0	0	RIC
+NYQP	2025	KR3DX		SOH-SSB	PA	K	2135	2135	2135	61	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			kr3dx@sent.as	kr3dx.log	kr3dx.rpt	179		0	0	0	0	61	35	0	61	35	0	0	0	0	
+NYQP	2025	KR4AE		SOQ-CW	GA	K	13728	13640	12672	144	0	7	4	0	0	7.1%	7.1	0.0%	0	1	0	0		 			kr4ae@hey.com	kr4ae.log	kr4ae.rpt	594		0	0	0	0	144	44	0	0	0	144	44	0	0	
+NYQP	2025	KS2G		SOL-SSB	NY	K	52626	52626	50976	531	0	2	4	0	0	1.1%	3.1	8.8%	8	2	0	0		 			ks2g@arrl.net	ks2g.log	ks2g.rpt	515		0	0	0	0	531	51	45	531	51	0	0	0	0	NAS
+NYQP	2025	KV2X/M		SOL-CW-M	NY	K	29160	28836	24856	239	0	23	4	1	0	10.5%	13.8	1.5%	4	4	1	0		 			Tjennin2@rochester.rr.com	kv2x-m.log	kv2x-m.rpt	219		0	0	0	0	239	22	30	0	0	239	22	0	0	CAY MAD MON ONE ONO SEN WAY
+NYQP	2025	KW4EE		SOH-CW	NC	K	2652	2652	2652	51	0	0	0	0	0	0.0%	0.0	0.0%	2	3	0	0		 			kalt@ieee.org	kw4ee.log	kw4ee.rpt	155		0	0	0	0	51	26	0	0	0	51	26	0	0	
+NYQP	2025	KW4GF		SOL-MIXED	VA	K	1098	1098	736	23	0	5	3	0	0	25.8%	33.0	3.2%	2	0	0	0		 			beachteach15@yahoo.com	kw4gf.log	kw4gf.rpt	92		0	0	0	0	23	16	0	0	0	23	16	0	0	
+NYQP	2025	KW9A		SOH-MIXED	IL	K	16380	16065	15550	170	0	0	2	0	0	1.2%	3.2	0.0%	1	0	0	0		 			nn1n@arrl.net	kw9a.log	kw9a.rpt	418		0	0	0	0	170	50	0	29	6	141	44	0	0	
+NYQP	2025	KX1W		SOL-SSB	NJ	K	4	4	4	2	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ronf404@aol.com	kx1w.log	kx1w.rpt	2		0	0	0	0	2	2	0	2	2	0	0	0	0	
+NYQP	2025	KX2NY		MML	NY	K	203574	201300	195001	1043	0	13	10	0	0	2.2%	3.1	1.6%	10	11	1	0		 			w2xl@twc.com	kx2ny.log	kx2ny.rpt	719		0	0	0	0	1043	59	50	297	14	746	45	0	0	ULS
+NYQP	2025	KY0Q		SOQ-CW	IL	K	1152	1152	1080	30	0	2	0	0	0	6.3%	6.3	0.0%	1	1	0	0		 			Richard.Dickens@sbcglobal.net	ky0q.log	ky0q.rpt	34		0	0	0	0	30	18	0	0	0	30	18	0	0	
+NYQP	2025	KY4GS		SOH-CW	SC	K	570	570	570	19	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ky4gs.amanda@gmail.com	ky4gs.log	ky4gs.rpt	56		1	0	0	0	19	15	0	0	0	19	15	0	0	
+NYQP	2025	KY7M		SOH-MIXED	AZ	K	22442	22246	22148	235	0	0	1	0	0	0.4%	0.4	0.0%	0	0	0	0		 			ars.ky7m@gmail.com	ky7m.log	ky7m.rpt	549		0	0	0	0	235	49	0	18	5	217	44	0	0	
+NYQP	2025	KZ3P		SOH-MIXED	SC	K	4278	4352	4352	88	0	0	0	0	0	0.0%	0.0	0.0%	2	2	0	0		 			trainman1208@yahoo.com	kz3p.log	kz3p.rpt	214		0	0	0	0	88	32	0	40	18	48	14	0	0	
+NYQP	2025	N0AT		SOH-MIXED	MN	K	2310	2310	2310	53	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ron@n0at.net	n0at.log	n0at.rpt	109		0	0	0	0	53	22	0	1	1	52	21	0	0	
+NYQP	2025	N0AX		SOL-CW	MO	K	2450	2450	2300	46	0	0	3	0	0	6.1%	6.1	0.0%	2	0	0	0		 			hwardsil@gmail.com	n0ax.log	n0ax.rpt	64		0	0	0	0	46	25	0	0	0	46	25	0	0	
+NYQP	2025	N0HJZ		SOL-MIXED	MN	K	31565	31565	30798	323	0	1	1	0	0	0.6%	2.4	2.5%	2	1	0	0		 			richn0hjz@gmail.com	n0hjz.log	n0hjz.rpt	610		0	0	0	0	323	58	0	115	21	208	37	0	0	
+NYQP	2025	N0KTB		SOL-SSB	TX	K		25	25	5	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ay@fizhoo.com	n0ktb.log	n0ktb.rpt	10		0	0	0	0	5	5	0	5	5	0	0	0	0	
+NYQP	2025	N0LY		SOQ-MIXED	MO	K	13475	13475	13181	139	0	0	3	0	0	2.1%	2.2	0.0%	4	0	0	0		 			jonas_duda@hotmail.com	n0ly.log	n0ly.rpt	378		0	0	0	0	139	49	0	9	4	130	45	0	0	
+NYQP	2025	N0OK		SOL-MIXED	MN	K	2200	2200	2088	49	0	0	1	0	0	2.0%	5.1	0.0%	0	1	0	0		 			curt@n0ok.com	n0ok.log	n0ok.rpt	222		0	0	0	0	49	24	0	11	8	38	16	0	0	
+NYQP	2025	N0UJJ		SOL-SSB	MN	K	80	80	80	10	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			N0UJJ@yahoo.com	n0ujj.log	n0ujj.rpt	31		0	0	0	0	10	8	0	10	8	0	0	0	0	
+NYQP	2025	N0UR		SOL-CW	MN	K	2024	2162	2162	47	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			jim.lageson@gmail.com	n0ur.log	n0ur.rpt	52		0	0	0	0	47	23	0	0	0	47	23	0	0	
+NYQP	2025	N0XT		SOL-SSB	MN	K	6	6	6	3	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			jstarce@gmail.com	n0xt.log	n0xt.rpt	6		0	0	0	0	3	2	0	3	2	0	0	0	0	
+NYQP	2025	N1ADX		SOL-SSB	MA	K	943	966	966	42	0	0	0	0	0	0.0%	0.0	0.0%	1	1	0	0		 			n1adx73@gmail.com	n1adx.log	n1adx.rpt	241		0	0	0	0	42	23	0	42	23	0	0	0	0	
+NYQP	2025	N1CEO		SOL-CW	MA	K	1680	1560	1444	38	0	1	0	0	0	2.6%	7.4	0.0%	1	0	0	0		 			pdabos042@gmail.com	n1ceo.log	n1ceo.rpt	134		0	0	0	0	38	19	0	0	0	38	19	0	0	
+NYQP	2025	N1GBE		SOL-SSB-M	NY	K		1504	1440	45	0	2	0	0	0	4.3%	4.3	2.1%	2	1	0	0		 			ralph.celone@att.net	n1gbe.log	n1gbe.rpt	278		0	0	0	0	45	27	5	45	27	0	0	0	0	DUT
+NYQP	2025	N1IBM		SOL-MIXED	VT	K	15211	15211	15105	187	0	0	1	0	0	0.5%	0.7	0.0%	2	0	0	0		 			mmaze@comcast.net	n1ibm.log	n1ibm.rpt	448		0	0	0	0	187	53	0	89	29	98	24	0	0	
+NYQP	2025	N1JP		SOH-MIXED	NY	K	5250	5250	5082	82	0	1	2	0	0	3.5%	3.2	0.0%	0	0	0	0		 			radiotech@nycap.rr.com	n1jp.log	n1jp.rpt	309		0	0	0	0	82	34	8	43	17	39	17	0	0	REN
+NYQP	2025	N1NQD		SOL-MIXED	NY	K	28036	28036	27540	268	0	1	0	0	0	0.4%	1.8	4.1%	1	2	0	0		 			koolkat505@yahoo.com	n1nqd.log	n1nqd.rpt	543		0	0	0	0	268	46	39	212	27	56	19	0	0	OSW
+NYQP	2025	N1TJC		SOQ-CW-P	NY	K		468	468	18	0	0	0	0	0	0.0%	0.0	44.4%	0	0	0	0		 			tom.n1tjc@gmail.com	n1tjc.log	n1tjc.rpt	110		0	0	0	0	18	1	12	0	0	18	1	0	0	ALB
+NYQP	2025	N1WRK		SOL-SSB	MA	K	266	266	266	19	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			n1wrk.ma@gmail.com	n1wrk.log	n1wrk.rpt	51		0	0	0	0	19	14	0	19	14	0	0	0	0	
+NYQP	2025	N1XI		SOL-MIXED	NC	K	403	403	403	18	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			paulraiche84@gmail.com	n1xi.log	n1xi.rpt	26		0	0	0	0	18	13	0	5	4	13	9	0	0	
+NYQP	2025	N2B		SOL-MIXED-M	NY	K	41370	40779	39537	318	0	4	4	1	0	2.8%	3.0	4.9%	1	14	2	0		 			n2beg@yahoo.com	n2b.log	n2b.rpt	470		0	0	0	0	318	31	38	63	9	255	22	0	0	CLI ESS FRA HAM
+NYQP	2025	N2CU		SOL-MIXED-M	NY	K	202580	202580	201320	1548	0	6	4	0	0	0.6%	0.6	0.0%	11	26	2	0		 			trwn2cu@gmail.com	n2cu.log	n2cu.rpt	415		0	0	0	0	1548	24	46	220	1	1328	23	0	0	ALL CAT CHA ERI GEN LIV MON NIA ONT ORL STE WYO
+NYQP	2025	N2DM		SOL-CW	NY	K	308	308	308	14	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			dalen2dm@gmail.com	n2dm.log	n2dm.rpt	75		0	0	0	0	14	9	2	0	0	14	9	0	0	ONO
+NYQP	2025	N2EIM		SOL-CW	NJ	K	598	598	598	23	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			Robertcardone1@gmail.com	n2eim.log	n2eim.rpt	107		0	0	0	0	23	13	0	0	0	23	13	0	0	
+NYQP	2025	N2EZY		SOL-SSB	NY	K	418	418	418	22	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			n2ezy@arrl.net	n2ezy.log	n2ezy.rpt	110		0	0	0	0	22	16	3	22	16	0	0	0	0	ONT
+NYQP	2025	N2GA		SOL-CW	NY	K	102512	101320	97104	578	0	13	5	0	0	3.0%	4.2	2.9%	5	7	1	0		 			n2ga@aol.com	n2ga.log	n2ga.rpt	716		0	0	0	0	578	39	45	0	0	578	39	0	0	SUF
+NYQP	2025	N2JJ		SOL-MIXED-P	NY	K	22134	22134	22134	236	0	0	0	0	0	0.0%	0.0	0.0%	1	9	2	0		 			n2jj@hvcdx.org	n2jj.log	n2jj.rpt	351		0	0	0	0	236	39	12	38	3	198	36	0	0	FUL HAM MTG SCH
+NYQP	2025	N2LOL		SOL-SSB	NY	K		64	64	8	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			z.nyqp@akoss.net	n2lol.log	n2lol.rpt	66		0	0	0	1	8	4	4	8	4	0	0	0	0	ONT
+NYQP	2025	N2MEE		SOH-SSB	NY	K	9396	9396	9396	162	0	0	0	0	0	0.0%	0.0	11.1%	0	0	0	0		 			scott.miller1960@icloud.com	n2mee.log	n2mee.rpt	385		0	0	0	0	162	25	33	162	25	0	0	0	0	ULS
+NYQP	2025	N2MF		SOH-CW	NY	K	203800	203800	201000	1005	0	9	5	0	0	1.4%	1.4	8.8%	9	8	1	0		 			brianj.edward@gmail.com	n2mf.log	n2mf.rpt	719		0	0	0	0	1005	51	49	0	0	1005	51	0	0	ONO
+NYQP	2025	N2NC		SOL-MIXED	NJ	K	6231	6231	6169	102	0	0	1	0	0	1.0%	1.0	0.0%	0	1	0	0		 			john.golomb@gmail.com	n2nc.log	n2nc.rpt	349		0	0	0	0	102	31	0	5	1	97	30	0	0	
+NYQP	2025	N2NKX		SOH-SSB	NY	K	1683	1683	1683	51	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			henry.krewat@gmail.com	n2nkx.log	n2nkx.rpt	179		0	0	0	0	51	28	5	51	28	0	0	0	0	OTS
+NYQP	2025	N2NRV		SOL-SSB	NY	K	3735	3735	3735	83	0	0	0	0	0	0.0%	0.0	0.0%	1	2	1	0		 			n2nrv@live.com	n2nrv.log	n2nrv.rpt	382		0	0	0	0	83	36	9	83	36	0	0	0	0	CGO
+NYQP	2025	N2OA		SOL-MIXED	NY	K	9672	9672	9412	143	0	1	2	0	0	2.1%	2.7	1.4%	0	1	0	0		 			kdcarlso@gmail.com	n2oa.log	n2oa.rpt	289		0	0	0	0	143	36	16	105	23	38	13	0	0	GEN
+NYQP	2025	N2OIG		SOL-MIXED	NY	K	224	224	196	14	0	1	0	0	0	6.7%	12.5	0.0%	0	0	0	0		 			n2oigham@gmail.com	n2oig.log	n2oig.rpt	63		0	0	0	0	14	10	4	14	10	0	0	0	0	SUF
+NYQP	2025	N2PA		MML	NY	K	91485	91865	87978	608	0	10	4	0	0	2.3%	4.2	3.5%	4	8	0	0		 			mthazel2151@yahoo.com	n2pa.log	n2pa.rpt	550		0	0	0	0	608	49	44	270	40	338	9	0	0	STE
+NYQP	2025	N2PEQ		SOH-SSB	NY	K	4559	4559	4140	92	0	5	0	0	0	5.2%	9.2	3.1%	0	0	0	0		 			N2PEQ2002@GMAIL.COM	n2peq.log	n2peq.rpt	77		0	0	0	0	92	33	12	92	33	0	0	0	0	SCH
+NYQP	2025	N2PP		SOH-MIXED	NY	K	180730	179087	177016	994	0	3	9	0	0	1.2%	1.2	2.3%	5	6	2	0		 			n2pp@frontiernet.net	n2pp.log	n2pp.rpt	720		0	0	0	0	994	57	52	364	20	630	37	0	0	ONO
+NYQP	2025	N2PQJ		SOL-SSB	NY	K	9472	9472	9344	146	0	1	1	0	0	1.4%	1.4	2.7%	1	0	0	0		 			swhines2@verizon.net	n2pqj.log	n2pqj.rpt	304		0	0	0	0	146	45	19	146	45	0	0	0	0	SUF
+NYQP	2025	N2PTF		SOL-SSB	NY	K	3040	3040	3040	80	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			dann2ptf@gmail.com	n2ptf.log	n2ptf.rpt	588		0	0	0	0	80	31	7	80	31	0	0	0	0	MAD
+NYQP	2025	N2PYH		SOL-SSB	NY	K	10098	10098	9555	147	0	1	5	0	0	3.9%	5.4	7.8%	2	2	0	0		 			mike13219@yahoo.com	n2pyh.log	n2pyh.rpt	402		0	0	0	0	147	29	36	147	29	0	0	0	0	ONO
+NYQP	2025	N2RC		SOH-MIXED	NY	K	81576	81576	79605	504	0	3	3	1	0	1.4%	2.4	2.3%	1	0	1	0		 			mmoran1027@gmail.com	n2rc.log	n2rc.rpt	316		0	0	0	0	504	46	41	93	10	411	36	0	0	ORA
+NYQP	2025	N2SQW		SOH-MIXED	NY	K	39200	39690	39204	337	0	1	4	0	0	1.5%	1.2	5.6%	2	2	0	0		 			ken.l.goetz@gmail.com	n2sqw.log	n2sqw.rpt	544		0	0	0	0	337	49	32	190	17	147	32	0	0	GRE
+NYQP	2025	N2T		MSH-M	NY	K	249332	249332	247174	1489	0	8	5	0	0	0.9%	0.9	0.3%	18	22	1	0		 			dad@megansfamily.net	n2t.log	n2t.rpt	718		0	0	0	0	1489	37	46	0	0	1489	37	0	0	BRM CAY CGO CHE DEL FUL HER MAD MTG ONE ONO ONT OSW OTS SCO SCU SEN STE TIO TOM YAT
+NYQP	2025	N2TO		SOL-MIXED-P	NY	K	11750	11650	11500	186	0	2	0	0	0	1.1%	1.3	11.7%	0	1	0	0		 			n2to.qrp@gmail.com	n2to.log	n2to.rpt	273		0	0	0	0	186	20	30	142	18	44	2	0	0	RIC
+NYQP	2025	N2Y		MML-P	NY	K		396440	385035	2537	0	29	4	12	0	1.7%	2.9	0.0%	17	25	14	0		 			ki2d@ki2d.net	n2y.log	n2y.rpt	717		0	0	0	0	2537	53	52	1407	31	1130	22	0	0	ORA PUT ROC WES
+NYQP	2025	N2ZX		SOH-CW	NY	K	178704	178704	176460	865	0	5	6	0	0	1.3%	1.3	3.4%	6	2	2	0		 			curtis.n2zx@gmail.com	n2zx.log	n2zx.rpt	718		0	0	0	0	865	53	49	0	0	865	53	0	0	SAR
+NYQP	2025	N2ZZ		SOH-MIXED	SC	K	3750	3750	3690	73	0	1	1	0	0	2.7%	1.6	0.0%	2	2	0	0		 			jboehner01@yahoo.com	n2zz.log	n2zz.rpt	168		0	0	0	0	73	30	0	23	11	50	19	0	0	
+NYQP	2025	N3AM		SOH-CW	MD	K	4480	4416	4352	68	0	0	1	0	0	1.4%	1.4	0.0%	0	0	0	0		 			n3am@verizon.net	n3am.log	n3am.rpt	44		0	0	0	0	68	32	0	0	0	68	32	0	0	
+NYQP	2025	N3ARB		SOL-SSB-P	NY	K	7384	7384	7280	140	0	1	1	0	0	1.4%	1.4	18.3%	1	2	0	0		 			n3arb@brownbuffalo.com	n3arb.log	n3arb.rpt	190		1	0	0	0	140	19	33	140	19	0	0	0	0	SCU
+NYQP	2025	N3CKI		SOL-MIXED	NC	K	3538	3509	3509	64	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			n3cki.nc@gmail.com	n3cki.log	n3cki.rpt	137		0	0	0	0	64	29	0	7	3	57	26	0	0	
+NYQP	2025	N3GJ		SOL-MIXED	PA	K	13630	13920	13872	172	0	0	1	0	0	0.6%	0.3	0.0%	1	0	0	0		 			n3gj73@comcast.net	n3gj.log	n3gj.rpt	324		0	0	0	0	172	48	0	55	16	117	32	0	0	
+NYQP	2025	N3GTH		SOL-SSB	PA	K	2730	2730	2691	69	0	1	0	0	0	1.4%	1.4	0.0%	0	0	0	0		 			n3gth@yahoo.com	n3gth.log	n3gth.rpt	285		0	0	0	0	69	39	0	69	39	0	0	0	0	
+NYQP	2025	N3IW		SOL-CW	PA	K	7098	7098	7098	91	0	0	0	0	0	0.0%	0.0	0.0%	2	0	2	0		 			chip@meceweb.com	n3iw.log	n3iw.rpt	278		0	0	0	0	91	39	0	0	0	91	39	0	0	
+NYQP	2025	N3JT		SOH-CW	VA	K	7878	7878	7800	100	0	0	1	0	0	1.0%	1.0	0.0%	3	1	0	0		 			n3jt@cwops.org	n3jt.log	n3jt.rpt	127		0	0	0	0	100	39	0	0	0	100	39	0	0	
+NYQP	2025	N3KI		SOL-CW	DE	K	12576	12480	12096	126	0	1	3	0	0	3.1%	3.1	0.0%	3	1	0	0		 			FSTOP34@COMCAST.NET	n3ki.log	n3ki.rpt	477		0	0	0	0	126	48	0	0	0	126	48	0	0	
+NYQP	2025	N3KN		SOH-MIXED	VA	K	4154	4154	4154	75	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			kayn3kn@gmail.com	n3kn.log	n3kn.rpt	116		1	0	0	0	75	31	0	16	4	59	27	0	0	
+NYQP	2025	N3KTA		SOL-SSB-P	NY	K	29370	29370	28688	326	0	1	3	0	0	1.2%	2.3	14.2%	0	3	0	0		 			n3kta@outlook.com	n3kta.log	n3kta.rpt	484		0	0	0	0	326	45	43	326	45	0	0	0	0	CAT
+NYQP	2025	N3QXC		SOL-SSB	PA	K	4914	4914	4875	125	0	0	1	0	0	0.8%	0.8	0.0%	2	1	0	0		 			n3qxc@comcast.net	n3qxc.log	n3qxc.rpt	599		0	0	0	0	125	39	0	125	39	0	0	0	0	
+NYQP	2025	N3RF		SOL-SSB	PA	K	2135	2135	2135	61	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			n3rf.radio@gmail.com	n3rf.log	n3rf.rpt	275		0	0	0	0	61	35	0	61	35	0	0	0	0	
+NYQP	2025	N4DPM		SOL-CW	FL	K	2200	2200	2200	50	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			N4DPM@COX.NET	n4dpm.log	n4dpm.rpt	164		0	0	0	0	50	22	0	0	0	50	22	0	0	
+NYQP	2025	N4EMP		SOL-CW	AL	K	2376	2376	2332	53	0	0	1	0	0	1.9%	1.9	0.0%	2	0	0	0		 			n4emp1@charter.net	n4emp.log	n4emp.rpt	313		0	0	0	0	53	22	0	0	0	53	22	0	0	
+NYQP	2025	N4IJ		SOL-CW	NC	K	2058	2058	2016	48	0	0	1	0	0	2.0%	2.0	0.0%	0	1	0	0		 			dougn4ij@gmail.com	n4ij.log	n4ij.rpt	47		0	0	0	0	48	21	0	0	0	48	21	0	0	
+NYQP	2025	N4IU		SOL-CW	PA	K	2600	2600	2496	48	0	0	2	0	0	4.0%	4.0	0.0%	0	3	0	0		 			pmcarter@arrl.net	n4iu.log	n4iu.rpt	110		1	0	0	0	48	26	0	0	0	48	26	0	0	
+NYQP	2025	N4QI		SOL-MIXED	SC	K	250	250	160	11	0	3	0	0	0	21.4%	36.0	0.0%	0	0	0	0		 			w2gfv@yahoo.com	n4qi.log	n4qi.rpt	23		0	0	0	0	11	8	0	2	1	9	7	0	0	
+NYQP	2025	N4ZQA		SOL-SSB	VA	K	300	300	238	17	0	1	2	0	0	15.0%	20.7	0.0%	2	1	0	0		 			n4zqa@yahoo.com	n4zqa.log	n4zqa.rpt	121		0	0	0	0	17	14	0	17	14	0	0	0	0	
+NYQP	2025	N5EP		SOQ-CW-P	WI	K	2816	2816	2772	63	0	1	0	0	0	1.6%	1.6	0.0%	0	4	0	0		 			steve.westfall@comcast.net	n5ep.log	n5ep.rpt	213		0	0	0	0	63	22	0	0	0	63	22	0	0	
+NYQP	2025	N5JDT		SOL-SSB	NM	K	99	99	99	11	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			n5jdt@rocketmail.com	n5jdt.log	n5jdt.rpt	68		0	0	0	0	11	9	0	11	9	0	0	0	0	
+NYQP	2025	N5KW		SOH-MIXED	OK	K	26400	26400	25950	295	0	1	4	0	0	1.7%	1.7	0.0%	2	0	0	0		 			n5kw@suddenlink.net	n5kw.log	n5kw.rpt	610		0	0	0	0	295	50	0	71	10	224	40	0	0	
+NYQP	2025	N5OHL		SOH-MIXED	OK	K		119	91	9	0	2	0	0	0	18.2%	23.5	0.0%	0	0	0	0		 			n5ohl@cox.net	n5ohl.log	n5ohl.rpt	35		0	0	0	0	9	7	0	5	4	4	3	0	0	
+NYQP	2025	N5RZ		SOH-CW	TX	K	6996	6996	6996	106	0	0	0	0	0	0.0%	0.0	0.0%	2	0	0	0		 			wb5aa5@gmail.com	n5rz.log	n5rz.rpt	129		0	0	0	0	106	33	0	0	0	106	33	0	0	
+NYQP	2025	N5TJ		SOH-CW	TX	K	15210	15210	15120	168	0	0	1	0	0	0.6%	0.6	0.0%	1	0	0	0		 			jeff.n5tj@gmail.com	n5tj.log	n5tj.rpt	441		0	0	0	0	168	45	0	0	0	168	45	0	0	
+NYQP	2025	N6CHU		SOL-CW	WA	K	1584	1540	1280	32	0	2	1	0	0	8.6%	16.9	0.0%	1	0	0	0		 			bobhuntsman@earthlink.net	n6chu.log	n6chu.rpt	110		0	0	0	0	32	20	0	0	0	32	20	0	0	
+NYQP	2025	N6DE		SOH-CW	ME	K	13800	13800	13616	148	0	0	2	0	0	1.3%	1.3	0.0%	0	3	0	0		 			cqden6de@gmail.com	n6de.log	n6de.rpt	269		0	0	0	0	148	46	0	0	0	148	46	0	0	
+NYQP	2025	N6GP		SOL-CW	CA	K	660	660	660	22	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			timgep@yahoo.com	n6gp.log	n6gp.rpt	124		0	0	0	0	22	15	0	0	0	22	15	0	0	
+NYQP	2025	N6MU		SOL-CW	CA	K	10000	10000	10000	125	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			n6mu1@aol.com	n6mu.log	n6mu.rpt	542		0	0	0	0	125	40	0	0	0	125	40	0	0	
+NYQP	2025	N6YU		SOL-CW	CA	K	1224	1224	624	24	0	3	6	1	0	29.4%	49.0	0.0%	3	2	0	0		 			jcfrgmn@gmail.com	n6yu.log	n6yu.rpt	133		0	0	0	0	24	13	0	0	0	24	13	0	0	
+NYQP	2025	N7AME		SOL-SSB	WA	K	143	143	120	12	0	1	0	0	0	7.7%	16.1	0.0%	1	0	0	0		 			johnv@frontier.com	n7ame.log	n7ame.rpt	45		0	0	0	0	12	10	0	12	10	0	0	0	0	
+NYQP	2025	N7EPD		SOH-MIXED	WA	K	6468	6468	6468	113	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			ericn7epd@msn.com	n7epd.log	n7epd.rpt	392		0	0	0	0	113	33	0	30	7	83	26	0	0	
+NYQP	2025	N7HYV		SOH-MIXED	NV	K	55	55	55	7	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			n7hyv@arrl.net	n7hyv.log	n7hyv.rpt	13		0	0	0	0	7	5	0	3	2	4	3	0	0	
+NYQP	2025	N7IR		SOL-CW	AZ	K	8806	8806	8806	119	0	0	0	0	0	0.0%	0.0	0.0%	1	1	0	0		 			n7ir@n7ir.net	n7ir.log	n7ir.rpt	322		0	0	0	0	119	37	0	0	0	119	37	0	0	
+NYQP	2025	N7LRG		SOL-SSB	WA	K	744	744	696	29	0	0	2	0	0	6.5%	6.5	3.2%	0	2	0	0		 			camanodude@frontier.com	n7lrg.log	n7lrg.rpt	193		0	0	0	0	29	24	0	29	24	0	0	0	0	
+NYQP	2025	N7SE		SOL-CW	CO	K		280	260	13	0	0	1	0	0	7.1%	7.1	0.0%	0	1	0	0		 			n7se@arrl.net	n7se.log	n7se.rpt	64		0	0	0	0	13	10	0	0	0	13	10	0	0	
+NYQP	2025	N8DNA		SOL-CW	OH	K	8610	8528	8446	103	0	1	0	0	0	1.0%	1.0	0.0%	1	0	0	0		 			whomike@yahoo.com	n8dna.log	n8dna.rpt	214		0	0	0	0	103	41	0	0	0	103	41	0	0	
+NYQP	2025	N8II		SOL-MIXED	WV	K	40870	40870	39955	411	0	3	5	0	0	1.9%	2.2	0.5%	5	3	0	0		 			HARTLEY145@comcast.net	n8ii.log	n8ii.rpt	639		0	0	0	0	411	61	0	167	26	244	35	0	0	
+NYQP	2025	N8MD		SOL-SSB	MN	K	1134	1107	988	38	0	2	1	0	0	7.3%	10.7	0.0%	0	1	0	0		 			avi8tormd@gmail.com	n8md.log	n8md.rpt	340		0	0	0	0	38	26	0	38	26	0	0	0	0	
+NYQP	2025	N8QE		SOL-MIXED	OH	K	3264	3136	3008	59	0	1	2	0	0	4.8%	4.1	0.0%	1	0	0	0		 			rhajdak@aol.com	n8qe.log	n8qe.rpt	134		0	0	0	0	59	32	0	24	17	35	15	0	0	
+NYQP	2025	N9DEK		SOL-SSB	IN	K	40	40	40	8	0	0	0	0	0	0.0%	0.0	0.0%	1	2	0	0		 			dwightkellams@gmail.com	n9dek.log	n9dek.rpt	41		0	0	0	0	8	5	0	8	5	0	0	0	0	
+NYQP	2025	N9MS		SOH-MIXED	NC	K	2886	2886	2625	60	0	2	2	0	0	6.3%	9.0	1.6%	11	0	0	0		 			mike@thesaegers.com	n9ms.log	n9ms.rpt	172		0	0	0	0	60	25	0	15	7	45	18	0	0	
+NYQP	2025	N9NM		SOL-CW	TX	K	6976	6976	6912	108	0	0	1	0	0	0.9%	0.9	0.0%	0	0	0	0		 			n9nm_barb@ctesc.net	n9nm.log	n9nm.rpt	348		1	0	0	0	108	32	0	0	0	108	32	0	0	
+NYQP	2025	N9PCS		SOL-SSB	IL	K	16	16	16	4	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			pzlists01@zerkelhome.com	n9pcs.log	n9pcs.rpt	13		0	0	0	0	4	4	0	4	4	0	0	0	0	
+NYQP	2025	NE4S		SOH-CW	GA	K	5644	5644	5508	81	0	1	1	0	0	2.4%	2.4	0.0%	2	1	0	0		 			mike1230@mcnet.us	ne4s.log	ne4s.rpt	194		0	0	0	0	81	34	0	0	0	81	34	0	0	
+NYQP	2025	NE8P		SOL-CW	FL	K	27972	27972	27540	255	0	0	4	0	0	1.5%	1.5	0.0%	2	1	2	0		 			wa8vms@gmail.com	ne8p.log	ne8p.rpt	640		0	0	0	0	255	54	0	0	0	255	54	0	0	
+NYQP	2025	NF8M		SOL-CW	MI	K	1596	1596	1596	38	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			nf8m@arrl.net	nf8m.log	nf8m.rpt	52		0	0	0	0	38	21	0	0	0	38	21	0	0	
+NYQP	2025	NG2P		SOH-CW	NY	K	3304	3248	3248	58	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			rhunter@rochester.rr.com	ng2p.log	ng2p.rpt	180		0	0	0	0	58	27	1	0	0	58	27	0	0	MON
+NYQP	2025	NG7X		SOH-MIXED	AZ	K	65	65	65	8	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ng7x.73@gmail.com	ng7x.log	ng7x.rpt	20		0	0	0	0	8	5	0	3	1	5	4	0	0	
+NYQP	2025	NI8W		SOQ-CW	OH	K	3192	3192	3192	57	0	0	0	0	0	0.0%	0.0	0.0%	2	0	0	0		 			NI8W@arrl.net	ni8w.log	ni8w.rpt	78		0	0	0	0	57	28	0	0	0	57	28	0	0	
+NYQP	2025	NJ1F		SOL-CW	NY	K	16080	16080	14732	127	0	5	2	0	0	5.2%	8.4	1.5%	3	1	0	0		 			nj1f@arrl.net	nj1f.log	nj1f.rpt	248		0	0	0	0	127	31	27	0	0	127	31	0	0	SAR
+NYQP	2025	NM2A		SOL-CW	NY	K	144894	144894	143592	772	0	3	4	0	0	0.9%	0.9	0.9%	7	8	0	0		 			nm2a@msn.com	nm2a.log	nm2a.rpt	719		0	0	0	0	772	49	44	0	0	772	49	0	0	OSW
+NYQP	2025	NN2K		SOL-MIXED	NY	K	1633	1633	1474	38	0	1	1	0	0	5.0%	9.7	0.0%	2	0	0	0		 			nn2k51@gmail.com	nn2k.log	nn2k.rpt	119		0	0	0	0	38	21	1	9	5	29	16	0	0	BRM
+NYQP	2025	NN2L		SOL-MIXED	NY	K	85041	85041	82863	480	0	5	7	0	0	2.4%	2.6	0.6%	2	1	0	0		 			clempke@nycap.rr.com	nn2l.log	nn2l.rpt	717		0	0	0	0	480	55	44	123	28	357	27	0	0	MON
+NYQP	2025	NN2NN		SOL-MIXED	NY	K	2424	2424	2277	50	0	1	0	0	0	2.0%	6.1	0.0%	0	0	0	0		 			nn2nn@roadrunner.com	nn2nn.log	nn2nn.rpt	151		0	0	0	0	50	22	1	1	1	49	21	0	0	NIA
+NYQP	2025	NN7A		SOL-CW	CO	K	4320	4320	4200	70	0	1	1	0	0	2.8%	2.8	0.0%	0	2	0	0		 			nn7a@aol.com	nn7a.log	nn7a.rpt	187		0	0	0	0	70	30	0	0	0	70	30	0	0	
+NYQP	2025	NO2D		SOQ-CW	CO	K	32	32	32	4	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			pinskeep@yahoo.com	no2d.log	no2d.rpt	14		0	0	0	0	4	4	0	0	0	4	4	0	0	
+NYQP	2025	NQ2U		SOL-SSB	NY	K	17208	17208	17208	239	0	0	0	0	0	0.0%	0.0	3.3%	2	9	0	0		 			NQ2U@outlook.com	nq2u.log	nq2u.rpt	598		0	0	0	0	239	47	25	239	47	0	0	0	0	SCO
+NYQP	2025	NQ2W		SOQ-CW	NY	K	95408	96480	94874	533	0	1	2	0	0	0.6%	1.7	0.4%	4	2	0	0		 			nq2w.qrp@gmail.com	nq2w.log	nq2w.rpt	718		0	0	0	0	533	47	42	0	0	533	47	0	0	WAR
+NYQP	2025	NR0P		SOH-CW	KS	K	128	128	128	8	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			tgoins@gmail.com	nr0p.log	nr0p.rpt	44		0	0	0	0	8	8	0	0	0	8	8	0	0	
+NYQP	2025	NS4X		SOH-CW	TN	K	850	850	850	25	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ns4x.bart@gmail.com	ns4x.log	ns4x.rpt	19		0	0	0	0	25	17	0	0	0	25	17	0	0	
+NYQP	2025	NS8O		SOH-CW	OH	K	1368	1444	1296	36	0	1	1	0	0	5.3%	10.2	0.0%	0	0	0	0		 			ns8o@arrl.net	ns8o.log	ns8o.rpt	35		0	0	0	0	36	18	0	0	0	36	18	0	0	
+NYQP	2025	NV1Y		CK	VT	K	42	42	30	6	0	0	1	0	0	14.3%	28.6	14.3%	0	2	0	0		 			jzcolt@gmail.com	nv1y.log	nv1y.rpt	32		0	0	0	0	6	5	0	6	5	0	0	0	0	
+NYQP	2025	NV4T		SOL-SSB	SC	K	315	315	315	21	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			NV4T@outlook.com	nv4t.log	nv4t.rpt	52		0	0	0	0	21	15	0	21	15	0	0	0	0	
+NYQP	2025	NW0M		SOL-CW	MO	K	7326	7326	7326	111	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			nw0m73@gmail.com	nw0m.log	nw0m.rpt	99		0	0	0	0	111	33	0	0	0	111	33	0	0	
+NYQP	2025	NX4N		SOL-CW	FL	K	160	160	160	10	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			cqdenx4n@gmail.com	nx4n.log	nx4n.rpt	12		0	0	0	0	10	8	0	0	0	10	8	0	0	
+NYQP	2025	NX9B		SOL-MIXED	TN	K	10209	10209	9963	135	0	1	2	0	0	2.2%	2.4	0.0%	1	2	0	0		 			nx9b@comcast.net	nx9b.log	nx9b.rpt	498		0	0	0	0	135	41	0	27	7	108	34	0	0	
+NYQP	2025	NY2A		SOL-SSB	NY	K	3822	3822	3648	76	0	1	1	0	0	2.6%	4.6	1.3%	0	4	0	0		 			ny2a.radio@gmail.com	ny2a.log	ny2a.rpt	224		0	0	0	0	76	37	11	76	37	0	0	0	0	DEL
+NYQP	2025	NY9P		SOL-CW	NM	K	702	600	420	21	0	4	0	0	0	16.0%	30.0	0.0%	0	0	0	0		 			Sodergren55@gmail.com	ny9p.log	ny9p.rpt	54		0	0	0	0	21	10	0	0	0	21	10	0	0	
+NYQP	2025	OH7MA		SOH-CW		OH	900	870	870	29	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			taneli.kolstrom@gmail.com	oh7ma.log	oh7ma.rpt	153		0	0	0	0	29	15	0	0	0	29	15	0	0	
+NYQP	2025	OM2VL		SOH-MIXED		OM	40832	40832	40310	377	0	0	5	0	0	1.3%	1.3	0.0%	6	0	0	0		 			totya.om2vl@gmail.com	om2vl.log	om2vl.rpt	719		0	0	0	0	377	58	0	59	9	318	49	0	0	
+NYQP	2025	SP1AEN		SOL-CW		SP	56	56	56	7	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			sp1aen@wp.pl	sp1aen.log	sp1aen.rpt	30		0	0	0	0	7	4	0	0	0	7	4	0	0	
+NYQP	2025	VA2NW		CK	QC	VE		2	2	1	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			linuxgeek@gmail.com	va2nw.log	va2nw.rpt	0		0	0	0	0	1	1	0	0	0	1	1	0	0	
+NYQP	2025	VA3FN		SOL-CW	ON	VE	2000	2000	1850	37	0	1	2	0	0	7.5%	7.5	0.0%	0	0	0	0		 			beresjohn@hotmail.com	va3fn.log	va3fn.rpt	69		0	0	0	0	37	25	0	0	0	37	25	0	0	
+NYQP	2025	VA3KRJ		SOL-MIXED	ON	VE	2080	2080	1950	43	0	1	0	0	0	2.3%	6.3	0.0%	0	0	0	0		 			va3krj@myrac.ca	va3krj.log	va3krj.rpt	90		0	0	0	0	43	25	0	8	5	35	20	0	0	
+NYQP	2025	VA3PNL		SOL-SSB	ON	VE	30	30	25	5	0	1	0	0	0	16.7%	16.7	0.0%	0	0	0	0		 			paullynott@rogers.com	va3pnl.log	va3pnl.rpt	13		0	0	0	0	5	5	0	5	5	0	0	0	0	
+NYQP	2025	VA6RCN		SOL-MIXED	AB	VE	495	495	495	26	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			va6rcn@shaw.ca	va6rcn.log	va6rcn.rpt	68		0	0	0	0	26	11	0	7	3	19	8	0	0	
+NYQP	2025	VE1RGO		SOL-SSB	NS	VE	3515	3515	3441	93	0	0	2	0	0	2.1%	2.1	0.0%	2	2	0	0		 			szhayes@gmail.com	ve1rgo.log	ve1rgo.rpt	406		0	0	0	0	93	37	0	93	37	0	0	0	0	
+NYQP	2025	VE2GT		SOH-SSB	QC	VE	49	49	49	7	0	0	0	0	0	0.0%	0.0	0.0%	2	0	0	0		 			pierre_jolin@hotmail.com	ve2gt.log	ve2gt.rpt	11		0	0	0	0	7	7	0	7	7	0	0	0	0	
+NYQP	2025	VE2KLW		SOL-MIXED	QC	VE	0	1092	860	36	0	1	4	0	0	12.2%	21.2	2.4%	1	3	0	0		 			michaud.alain@gmail.com	ve2klw.log	ve2klw.rpt	337		0	0	0	0	36	20	0	29	15	7	5	0	0	
+NYQP	2025	VE2VAB		SOL-CW	QC	VE	264	264	264	12	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			gachaudron@gmail.com	ve2vab.log	ve2vab.rpt	19		0	0	0	0	12	11	0	0	0	12	11	0	0	
+NYQP	2025	VE3AQ		SOL-CW	ON	VE	15364	15364	14580	162	0	0	5	0	0	3.0%	5.1	0.0%	0	0	0	0		 			ve3aq.jack@gmail.com	ve3aq.log	ve3aq.rpt	340		0	0	0	0	162	45	0	0	0	162	45	0	0	
+NYQP	2025	VE3DQN		SOQ-CW	ON	VE	3136	3136	3080	55	0	0	1	0	0	1.8%	1.8	0.0%	0	0	0	0		 			don.hekman@gmail.com	ve3dqn.log	ve3dqn.rpt	87		0	0	0	0	55	28	0	0	0	55	28	0	0	
+NYQP	2025	VE3HZ		SOL-MIXED	ON	VE	3648	3686	3686	75	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			hniezen@gmail.com	ve3hz.log	ve3hz.rpt	193		0	0	0	0	75	38	0	53	28	22	10	0	0	
+NYQP	2025	VE3IFT		SOL-SSB	ON	VE	5600	5600	5300	106	0	3	3	0	0	5.4%	5.4	1.8%	1	2	0	0		 			myleskeith@gmail.com	ve3ift.log	ve3ift.rpt	474		0	0	0	0	106	50	0	106	50	0	0	0	0	
+NYQP	2025	VE3JZT		SOL-MIXED	ON	VE	624	624	540	22	0	2	0	0	0	8.3%	13.5	0.0%	0	0	0	0		 			ve3jzt@myrac.ca	ve3jzt.log	ve3jzt.rpt	49		0	0	0	0	22	15	0	8	6	14	9	0	0	
+NYQP	2025	VE3MDX		SOL-CW	ON	VE		192	192	12	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			david@newland.com	ve3mdx.log	ve3mdx.rpt	36		0	0	0	0	12	8	0	0	0	12	8	0	0	
+NYQP	2025	VE3MV		SOH-MIXED	ON	VE	5022	5022	5022	82	0	0	0	0	0	0.0%	0.0	0.0%	1	1	0	0		 			dougve3mv@gmail.com	ve3mv.log	ve3mv.rpt	174		0	0	0	0	82	31	0	2	1	80	30	0	0	
+NYQP	2025	VE3NFN		SOL-MIXED	ON	VE	3016	3016	3016	60	0	0	0	0	0	0.0%	0.0	0.0%	1	2	0	0		 			ve3nfn@gmail.com	ve3nfn.log	ve3nfn.rpt	175		0	0	0	0	60	29	0	16	4	44	25	0	0	
+NYQP	2025	VE3OMV		SOL-MIXED	ON	VE	9000	9000	8697	128	0	0	1	0	0	0.8%	3.4	0.0%	1	0	0	0		 			ve3omv@gmail.com	ve3omv.log	ve3omv.rpt	257		0	0	0	1	128	39	0	33	11	95	28	0	0	
+NYQP	2025	VE3SIF		SOQ-CW	ON	VE	6188	6188	6188	91	0	0	0	0	0	0.0%	0.0	0.0%	3	0	0	0		 			ve3sif@gmail.com	ve3sif.log	ve3sif.rpt	246		0	0	0	0	91	34	0	0	0	91	34	0	0	
+NYQP	2025	VE3TM		SOH-CW	ON	VE	12900	12900	12728	148	0	0	2	0	0	1.3%	1.3	0.0%	0	0	0	0		 			vs.lists@gmail.com	ve3tm.log	ve3tm.rpt	325		0	0	0	0	148	43	0	0	0	148	43	0	0	
+NYQP	2025	VE3WG		SOL-SSB	ON	VE	2304	2304	2135	61	0	2	1	0	0	4.7%	7.3	0.0%	2	1	0	0		 			ve3agc@myrac.ca	ve3wg.log	ve3wg.rpt	212		0	0	0	0	61	35	0	61	35	0	0	0	0	
+NYQP	2025	VE3YT		SOH-MIXED	ON	VE	25636	25520	25056	270	0	1	3	0	0	1.5%	1.8	0.0%	2	1	0	0		 			vicd@uwaterloo.ca	ve3yt.log	ve3yt.rpt	511		0	0	0	0	270	58	0	108	21	162	37	0	0	
+NYQP	2025	VE7SCC		SOL-MIXED	BC	VE	468	444	444	20	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ve7ttq@gmail.com	ve7scc.log	ve7scc.rpt	49		0	0	0	0	20	12	0	3	2	17	10	0	0	
+NYQP	2025	VE7ZO		SOH-CW	BC	VE	6020	6020	6020	86	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			ve7zo@hotmail.com	ve7zo.log	ve7zo.rpt	92		0	0	0	0	86	35	0	0	0	86	35	0	0	
+NYQP	2025	VE9RLW		SOL-SSB	NB	VE	120	120	120	12	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			rlwortman@rogers.com	ve9rlw.log	ve9rlw.rpt	101		0	0	0	0	12	10	0	12	10	0	0	0	0	
+NYQP	2025	W0BM		SOH-MIXED	MN	K	11029	11029	10947	152	0	0	1	0	0	0.7%	0.7	0.7%	1	0	0	0		 			w0bm@kmtel.com	w0bm.log	w0bm.rpt	333		0	0	0	0	152	41	0	37	8	115	33	0	0	
+NYQP	2025	W0CN		SOL-SSB	MN	K	100	100	100	10	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			w0cn@arrl.net	w0cn.log	w0cn.rpt	24		0	0	0	0	10	10	0	10	10	0	0	0	0	
+NYQP	2025	W0DCN		SOL-SSB	IA	K	143	143	132	12	0	1	0	0	0	7.7%	7.7	0.0%	0	0	0	0		 			dougnelsonmai@mchsi.com	w0dcn.log	w0dcn.rpt	35		0	0	0	0	12	11	0	12	11	0	0	0	0	
+NYQP	2025	W0DET		SOL-CW	CO	K	780	780	690	23	0	2	1	0	0	11.5%	11.5	3.8%	0	2	0	0		 			w0det@yahoo.com	w0det.log	w0det.rpt	220		0	0	0	0	23	15	0	0	0	23	15	0	0	
+NYQP	2025	W0ELT		SOH-MIXED	WI	K	11092	11092	11092	136	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			tammy.ldrider@gmail.com	w0elt.log	w0elt.rpt	309		0	0	0	0	136	47	0	36	11	100	36	0	0	
+NYQP	2025	W0PI		SOL-CW	MN	K	2592	2592	2544	53	0	1	0	0	0	1.9%	1.9	0.0%	0	0	0	0		 			w0pi@arrl.net	w0pi.log	w0pi.rpt	67		0	0	0	0	53	24	0	0	0	53	24	0	0	
+NYQP	2025	W0UC		SOH-MIXED	MN	K	3920	3920	3864	79	0	0	1	0	0	1.3%	1.4	0.0%	0	2	0	0		 			husby002@gmail.com	w0uc.log	w0uc.rpt	94		0	0	0	0	79	28	0	20	8	59	20	0	0	
+NYQP	2025	W0UY		SOL-CW	KS	K	2508	2508	2508	57	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			lappint@sbcglobal.net	w0uy.log	w0uy.rpt	259		0	0	0	0	57	22	0	0	0	57	22	0	0	
+NYQP	2025	W0ZF		SOL-MIXED	MN	K	476	476	476	25	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			w0zf@arrl.net	w0zf.log	w0zf.rpt	103		0	0	0	0	25	17	0	22	14	3	3	0	0	
+NYQP	2025	W0ZQ		SOH-MIXED	MN	K	20952	20952	20628	213	0	2	2	0	0	1.8%	1.5	0.5%	1	0	0	0		 			w0zq@aol.com	w0zq.log	w0zq.rpt	513		0	0	0	0	213	54	0	44	9	169	45	0	0	
+NYQP	2025	W1AJT		SOH-MIXED	NC	K	14993	15087	14805	177	0	0	3	0	0	1.7%	1.9	0.6%	1	0	0	0		 			w1ajt@atolda.com	w1ajt.log	w1ajt.rpt	320		0	0	0	0	177	47	0	39	6	138	41	0	0	
+NYQP	2025	W1AO		SOH-CW	ME	K	7696	7070	6930	99	0	1	1	0	0	2.0%	2.0	0.0%	1	0	0	0		 			jkozak@kozakgayer.com	w1ao.log	w1ao.rpt	227		0	0	0	0	99	35	0	0	0	99	35	0	0	
+NYQP	2025	W1ARY		SOL-MIXED	CT	K	2639	2639	2464	46	0	0	2	0	0	4.2%	6.6	0.0%	0	0	0	0		 			marcelvasile@yahoo.com	w1ary.log	w1ary.rpt	70		0	0	0	0	46	28	0	4	3	42	25	0	0	
+NYQP	2025	W1FM		MMH	MA	K	18941	18941	18800	238	0	1	1	0	0	0.8%	0.7	0.0%	4	0	0	0		 			skywavetec@aol.com	w1fm.log	w1fm.rpt	493		0	0	0	0	238	47	0	76	14	162	33	0	0	
+NYQP	2025	W1QK		SOH-CW	CT	K	4216	4340	4278	69	0	0	1	0	0	1.4%	1.4	0.0%	0	0	0	0		 			w1qk@snet.net	w1qk.log	w1qk.rpt	141		0	0	0	0	69	31	0	0	0	69	31	0	0	
+NYQP	2025	W1SSN		SOH-MIXED	CT	K	9600	9600	9250	110	0	4	2	0	0	5.2%	3.6	0.0%	0	2	0	0		 			W1SSN@icloud.com	w1ssn.log	w1ssn.rpt	350		0	0	0	0	110	50	0	35	23	75	27	0	0	
+NYQP	2025	W1TO		SOH-CW	MA	K	1440	1440	1440	30	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			w1to@roadrunner.com	w1to.log	w1to.rpt	65		0	0	0	0	30	24	0	0	0	30	24	0	0	
+NYQP	2025	W1WV/M		SOL-MIXED-M	NY	K	10528	10528	9955	160	0	4	2	0	0	3.6%	5.4	0.0%	1	5	0	0		 			w1wv@rrl.net	w1wv-m.log	w1wv-m.rpt	356		0	0	0	0	160	41	14	139	36	21	5	0	0	ALB DEL GRE SCH SCO SUL ULS
+NYQP	2025	W2AAA		SOQ-SSB	NY	K	7440	7440	7260	121	0	0	3	0	0	2.4%	2.4	4.8%	0	2	0	0		 			w2ev@yahoo.com	w2aaa.log	w2aaa.rpt	465		0	0	0	0	121	37	23	121	37	0	0	0	0	ORL
+NYQP	2025	W2AN		CK	NY	K	525	621	598	26	0	1	0	0	0	3.7%	3.7	0.0%	1	0	0	0		 			garyafrancis@gmail.com	w2an.log	w2an.rpt	108		0	0	0	0	26	16	7	26	16	0	0	0	0	ONT
+NYQP	2025	W2BMT		SOL-SSB-P	NY	K		3200	3081	79	0	0	1	0	0	1.3%	3.7	25.0%	0	0	0	0		 			britabor@gmail.com	w2bmt.log	w2bmt.rpt	167		0	0	0	0	79	12	27	79	12	0	0	0	0	ERI WYO
+NYQP	2025	W2CCC		MSH	NY	K	56693	56070	54810	609	0	3	11	0	0	2.2%	2.2	21.7%	2	3	0	0		 			cshalvoy@att.net	w2ccc.log	w2ccc.rpt	710		0	0	0	0	609	46	44	609	46	0	0	0	0	HER
+NYQP	2025	W2DXE		SOL-CW	NY	K		27136	24676	199	0	7	6	0	0	6.1%	9.1	0.5%	2	7	0	0		 			w2dxe@arrl.net	w2dxe.log	w2dxe.rpt	335		0	0	0	0	199	34	28	0	0	199	34	0	0	ERI
+NYQP	2025	W2E		MML	NY	K	28386	28303	26080	223	0	6	6	0	0	5.1%	7.9	24.3%	3	3	0	1		 			TelComServ@att.net	w2e.log	w2e.rpt	497		0	0	0	0	223	40	40	171	40	1	0	51	0	ERI
+NYQP	2025	W2ELS		SOL-CW-P	NY	K	0	3420	3190	55	0	0	2	0	0	3.5%	6.7	19.3%	0	0	0	0		 			rowell68@gmail.com	w2els.log	w2els.rpt	143		0	1	0	0	55	3	26	0	0	55	3	0	0	MON
+NYQP	2025	W2FU		MMH	NY	K	256965	256965	253302	1418	0	10	11	0	0	1.5%	1.4	10.6%	5	11	0	0		 			w2fu@frontiernet.net	w2fu.log	w2fu.rpt	717		0	0	0	0	1418	55	56	554	15	864	40	0	0	MON
+NYQP	2025	W2GDJ		SOL-SSB	NY	K	24983	24080	23280	291	0	1	9	0	0	3.3%	3.3	3.7%	1	1	0	1		 			w2gdj@twc.com	w2gdj.log	w2gdj.rpt	248		0	0	0	0	291	45	35	291	45	0	0	0	0	REN
+NYQP	2025	W2GR		SOL-CW-P	NY	K	76500	76500	74760	445	0	1	4	0	0	1.1%	2.3	9.6%	0	2	0	0		 			w2gr@aol.com	w2gr.log	w2gr.rpt	471		0	0	0	0	445	35	49	0	0	445	35	0	0	NIA
+NYQP	2025	W2HMT		SOL-SSB	NY	K	4896	4896	4641	91	0	2	3	0	0	5.2%	5.2	3.1%	0	0	0	0		 			dklew@conncoll.edu	w2hmt.log	w2hmt.rpt	288		0	0	0	0	91	41	10	91	41	0	0	0	0	COL
+NYQP	2025	W2IG		SOL-SSB-P	NY	K	44446	44446	43878	618	0	4	4	0	0	1.3%	1.3	0.0%	4	1	0	0		 			kd2igg@gmail.com	w2ig.log	w2ig.rpt	374		0	0	0	0	618	35	36	618	35	0	0	0	0	PUT WES
+NYQP	2025	W2IOC		SOL-SSB	NJ	K	352	352	266	19	0	1	2	0	0	13.6%	24.4	0.0%	0	0	0	0		 			hanzl.ken@gmail.com	w2ioc.log	w2ioc.rpt	81		0	0	0	0	19	14	0	19	14	0	0	0	0	
+NYQP	2025	W2JCT		SOH-SSB	NY	K	103	5096	4800	100	0	1	3	0	0	3.8%	5.8	3.8%	2	2	0	0		 			jc71corvette25@gmail.com	w2jct.log	w2jct.rpt	169		0	0	0	0	100	36	12	100	36	0	0	0	0	SEN
+NYQP	2025	W2KYM		SOL-MIXED	NY	K	1817	1817	1725	42	0	1	1	0	0	4.5%	5.1	0.0%	0	0	0	0		 			jimlaughlan@gmail.com	w2kym.log	w2kym.rpt	221		0	0	0	0	42	19	4	9	5	33	14	0	0	NIA
+NYQP	2025	W2LC		SOL-CW	NY	K	38308	38186	37200	310	0	0	3	0	0	1.0%	2.6	1.9%	1	1	0	0		 			W2LC@twcny.rr.com	w2lc.log	w2lc.rpt	253		0	0	0	0	310	17	43	0	0	310	17	0	0	ONO
+NYQP	2025	W2M		MML-P	NY	K	170335	173921	172272	1018	0	6	3	0	0	0.9%	0.9	2.4%	2	9	0	0		 			johngetz24@gmail.com	w2m.log	w2m.rpt	718		0	0	0	0	1018	47	50	260	17	758	30	0	0	YAT
+NYQP	2025	W2MRD		SOL-SSB	NY	K	360	360	360	20	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			w2mrd@arrl.net	w2mrd.log	w2mrd.rpt	53		0	0	0	0	20	12	6	20	12	0	0	0	0	SCH
+NYQP	2025	W2NC		SOL-CW	AZ	K	252	252	252	14	0	0	0	0	0	0.0%	0.0	0.0%	0	1	0	0		 			w2nc@w2nc.me	w2nc.log	w2nc.rpt	93		0	0	0	0	14	9	0	0	0	14	9	0	0	
+NYQP	2025	W2NTV		SOL-SSB	NY	K	16117	16117	15620	220	0	2	5	0	0	3.1%	3.1	2.6%	1	3	0	0		 			dew2ntv@gmail.com	w2ntv.log	w2ntv.rpt	567		0	0	0	0	220	49	22	220	49	0	0	0	0	DUT
+NYQP	2025	W2NY		SOH-MIXED	NY	K	2772	2772	2280	56	0	2	4	0	0	9.7%	17.7	3.2%	0	6	0	0		 			wt4q@arrl.net	w2ny.log	w2ny.rpt	122		0	0	0	0	56	20	20	55	20	1	0	0	0	PUT
+NYQP	2025	W2NYW		SOL-MIXED	NY	K	11220	11152	10586	158	0	3	3	0	0	3.7%	5.1	0.0%	2	3	0	1		 			jcal0725@optonline.net	w2nyw.log	w2nyw.rpt	209		0	0	0	0	158	46	21	158	46	0	0	0	0	WES
+NYQP	2025	W2OW		MML	NY	K	86925	86830	82491	560	0	10	6	0	0	2.8%	5.0	7.8%	4	38	0	0		 			w2owemail@gmail.com	w2ow.log	w2ow.rpt	673		0	0	0	0	560	48	45	233	16	327	32	0	0	BRM
+NYQP	2025	W2PJ		SOL-SSB	NY	K	85680	85680	85374	837	0	2	1	0	0	0.4%	0.4	22.0%	1	5	0	0		 			pjdemas@twcny.rr.com	w2pj.log	w2pj.rpt	687		0	0	0	0	837	46	56	837	46	0	0	0	0	ONO
+NYQP	2025	W2QCY		SOL-CW	NY	K	2408	2408	1900	38	0	2	3	0	0	11.6%	21.1	0.0%	1	4	0	0		 			farina1952@gmail.com	w2qcy.log	w2qcy.rpt	133		0	0	0	0	38	22	3	0	0	38	22	0	0	ALB
+NYQP	2025	W2QL		SOL-CW	NY	K	11480	11480	11152	136	0	2	2	0	0	2.9%	2.9	0.7%	0	2	0	0		 			johnglover66@yahoo.com	w2ql.log	w2ql.rpt	82		0	0	0	0	136	5	36	0	0	136	5	0	0	SCO
+NYQP	2025	W2REA		SOH-SSB	NY	K	11136	11136	10836	172	0	0	2	0	0	1.1%	2.7	1.1%	0	4	0	0		 			foofighter155@yahoo.com	w2rea.log	w2rea.rpt	257		0	0	0	0	172	43	20	172	43	0	0	0	0	CAT
+NYQP	2025	W2SO		MML	NY	K	17010	20358	18928	243	0	1	8	0	0	3.6%	7.0	6.7%	2	6	0	0		 			ag2aa.radio@gmail.com	w2so.log	w2so.rpt	264		0	0	0	0	243	14	38	122	2	121	12	0	0	ERI
+NYQP	2025	W2TB		SOH-MIXED	NY	K	157488	157488	155346	938	0	5	7	0	0	1.3%	1.4	4.7%	1	8	0	0		 			mikew2tb@gmail.com	w2tb.log	w2tb.rpt	719		0	0	0	0	938	57	45	353	22	585	35	0	0	ERI
+NYQP	2025	W2TZ		SOL-CW	NY	K	122220	120506	118014	663	0	6	7	1	0	2.1%	2.1	0.9%	1	9	0	0		 			gronerfred@gmail.com	w2tz.log	w2tz.rpt	717		0	0	0	0	663	45	44	0	0	663	45	0	0	STE
+NYQP	2025	W2VM		SOL-CW	NY	K	3456	3456	2842	49	0	1	4	0	0	9.3%	17.8	0.0%	0	1	0	0		 			cbbw2vm@gmail.com	w2vm.log	w2vm.rpt	114		0	0	0	0	49	28	1	0	0	49	28	0	0	NIA
+NYQP	2025	W3LBY		SOL-SSB-P	MD	K	1	1	0	0	0	1	0	0	0	100.0%	100.0	0.0%	0	3	0	0		 			nyqso@w3lby.com	w3lby.log	w3lby.rpt	0		0	0	0	0	0	0	0	0	0	0	0	0	0	
+NYQP	2025	W3TB		SOL-CW	TN	K	1848	1848	1722	41	0	0	1	0	0	2.4%	6.8	0.0%	0	0	0	0		 			w3tb.ted@gmail.com	w3tb.log	w3tb.rpt	139		0	0	0	0	41	21	0	0	0	41	21	0	0	
+NYQP	2025	W3TKB		SOH-SSB	PA	K	5800	5850	5750	115	0	0	2	0	0	1.7%	1.7	0.0%	0	0	0	0		 			w3tkb@outlook.com	w3tkb.log	w3tkb.rpt	491		0	0	0	0	115	50	0	115	50	0	0	0	0	
+NYQP	2025	W3US		SOH-MIXED	FL	K	11382	11382	11382	142	0	0	0	0	0	0.0%	0.0	0.0%	4	0	0	0		 			w3us@arrl.net	w3us.log	w3us.rpt	235		0	0	0	0	142	42	0	13	4	129	38	0	0	
+NYQP	2025	W4CMG		SOL-CW	TN	K	3024	3024	3024	63	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			w4cmg.dx@gmail.com	w4cmg.log	w4cmg.rpt	104		1	0	0	0	63	24	0	0	0	63	24	0	0	
+NYQP	2025	W4EE		SOL-MIXED	FL	K	1178	1178	1159	35	0	0	1	0	0	2.8%	1.6	0.0%	0	0	0	0		 			vk8tx@yahoo.com	w4ee.log	w4ee.rpt	118		0	0	0	0	35	19	0	9	7	26	12	0	0	
+NYQP	2025	W4LEW		SOL-MIXED	VA	K	11232	11232	11128	126	0	1	0	0	0	0.8%	0.9	0.0%	1	0	0	0		 			lware14@yahoo.com	w4lew.log	w4lew.rpt	269		1	0	0	0	126	52	0	38	16	88	36	0	0	
+NYQP	2025	W4TTA		SOH-SSB	TN	K	2325	2325	2130	71	0	1	3	0	0	5.3%	8.4	1.3%	1	0	0	0		 			gearhead5632@gmail.com	w4tta.log	w4tta.rpt	509		0	0	0	0	71	30	0	71	30	0	0	0	0	
+NYQP	2025	W4VIC		SOH-MIXED	VA	K	1386	1344	1344	34	0	0	0	0	0	0.0%	0.0	2.9%	0	1	0	0		 			culvervic@gmail.com	w4vic.log	w4vic.rpt	70		0	0	0	0	34	21	0	4	2	30	19	0	0	
+NYQP	2025	W4WWQ		SOH-SSB	VA	K	1760	1760	1530	51	0	2	2	0	0	7.3%	13.1	0.0%	1	3	0	0		 			plascell@gmail.com	w4wwq.log	w4wwq.rpt	304		0	0	0	0	51	30	0	51	30	0	0	0	0	
+NYQP	2025	W4YE		SOL-CW	VA	K	8432	8432	7552	118	0	5	1	0	0	4.8%	10.4	3.2%	0	0	0	0		 			W4YE@aol.com	w4ye.log	w4ye.rpt	231		0	0	0	0	118	32	0	0	0	118	32	0	0	
+NYQP	2025	W4ZGR		SOH-CW	FL	K	154	154	140	10	0	0	1	0	0	9.1%	9.1	0.0%	0	0	0	0		 			pba789@comcast.net	w4zgr.log	w4zgr.rpt	48		0	0	0	0	10	7	0	0	0	10	7	0	0	
+NYQP	2025	W5TM		SOH-CW	OK	K	16544	16280	16192	184	0	0	1	0	0	0.5%	0.5	0.0%	2	2	0	0		 			w5tm001@gmail.com	w5tm.log	w5tm.rpt	378		0	0	0	0	184	44	0	0	0	184	44	0	0	
+NYQP	2025	W6AGZ		SOH-SSB	OR	K	80	80	80	10	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ride4fitness@yahoo.com	w6agz.log	w6agz.rpt	39		0	0	0	0	10	8	0	10	8	0	0	0	0	
+NYQP	2025	W6ECK		SOL-SSB	CA	K	36	36	25	5	0	0	1	0	0	16.7%	30.6	0.0%	0	1	0	0		 			howdy.goudey@gmail.com	w6eck.log	w6eck.rpt	50		0	0	0	0	5	5	0	5	5	0	0	0	0	
+NYQP	2025	W6UB		SOH-CW	TN	K	616	644	616	22	0	1	0	0	0	4.3%	4.3	0.0%	1	0	0	0		 			w6ub@comcast.net	w6ub.log	w6ub.rpt	70		0	0	0	0	22	14	0	0	0	22	14	0	0	
+NYQP	2025	W7GF		SOL-CW	OR	K	1840	1840	1672	38	0	1	1	0	0	5.0%	9.1	0.0%	1	0	0	0		 			W7GF@arrl.net	w7gf.log	w7gf.rpt	185		0	0	0	0	38	22	0	0	0	38	22	0	0	
+NYQP	2025	W7KAM		SOL-SSB	MO	K	494	494	432	24	0	1	1	0	0	7.7%	12.6	0.0%	1	1	0	0		 			PalmerRD@aol.com	w7kam.log	w7kam.rpt	185		0	0	0	0	24	18	0	24	18	0	0	0	0	
+NYQP	2025	W7LG		SOQ-MIXED	PA	K	3885	3885	3885	69	0	0	0	0	0	0.0%	0.0	0.0%	2	0	0	0		 			ka3uol@yahoo.com	w7lg.log	w7lg.rpt	119		0	0	0	0	69	35	0	27	12	42	23	0	0	
+NYQP	2025	W8BZY		SOL-CW	OH	K		260	198	11	0	2	0	0	0	15.4%	23.8	0.0%	0	0	0	0		 			w8bzy@aol.com	w8bzy.log	w8bzy.rpt	15		0	0	0	0	11	9	0	0	0	11	9	0	0	
+NYQP	2025	W8HCG		MML	OH	K	24339	23200	22910	244	0	1	2	0	0	1.2%	1.3	0.0%	6	1	0	0		 			hilliardcontestgroup@gmail.com	w8hcg.log	w8hcg.rpt	717		0	0	0	0	244	58	0	93	34	151	24	0	0	
+NYQP	2025	W8KRZ		SOL-CW	VA	K	300	300	300	15	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			rf7590@gmail.com	w8krz.log	w8krz.rpt	54		0	0	0	0	15	10	0	0	0	15	10	0	0	
+NYQP	2025	W8NUD		SOL-SSB	NY	K	5408	5408	5252	101	0	2	1	0	0	2.9%	2.9	0.0%	1	1	0	0		 			Scott181@gmail.com	w8nud.log	w8nud.rpt	458		0	0	0	0	101	44	8	101	44	0	0	0	0	FUL
+NYQP	2025	W8PI		SOL-MIXED	MI	K	17238	17238	16932	189	0	3	0	0	0	1.6%	1.8	0.0%	3	0	0	0		 			w8pi@arrl.net	w8pi.log	w8pi.rpt	386		0	0	0	0	189	51	0	46	10	143	41	0	0	
+NYQP	2025	W9ARO		SOL-SSB	FL	K	1593	1593	1566	58	0	0	1	0	0	1.7%	1.7	0.0%	1	0	0	0		 			whiskey9aro@gmail.com	w9aro.log	w9aro.rpt	375		0	0	0	0	58	27	0	58	27	0	0	0	0	
+NYQP	2025	W9DC		SOH-CW	SC	K	15402	15300	13800	138	0	4	7	1	0	8.0%	9.8	0.0%	2	2	0	0		 			don@w9dc.com	w9dc.log	w9dc.rpt	533		0	0	0	0	138	50	0	0	0	138	50	0	0	
+NYQP	2025	W9QL		SOL-MIXED	IL	K	7257	7257	6513	95	0	2	3	0	0	5.0%	10.3	0.0%	1	0	0	0		 			dave@w9ql.com	w9ql.log	w9ql.rpt	197		0	0	0	0	95	39	0	23	9	72	30	0	0	
+NYQP	2025	W9SN		SOL-CW	TN	K	1960	1960	1960	49	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			Qtenna@gmail.com	w9sn.log	w9sn.rpt	61		0	0	0	0	49	20	0	0	0	49	20	0	0	
+NYQP	2025	W9TCV		SOL-SSB-P	NY	K	3500	3500	3500	100	0	0	0	0	0	0.0%	0.0	0.0%	5	3	1	0		 			erich.c.schwarz@gmail.com	w9tcv.log	w9tcv.rpt	224		0	0	0	0	100	19	16	100	19	0	0	0	0	ORA ROC
+NYQP	2025	WA0LIF		SOQ-CW	MN	K	4408	4408	4032	72	0	3	1	0	0	5.3%	8.5	0.0%	0	0	0	0		 			rlauhead@comcast.net	wa0lif.log	wa0lif.rpt	448		0	0	0	0	72	28	0	0	0	72	28	0	0	
+NYQP	2025	WA0MHJ		SOL-CW	MN	K	3660	3660	3600	60	0	0	1	0	0	1.6%	1.6	0.0%	2	0	0	0		 			mark@wa0mhj.com	wa0mhj.log	wa0mhj.rpt	92		0	0	0	0	60	30	0	0	0	60	30	0	0	
+NYQP	2025	WA1FMM		SOL-CW	CO	K	750	750	630	21	0	2	2	0	0	16.0%	16.0	0.0%	1	0	0	0		 			kk6cydan@gmail.com	wa1fmm.log	wa1fmm.rpt	91		0	0	0	0	21	15	0	0	0	21	15	0	0	
+NYQP	2025	WA2CHV		SOL-MIXED	NY	K	20216	20216	19836	216	0	2	1	0	0	1.4%	1.9	1.8%	1	5	0	0		 			WA2CHV@ARRL.net	wa2chv.log	wa2chv.rpt	478		0	0	0	0	216	47	29	171	32	45	15	0	0	CAT
+NYQP	2025	WA2CP		SOH-MIXED	NY	K	175112	175112	171465	1074	0	2	9	0	0	1.0%	2.1	6.6%	1	3	0	0		 			kc2gow@gmail.com	wa2cp.log	wa2cp.rpt	658		0	0	0	0	1074	53	52	515	28	559	25	0	0	RIC
+NYQP	2025	WA2DE		SOL-SSB-P	NY	K		17766	17174	277	0	0	5	0	0	1.8%	3.3	16.3%	0	1	0	0		 			kd2nop@gmail.com	wa2de.log	wa2de.rpt	221		0	0	0	0	277	21	41	277	21	0	0	0	0	KIN
+NYQP	2025	WA2DNI		SOH-SSB	NY	K	74196	73402	71550	675	0	9	2	0	0	1.6%	2.5	18.7%	2	2	0	0		 			dxer233@gmail.com	wa2dni.log	wa2dni.rpt	711		0	0	0	0	675	54	52	675	54	0	0	0	0	RIC
+NYQP	2025	WA2GOT		SOL-SSB-P	NY	K	46965	46872	46314	498	0	4	2	0	0	1.2%	1.2	9.1%	1	6	0	0		 			domenickfusca@gmail.com	wa2got.log	wa2got.rpt	454		0	0	0	0	498	51	42	498	51	0	0	0	0	COL DUT GRE ULS
+NYQP	2025	WA2JQK		SOH-MIXED	NY	K	41108	41624	38165	368	0	12	11	1	0	6.1%	8.3	4.3%	4	4	2	0		 			melhado41@gmail.com	wa2jqk.log	wa2jqk.rpt	620		0	0	0	0	368	50	35	287	31	81	19	0	0	DUT
+NYQP	2025	WA2LMC		SOL-MIXED	NC	K	12513	12427	11802	155	0	1	3	1	0	3.1%	5.0	1.3%	3	3	0	0		 			cliffconklin@gmail.com	wa2lmc.log	wa2lmc.rpt	229		0	0	0	0	155	42	0	29	5	126	37	0	0	
+NYQP	2025	WA2NYY		SOQ-MIXED	NY	K	43725	43575	43275	300	0	0	2	0	0	0.7%	0.7	1.3%	3	2	0	0		 			hopewell54@yahoo.com	wa2nyy.log	wa2nyy.rpt	570		0	0	0	0	300	40	35	23	5	277	35	0	0	DUT
+NYQP	2025	WA2QAU		SOL-MIXED	NY	K	133350	133350	131250	788	0	9	3	0	0	1.5%	1.6	3.4%	8	7	4	0		 			wa2qau@gmail.com	wa2qau.log	wa2qau.rpt	683		0	0	0	0	788	54	51	326	28	462	26	0	0	ORL
+NYQP	2025	WA3AFS		SOH-MIXED	NY	K	12152	12152	11220	164	0	7	2	0	0	5.2%	7.7	1.2%	3	1	0	0		 			wa3afs@arrl.net	wa3afs.log	wa3afs.rpt	497		0	0	0	0	164	45	15	141	40	23	5	0	0	ALB
+NYQP	2025	WA3INC		SOL-CW	NY	K	2552	2552	2408	43	0	0	1	0	0	2.3%	5.6	0.0%	0	2	0	0		 			WA3INC@arrl.net	wa3inc.log	wa3inc.rpt	180		0	0	0	0	43	27	1	0	0	43	27	0	0	SAR
+NYQP	2025	WA5SOG		SOL-MIXED	AR	K	17799	17799	17595	190	0	1	1	0	0	1.0%	1.1	0.0%	1	6	0	0		 			rburris3148@gmail.com	wa5sog.log	wa5sog.rpt	517		0	0	0	0	190	51	0	35	11	155	40	0	0	
+NYQP	2025	WA8OJR		SOL-CW	SC	K	2726	2726	2726	47	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			wa8ojr@arrl.net	wa8ojr.log	wa8ojr.rpt	86		0	0	0	0	47	29	0	0	0	47	29	0	0	
+NYQP	2025	WA8ZBT		SOL-MIXED	TX	K	14104	14104	13734	182	0	0	1	0	0	0.5%	2.6	0.0%	2	0	0	0		 			ddcobb2000@yahoo.com	wa8zbt.log	wa8zbt.rpt	563		0	0	0	0	182	42	0	37	7	145	35	0	0	
+NYQP	2025	WA9LEY		SOL-CW	IL	K	6072	6072	6072	92	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			lvsdx@yahoo.com	wa9ley.log	wa9ley.rpt	204		0	0	0	0	92	33	0	0	0	92	33	0	0	
+NYQP	2025	WA9YI		SOL-SSB	IN	K	2728	2738	2415	69	0	2	3	0	0	6.8%	11.8	0.0%	1	0	0	0		 			wa9yi@arrl.net	wa9yi.log	wa9yi.rpt	343		0	0	0	0	69	35	0	69	35	0	0	0	0	
+NYQP	2025	WB0CJB		SOL-CW	TN	K	6208	5952	5828	94	0	1	1	0	0	2.1%	2.1	0.0%	2	0	0	0		 			wb0cjb@hotmail.com	wb0cjb.log	wb0cjb.rpt	284		0	0	0	0	94	31	0	0	0	94	31	0	0	
+NYQP	2025	WB2AIV		SOL-MIXED	NY	K	4760	4862	4862	91	0	0	0	0	0	0.0%	0.0	0.0%	2	1	0	0		 			wb2aiv@arrl.net	wb2aiv.log	wb2aiv.rpt	421		0	0	0	0	91	30	4	39	15	52	15	0	0	ERI
+NYQP	2025	WB2AMN		SOL-MIXED	NY	K	108300	107613	103096	631	0	6	12	0	0	2.8%	4.2	2.8%	5	2	0	0		 			radiobob@ncpr.org	wb2amn.log	wb2amn.rpt	715		0	0	0	0	631	54	44	210	25	421	29	0	0	STL
+NYQP	2025	WB2FUE		SOL-CW	PA	K		1056	1056	24	0	0	0	0	0	0.0%	0.0	0.0%	1	4	0	0		 			pat-dave-86@verizon.net	wb2fue.log	wb2fue.rpt	83		0	0	0	0	24	22	0	0	0	24	22	0	0	
+NYQP	2025	WB2JLR		SOH-MIXED	NY	K	65302	65302	64066	578	0	5	3	0	0	1.4%	1.9	11.8%	1	1	0	0		 			rplace@rochester.rr.com	wb2jlr.log	wb2jlr.rpt	669		0	0	0	0	578	58	45	534	39	44	19	0	0	ONT
+NYQP	2025	WB2KLD		SOL-SSB	NY	K	5928	5928	5757	101	0	1	2	0	0	2.9%	2.9	1.9%	0	1	0	0		 			wb2kld@midtel.net	wb2kld.log	wb2kld.rpt	367		0	0	0	0	101	45	12	101	45	0	0	0	0	SCO
+NYQP	2025	WB2NVR		SOL-CW	NY	K	4480	4480	4424	79	0	1	0	0	0	1.3%	1.3	0.0%	1	0	0	0		 			wb2nvr@arrl.net	wb2nvr.log	wb2nvr.rpt	170		0	0	0	0	79	27	1	0	0	79	27	0	0	WES
+NYQP	2025	WB2PJH		SOL-CW	NJ	K	6216	6216	5976	83	0	0	1	0	0	1.2%	3.9	0.0%	1	0	0	0		 			WB2PJH@gmail.com	wb2pjh.log	wb2pjh.rpt	227		0	0	0	0	83	36	0	0	0	83	36	0	0	
+NYQP	2025	WB2SIH		SOL-MIXED	NY	K	41503	41503	41426	314	0	0	1	0	0	0.3%	0.2	1.9%	9	4	0	0		 			waf3153@aol.com	wb2sih.log	wb2sih.rpt	396		0	0	0	0	314	40	37	90	19	224	21	0	0	WAR
+NYQP	2025	WB2WPM		SOL-CW	NY	K	4410	4410	3498	53	0	6	4	0	0	15.9%	20.7	1.6%	1	2	0	0		 			wb2wpm@arrl.net	wb2wpm.log	wb2wpm.rpt	121		0	0	0	0	53	16	17	0	0	53	16	0	0	ERI
+NYQP	2025	WB4HRL		SOH-CW	SC	K	630	630	630	21	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			eovercash@charter.net	wb4hrl.log	wb4hrl.rpt	39		0	0	0	0	21	15	0	0	0	21	15	0	0	
+NYQP	2025	WB8ASI		CK	MI	K	0	48	48	8	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			herb.blue@comcast.net	wb8asi.log	wb8asi.rpt	28		0	0	0	0	8	3	0	0	0	8	3	0	0	
+NYQP	2025	WB9HFK		SOL-MIXED	IL	K	24584	24584	24472	239	0	0	1	0	0	0.4%	0.5	0.0%	2	0	0	0		 			wb9hfk@yahoo.com	wb9hfk.log	wb9hfk.rpt	647		0	0	0	0	239	56	0	41	5	198	51	0	0	
+NYQP	2025	WD0BRP		SOL-SSB	KS	K	456	456	437	23	0	1	0	0	0	4.2%	4.2	0.0%	0	1	0	0		 			jercon79@yahoo.com	wd0brp.log	wd0brp.rpt	103		0	0	0	0	23	19	0	23	19	0	0	0	0	
+NYQP	2025	WD8RYC		SOL-CW	TN	K	512	512	512	16	0	0	0	0	0	0.0%	0.0	0.0%	1	0	0	0		 			wd8ryc@gmail.com	wd8ryc.log	wd8ryc.rpt	40		0	0	0	0	16	16	0	0	0	16	16	0	0	
+NYQP	2025	WI2M		SOL-SSB-M	NY	K	6	9	9	3	0	0	0	0	0	0.0%	0.0	33.3%	0	0	0	0		 			kc2jrq@aol.com	wi2m.log	wi2m.rpt	0		0	0	0	0	3	1	2	3	1	0	0	0	0	NAS SUF
+NYQP	2025	WK2H		SOH-MIXED	NY	K	3648	3828	3520	55	0	1	2	0	0	5.2%	8.0	0.0%	2	3	0	0		 			guy.hoose@gmail.com	wk2h.log	wk2h.rpt	277		0	0	0	0	55	31	1	0	0	55	31	0	0	ESS
+NYQP	2025	WN6P		SOH-CW	CA	K	812	812	812	29	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ncx4kf6@gmail.com	wn6p.log	wn6p.rpt	74		0	0	0	0	29	14	0	0	0	29	14	0	0	
+NYQP	2025	WO4O		SOH-MIXED	FL	K	24360	24360	24192	254	0	1	2	0	0	1.2%	0.7	0.8%	1	1	0	0		 			wo4o.radio@gmail.com	wo4o.log	wo4o.rpt	544		0	0	0	0	254	56	0	76	19	178	37	0	0	
+NYQP	2025	WO9B		SOL-CW	WI	K	2750	2750	2750	55	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			mike@palomonet.com	wo9b.log	wo9b.rpt	145		0	0	0	0	55	25	0	0	0	55	25	0	0	
+NYQP	2025	WQ6X		SOL-CW	CA	K	2208	2208	2024	44	0	1	0	1	0	4.3%	8.3	0.0%	1	0	0	0		 			Ron@WQ6X.Info	wq6x.log	wq6x.rpt	75		0	0	0	0	44	23	0	0	0	44	23	0	0	
+NYQP	2025	WT0RJ		SOL-MIXED-P	CO	K	32	32	32	6	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			ham@trevorstone.org	wt0rj.log	wt0rj.rpt	14		0	0	0	0	6	4	0	4	2	2	2	0	0	
+NYQP	2025	WT2X		SOL-CW-M	NY	K	0	5852	5040	72	0	2	3	0	0	6.5%	13.9	19.5%	0	1	0	0		 			wt2x@icloud.com	wt2x.log	wt2x.rpt	155		0	0	0	0	72	3	32	0	0	72	3	0	0	CAT
+NYQP	2025	WW2J		SOL-CW	NY	K	7052	6880	6480	81	0	2	3	0	0	5.8%	5.8	0.0%	2	2	0	0		 			ww2j@arrl.net	ww2j.log	ww2j.rpt	310		0	0	0	0	81	38	2	0	0	81	38	0	0	MON
+NYQP	2025	WW2P		SOL-MIXED	NY	K	44424	44424	43992	383	0	1	3	0	0	1.0%	1.0	5.4%	1	4	0	0		 			tjp2512@gmail.com	ww2p.log	ww2p.rpt	542		0	0	0	0	383	26	46	155	4	228	22	0	0	ERI
+NYQP	2025	WW2Y		SOH-MIXED	NY	K	153488	154548	152216	892	0	9	3	0	0	1.3%	1.5	3.7%	18	4	0	0		 			pdhutter@yahoo.com	ww2y.log	ww2y.rpt	677		0	0	0	0	892	57	49	348	24	544	33	0	0	FRA
+NYQP	2025	WW5L		SOH-MIXED	LA	K	1575	1575	1500	36	0	0	2	0	0	5.3%	4.8	0.0%	1	0	0	0		 			ww5l@arrl.net	ww5l.log	ww5l.rpt	190		0	0	0	0	36	25	0	12	7	24	18	0	0	
+NYQP	2025	WY1H		SOL-SSB	NY	K	399	399	399	21	0	0	0	0	0	0.0%	0.0	0.0%	0	0	0	0		 			joe_saunders@comcast.net	wy1h.log	wy1h.rpt	58		0	0	0	0	21	14	5	21	14	0	0	0	0	PUT
+NYQP	2025	XE1AY		SOL-CW		XE	440	528	528	22	0	0	0	0	0	0.0%	0.0	0.0%	3	0	0	0		 			xe1avm@gmail.com	xe1ay.log	xe1ay.rpt	182		0	0	0	0	22	12	0	0	0	22	12	0	0	

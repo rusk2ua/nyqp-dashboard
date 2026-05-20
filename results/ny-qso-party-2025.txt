@@ -1,0 +1,31 @@
+LC by K1EA Software v2.0.039
+cli: no_mp = yes
+Title:        NEW YORK STATE QSO PARTY 2025
+Contest:      NY-QSO-PARTY-2025
+ContestType:  NYQP
+StartTime:    2025-10-18 1400
+EndTime:      2025-10-19 0200
+LateTime:     2025-11-02 0200
+Mode:         ALL
+QT Version:   6.3.1
+CPU Count:    4
+Compiled:     Thu Mar 21 18:18:27 2024 GMT
+LC Start:     Sat Mar 28 21:49:01 2026 GMT
+      513 Logs
+   78,373 QSOs
+    6,068 Different calls claimed
+    2,568 Uniques claimed
+        0 Uniques busted
+       75 Countries
+        1 Cabrillo format errors
+       76 ( 0.1%) cross band qso
+   64,777 (82.7%) qso with exact frequencies
+      725 ( 0.9%) dupes
+   59,281 (75.6%) qso checked against another log
+   57,777 (97.5%) qso checked good when checked against another log
+       53 ( 0.1%) busted exchange
+        0 ( 0.0%) missing exchange
+      662 ( 1.1%) busted calls
+      789 ( 1.3%) not in log
+8,937,505 Scores Total 
+
