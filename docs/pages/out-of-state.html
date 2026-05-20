@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Out-of-State Results - 2025 NYQP</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-brand">NYQP <span>2025</span></a>
+            <button class="nav-toggle" onclick="toggleNav()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html">Dashboard</a></li>
+                <li><a href="in-state.html">In-State</a></li>
+                <li><a href="out-of-state.html" class="active">Out-of-State</a></li>
+                <li><a href="dx.html">DX</a></li>
+                <li><a href="clubs.html">Clubs</a></li>
+                <li><a href="golden-logs.html">Golden Logs</a></li>
+                <li><a href="records.html">Records</a></li>
+                <li><a href="mobiles.html">Mobiles</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero" style="padding: 2rem;">
+        <h1>&#127757; Out-of-State Results</h1>
+        <p class="subtitle">US operators outside New York chasing NY counties</p>
+    </section>
+
+    <main class="container">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">~290</div>
+                <div class="stat-label">Out-of-State Logs</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">39,955</div>
+                <div class="stat-label">Top Score (N8II)</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-value">40+</div>
+                <div class="stat-label">States Represented</div>
+            </div>
+            <div class="stat-card red">
+                <div class="stat-value">MN</div>
+                <div class="stat-label">Most Active State</div>
+            </div>
+        </div>
+
+        <!-- Filter -->
+        <div class="filters">
+            <button class="filter-btn active" onclick="filterMode('all')">All Modes</button>
+            <button class="filter-btn" onclick="filterMode('cw')">CW</button>
+            <button class="filter-btn" onclick="filterMode('mixed')">Mixed</button>
+            <button class="filter-btn" onclick="filterMode('ssb')">SSB</button>
+            <input type="text" class="search-box" placeholder="Search call or state..." oninput="searchTable(this.value)">
+        </div>
+
+        <!-- Top Out-of-State -->
+        <section class="section">
+            <h2 class="section-title">Top Out-of-State Scores</h2>
+            <div class="card">
+                <div class="table-container">
+                    <table id="oosTable">
+                        <thead>
+                            <tr><th>#</th><th>Call</th><th>State</th><th>Score</th><th>QSOs</th><th>Category</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr data-mode="mixed"><td class="rank-1">1</td><td class="callsign">N8II</td><td>WV</td><td><strong>39,955</strong></td><td>411</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td class="rank-2">2</td><td class="callsign">N0HJZ</td><td>MN</td><td><strong>30,798</strong></td><td>323</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td class="rank-3">3</td><td class="callsign">NE8P</td><td>FL</td><td><strong>27,540</strong></td><td>255</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr data-mode="mixed"><td>4</td><td class="callsign">N5KW</td><td>OK</td><td><strong>25,950</strong></td><td>295</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>5</td><td class="callsign">K5CM</td><td>OK</td><td><strong>25,578</strong></td><td>297</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>6</td><td class="callsign">K9PW</td><td>IL</td><td><strong>24,976</strong></td><td>255</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>7</td><td class="callsign">WB9HFK</td><td>IL</td><td><strong>24,472</strong></td><td>239</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>8</td><td class="callsign">WO4O</td><td>FL</td><td><strong>24,192</strong></td><td>254</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td>9</td><td class="callsign">K9CW</td><td>IL</td><td><strong>23,826</strong></td><td>209</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr data-mode="mixed"><td>10</td><td class="callsign">KY7M</td><td>AZ</td><td><strong>22,148</strong></td><td>235</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>11</td><td class="callsign">W0ZQ</td><td>MN</td><td><strong>20,628</strong></td><td>213</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td>12</td><td class="callsign">KG9X</td><td>IL</td><td><strong>20,400</strong></td><td>200</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr data-mode="mixed"><td>13</td><td class="callsign">WA5SOG</td><td>AR</td><td><strong>17,595</strong></td><td>190</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>14</td><td class="callsign">K2YG</td><td>NJ</td><td><strong>16,900</strong></td><td>209</td><td><span class="badge badge-mixed">SOQ-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td>15</td><td class="callsign">K5QQ</td><td>MO</td><td><strong>16,896</strong></td><td>176</td><td><span class="badge badge-cw">SOL-CW</span></td></tr>
+                            <tr data-mode="mixed"><td>16</td><td class="callsign">W8PI</td><td>MI</td><td><strong>16,932</strong></td><td>189</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td>17</td><td class="callsign">W5TM</td><td>OK</td><td><strong>16,192</strong></td><td>184</td><td><span class="badge badge-cw">SOH-CW</span></td></tr>
+                            <tr data-mode="mixed"><td>18</td><td class="callsign">KW9A</td><td>IL</td><td><strong>15,550</strong></td><td>170</td><td><span class="badge badge-mixed">SOH-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td>19</td><td class="callsign">N5TJ</td><td>TX</td><td><strong>15,120</strong></td><td>168</td><td><span class="badge badge-cw">SOH-CW</span></td></tr>
+                            <tr data-mode="mixed"><td>20</td><td class="callsign">N1IBM</td><td>VT</td><td><strong>15,105</strong></td><td>187</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td>21</td><td class="callsign">K9NW</td><td>IN</td><td><strong>14,670</strong></td><td>163</td><td><span class="badge badge-cw">SOH-CW</span></td></tr>
+                            <tr data-mode="cw"><td>22</td><td class="callsign">K8MR</td><td>OH</td><td><strong>14,950</strong></td><td>179</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>23</td><td class="callsign">N3GJ</td><td>PA</td><td><strong>13,872</strong></td><td>172</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="mixed"><td>24</td><td class="callsign">WA8ZBT</td><td>TX</td><td><strong>13,734</strong></td><td>182</td><td><span class="badge badge-mixed">SOL-MIXED</span></td></tr>
+                            <tr data-mode="cw"><td>25</td><td class="callsign">KR4AE</td><td>GA</td><td><strong>12,672</strong></td><td>144</td><td><span class="badge badge-cw">SOQ-CW</span></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- State Participation Chart -->
+        <div class="chart-row">
+            <div class="card">
+                <div class="card-header">Top Participating States (by log count)</div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="stateChart"></canvas>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">Mode Preference - Out-of-State</div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="modeChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p><strong>2025 New York QSO Party</strong> | <a href="../index.html">Back to Dashboard</a></p>
+    </footer>
+
+    <script>
+        function toggleNav() { document.getElementById('navLinks').classList.toggle('show'); }
+
+        function filterMode(mode) {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+            document.querySelectorAll('#oosTable tbody tr').forEach(row => {
+                row.style.display = (mode === 'all' || row.dataset.mode === mode) ? '' : 'none';
+            });
+        }
+
+        function searchTable(val) {
+            document.querySelectorAll('#oosTable tbody tr').forEach(row => {
+                const text = row.textContent.toLowerCase();
+                row.style.display = text.includes(val.toLowerCase()) ? '' : 'none';
+            });
+        }
+
+        // State Chart
+        new Chart(document.getElementById('stateChart'), {
+            type: 'bar',
+            data: {
+                labels: ['MN', 'IL', 'FL', 'PA', 'OH', 'TX', 'VA', 'NJ', 'NC', 'TN', 'GA', 'OK', 'MA', 'SC', 'CO'],
+                datasets: [{
+                    label: 'Logs',
+                    data: [28, 22, 18, 16, 14, 14, 13, 10, 9, 12, 8, 7, 9, 7, 8],
+                    backgroundColor: '#d69e2e',
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: { beginAtZero: true, grid: { color: '#e2e8f0' } },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+
+        // Mode Chart
+        new Chart(document.getElementById('modeChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['CW Only', 'Mixed', 'SSB Only'],
+                datasets: [{
+                    data: [110, 120, 60],
+                    backgroundColor: ['#3182ce', '#805ad5', '#38a169'],
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { position: 'bottom' } }
+            }
+        });
+    </script>
+</body>
+</html>

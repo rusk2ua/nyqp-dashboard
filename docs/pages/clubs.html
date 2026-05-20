@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Club Results - 2025 NYQP</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-brand">NYQP <span>2025</span></a>
+            <button class="nav-toggle" onclick="toggleNav()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html">Dashboard</a></li>
+                <li><a href="in-state.html">In-State</a></li>
+                <li><a href="out-of-state.html">Out-of-State</a></li>
+                <li><a href="dx.html">DX</a></li>
+                <li><a href="clubs.html" class="active">Clubs</a></li>
+                <li><a href="golden-logs.html">Golden Logs</a></li>
+                <li><a href="records.html">Records</a></li>
+                <li><a href="mobiles.html">Mobiles</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero" style="padding: 2rem;">
+        <h1>&#127942; Club Results</h1>
+        <p class="subtitle">Club competition entries in the 2025 NYQP</p>
+    </section>
+
+    <main class="container">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">7</div>
+                <div class="stat-label">Club Entries</div>
+            </div>
+            <div class="stat-card gold">
+                <div class="stat-value">1,872</div>
+                <div class="stat-label">Top Club Score</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-value">KA2MGE</div>
+                <div class="stat-label">Winning Club Call</div>
+            </div>
+        </div>
+
+        <section class="section">
+            <h2 class="section-title">Club Competition Standings</h2>
+            <div class="card">
+                <p style="color: var(--text-light); margin-bottom: 1.5rem;">
+                    Club entries (CK category) represent club stations or special event operations.
+                    These entries promote ham radio clubs and community engagement with the NYQP.
+                </p>
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr><th>#</th><th>Callsign</th><th>Location</th><th>Score</th><th>QSOs</th><th>Error Rate</th><th>Notes</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="rank-1">1</td>
+                                <td class="callsign">KA2MGE</td>
+                                <td>NY</td>
+                                <td><strong>1,872</strong></td>
+                                <td>39</td>
+                                <td>0.0%</td>
+                                <td><span class="badge badge-gold">Perfect Log</span></td>
+                            </tr>
+                            <tr>
+                                <td class="rank-2">2</td>
+                                <td class="callsign">W2AN</td>
+                                <td>NY</td>
+                                <td><strong>598</strong></td>
+                                <td>26</td>
+                                <td>3.7%</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td class="rank-3">3</td>
+                                <td class="callsign">F4EUG</td>
+                                <td>France</td>
+                                <td><strong>153</strong></td>
+                                <td>11</td>
+                                <td>19.5%</td>
+                                <td><span class="badge badge-dx">DX Club</span></td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td class="callsign">WB8ASI</td>
+                                <td>MI</td>
+                                <td><strong>48</strong></td>
+                                <td>8</td>
+                                <td>0.0%</td>
+                                <td><span class="badge badge-gold">Perfect Log</span></td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td class="callsign">NV1Y</td>
+                                <td>VT</td>
+                                <td><strong>30</strong></td>
+                                <td>6</td>
+                                <td>28.6%</td>
+                                <td><span class="badge badge-ssb">BSA JOTA</span></td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td class="callsign">VA2NW</td>
+                                <td>QC, Canada</td>
+                                <td><strong>2</strong></td>
+                                <td>1</td>
+                                <td>0.0%</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td class="callsign">AB5XM</td>
+                                <td>TX</td>
+                                <td><strong>2</strong></td>
+                                <td>1</td>
+                                <td>0.0%</td>
+                                <td>Sponsor entry</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Highlight: BSA JOTA -->
+        <section class="section">
+            <h2 class="section-title">Special Activities</h2>
+            <div class="golden-highlight">
+                <div class="call">NV1Y - Boy Scouts JOTA (Jamboree On The Air)</div>
+                <p style="margin-top: 0.5rem; color: #92400e;">
+                    NV1Y operated as part of the worldwide Boy Scouts of America Jamboree On The Air,
+                    introducing young scouts to amateur radio through participation in the NYQP.
+                    A fantastic example of how contest activity can engage the next generation!
+                </p>
+            </div>
+            <div class="card" style="margin-top: 1rem;">
+                <div class="card-header">Growing Club Participation</div>
+                <p style="color: var(--text-light);">
+                    The club category welcomes all amateur radio clubs to enter the NYQP.
+                    Whether you're a large contest club or a small local group, this is a great
+                    opportunity to activate your club callsign, build camaraderie, and introduce
+                    new members to contesting. Consider entering your club in the 2026 NYQP!
+                </p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p><strong>2025 New York QSO Party</strong> | <a href="../index.html">Back to Dashboard</a></p>
+    </footer>
+
+    <script>
+        function toggleNav() { document.getElementById('navLinks').classList.toggle('show'); }
+    </script>
+</body>
+</html>
