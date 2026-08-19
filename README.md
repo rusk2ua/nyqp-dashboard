@@ -67,7 +67,7 @@ No server-side processing, no build tools, no `npm install` required.
 
 ## Data Sources
 
-The dashboard was built from the official log-checking output files in the `/results` directory:
+Raw log-checking output files are maintained in a private companion repository. The docs/js/data.js file contains the processed data used by this dashboard.
 
 - `ny-qso-party-2025.txt` — Contest summary statistics
 - `ny-qso-party-2025.line_scores.txt` — Per-station scores and categories
